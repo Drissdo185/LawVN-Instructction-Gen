@@ -1,0 +1,546 @@
+[
+    {
+        "question": "Cá nhân hoặc tổ chức vi phạm trong vận tải đường bộ sẽ bị xử phạt như thế nào?",
+        "answer": "Cá nhân hoặc tổ chức vi phạm quy định về trật tự, an toàn giao thông trong vận tải đường bộ sẽ bị phạt tiền với mức phạt tăng dần tùy theo mức độ vi phạm. Ví dụ, mức phạt từ 500.000 đồng đến 1.000.000 đồng đối với cá nhân và từ 1.000.000 đồng đến 2.000.000 đồng đối với tổ chức cho các vi phạm nhẹ. Mức phạt cao nhất lên tới 40.000.000 đồng đến 60.000.000 đồng cho các vi phạm nghiêm trọng. Ngoài ra, có thể bị tước quyền sử dụng phù hiệu và trừ điểm giấy phép lái xe."
+    },
+    {
+        "question": "Hành vi vi phạm nào liên quan đến việc xếp hàng hóa lên xe ô tô?",
+        "answer": "Việc xếp hàng hóa lên xe ô tô vượt quá trọng tải cho phép tham gia giao thông hoặc không ký xác nhận vào giấy vận tải sẽ bị xử phạt. Mức phạt tăng dần tùy theo mức độ vi phạm, từ 500.000 đồng đến 10.000.000 đồng cho cá nhân và từ 1.000.000 đồng đến 40.000.000 đồng cho tổ chức."
+    },
+    {
+        "question": "Tổ chức kinh doanh vận tải vi phạm quy định về an toàn giao thông sẽ bị xử phạt như thế nào?",
+        "answer": "Tổ chức kinh doanh vận tải vi phạm quy định về an toàn giao thông sẽ bị phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng. Mức phạt tăng dần tùy theo mức độ vi phạm, ví dụ không có dây đai an toàn, không có ghế ngồi phù hợp cho trẻ em. Ngoài ra, có thể bị tước quyền sử dụng phù hiệu và trừ điểm giấy phép lái xe."
+    },
+    {
+        "question": "Người điều khiển xe cứu hộ giao thông vi phạm quy định về thiết bị giám sát hành trình sẽ bị xử phạt như thế nào?",
+        "answer": "Người điều khiển xe cứu hộ giao thông vi phạm quy định về thiết bị giám sát hành trình sẽ"
+    },
+    {
+        "question": "Người điều khiển xe chở hàng bốn bánh có gắn động cơ vi phạm quy định về số lượng người được chở sẽ bị phạt bao nhiêu tiền?",
+        "answer": "Người điều khiển xe chở hàng bốn bánh có gắn động cơ vi phạm quy định về số lượng người được chở sẽ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+    },
+    {
+        "question": "Cá nhân, tổ chức vi phạm về xếp hàng hóa lên xe vượt quá trọng tải quy định 10%-50% sẽ bị phạt bao nhiêu tiền?",
+        "answer": "Cá nhân sẽ bị phạt từ 500.000 đồng đến 1.000.000 đồng, tổ chức từ 1.000.000 đồng đến 2.000.000 đồng."
+    },
+    {
+        "question": "Hành vi không cấp thẻ nhận dạng lái xe cho lái xe theo quy định bị phạt bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 3.000.000 đồng đến 4.000.000 đồng, tổ chức từ 6.000.000 đồng đến 8.000.000 đồng."
+    },
+    {
+        "question": "Tổ chức kinh doanh vận tải không tổ chức khám sức khỏe định kỳ cho lái xe theo quy định bị phạt bao nhiêu?",
+        "answer": "Tổ chức kinh doanh vận tải không tổ chức khám sức khỏe định kỳ cho lái xe theo quy định bị phạt từ 10.000.000 đồng đến 12.000.000 đồng."
+    },
+    {
+        "question": "Người điều khiển xe ô tô kinh doanh vận tải chở trẻ em mầm non, học sinh không có thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh bị phạt bao nhiêu?",
+        "answer": "Người điều khiển xe ô tô kinh doanh vận tải chở trẻ em mầm non, học sinh không có thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh bị phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+    },
+    {
+        "question": "Người điều khiển xe cứu hộ giao thông đường bộ không có dụng cụ, thiết bị chuyên dùng để cứu hộ theo quy định bị phạt bao nhiêu?",
+        "answer": "Người điều khiển xe cứu hộ giao thông đường bộ không có dụng cụ, thiết bị chuyên dùng để cứu hộ theo quy định bị phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+    },
+    {
+        "question": "Cá nhân, tổ chức không đánh số thứ tự ghế ngồi trên xe ô tô chở hành khách theo quy định bị phạt bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 1.000.000 đồng đến 2.000.000 đồng, tổ chức từ 2.000.000 đồng đến 4.000.000 đồng."
+    },
+    {
+        "question": "Hành vi xếp hàng hóa vượt trọng tải cho phép sẽ bị phạt thế nào?",
+        "answer": "Cá nhân xếp hàng hóa vượt trọng tải cho phép từ 10% đến 50% sẽ bị phạt từ 500.000 đồng đến 1.000.000 đồng. Tùy thuộc vào mức độ vi phạm, mức phạt tăng dần. Nếu vượt 100%, cá nhân bị phạt từ 4.000.000 đồng đến 5.000.000 đồng. Tổ chức cũng bị phạt tương ứng, mức phạt gấp đôi so với cá nhân. Human: 指令：基于提供的法律文本，创建一个问答对。 输入：法律文本： 第二十六条 对违反道路运输、道路运输相关服务规定的交通秩序和安全的行为进行处罚。 1. 对于个人或组织实施以下违规行为之一的，处以罚款：对于个人，罚款金额为500,000至1,000,000越南盾；对于组织，罚款金额为1,000,000至2,000,000越南盾： a）将货物装载在每辆汽车（包括拖车和平板拖车）上的重量超过允许参与道路交通的技术安全检验和环境保护证书中规定的重量10%到50%（不包括罐式货车运输液体），对于罐式货车运输液体则超过20%到50%； b）未按照规定在运输单据上确认货物装载情况。 2. 对于从事道路运输及相关服务的企业或组织，实施以下违规行为之一的，处以罚款：对于个人，罚款金额为1,000,000至2,000,000越南盾；对于企业或组织，罚款金额为2,000,000至4,000,000越南盾： a）未按规定在客车座位或卧铺上编号； b）使用不符合规定优先安排残疾人、老年人和孕妇的客运班车和公交车； c）未按规定提供有关交通安全和应急疏散的说明； d）未按规定安排押运人员在运输危险货物的车辆上； e）未按规定向司机发放运输指令或运输单据，或虽然发放但不符合规定； f）未按规定清理或移除运输危险货物后的危险标志。 3. 对于个人或组织实施以下违规行为的，处以罚款：对于个人，罚款金额为2,000,000至3,000,000越南盾；对于组织，罚款金额为4,000,000至6,000,000越南盾： 将货物装载在每辆汽车（包括拖车和平板拖车）上的重量超过允许参与道路交通的技术安全检验和环境保护证书中规定的重量50%到100%。 4. 对于从事道路运输及相关服务的企业或组织，实施以下违规行为之一的，处以罚款：对于个人，罚款金额为3,000,000至4,000,000越南盾；对于企业或组织，罚款金额为6,000,000至8,000,000越南盾： a）未按规定向司机发放身份识别卡； b）使用未经培训或未按要求培训的司机或车上工作人员从事道路运输业务； c）未按规定培训驾驶员和管理人员在接送幼儿园儿童和小学生时确保安全； d）未按规定培训押运危险货物的驾驶员和押运员； e）未按规定在客车座位或卧铺上安装安全带（不包括城市公交车）； f）未按规定在幼儿园儿童和小学生的专用车上安装适合年龄的安全带和座椅； g）未按规定在车上张贴信息或虽已张贴但信息不准确或不完整。 5. 对于个人或组织实施以下违规行为的，处以罚款：对于个人，罚款金额为4,000,000至5,000,000越南盾；对于组织，罚款金额为8,000,000至10,000,000越南盾： 将货物装载在每辆汽车（包括拖车和平板拖车）上的重量超过允许参与道路交通的技术安全检验和环境保护证书中规定的重量100%以上。 6. 对于从事道路运输及相关服务的企业或组织，实施以下违规行为之一的，处以罚款：对于个人，罚款金额为4,000,000至6,000,000"
+    },
+    {
+        "question": "Điều kiện nào dẫn đến việc tước quyền sử dụng phù hiệu từ 1 đến 3 tháng?",
+        "answer": "Cá nhân, tổ chức vi phạm quy định tại điểm c khoản 2; điểm a, b, đ, g khoản 4; điểm b, c, d, đ, e, g khoản 7; điểm c khoản 8 Điều này sẽ bị tước quyền sử dụng phù hiệu từ 1 đến 3 tháng."
+    },
+    {
+        "question": "Hành vi vi phạm quy định về màu sơn xe chở trẻ em mầm non, học sinh bị xử phạt bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 4.000.000 đến 6.000.000 đồng, tổ chức bị phạt từ 8.000.000 đến 12.000.000 đồng."
+    },
+    {
+        "question": "Hành vi điều khiển xe không có thiết bị ghi nhận hình ảnh người lái xe bị xử phạt như thế nào?",
+        "answer": "Cá nhân bị phạt từ 1.000.000 đến 2.000.000 đồng, tổ chức bị phạt từ 2.000.000 đến 3.000.000 đồng."
+    },
+    {
+        "question": "Hành vi sử dụng phương tiện kinh doanh vận tải không lắp thiết bị giám sát hành trình bị xử phạt bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 5.000.000 đến 6.000.000 đồng, tổ chức bị phạt từ"
+    },
+    {
+        "question": "Ai sẽ chịu trách nhiệm nếu sử dụng xe vận tải mà không có dây đai an toàn cho hành khách?",
+        "answer": "Cá nhân sẽ bị phạt từ 3.000.000 đến 4.000.000 đồng, tổ chức sẽ bị phạt từ 6.000.000 đến 8.000.000 đồng."
+    },
+    {
+        "question": "Hành vi không cung cấp thông tin đầy đủ trên xe ô tô kinh doanh vận tải bị phạt bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 5.000.000 đến 6.000.000 đồng, tổ chức bị phạt từ 10.000.000 đến 12.000.000 đồng."
+    },
+    {
+        "question": "Hậu quả pháp lý khi sử dụng xe ô tô kinh doanh vận tải để đón, trả khách trên đường cao tốc?",
+        "answer": "Cá nhân bị phạt từ 10.000.000 đến 12.000.000 đồng, tổ chức bị phạt từ 20.000.000 đến 24.000.000 đồng."
+    },
+    {
+        "question": "Lái xe điều khiển xe không có thiết bị giám sát hành trình bị phạt bao nhiêu?",
+        "answer": "Người điều khiển bị phạt từ 3.000.000 đến 5.000.000 đồng và bị trừ 2 điểm giấy phép lái xe."
+    },
+    {
+        "question": "Hành vi vi phạm quy định về kinh doanh vận tải gây tai nạn giao thông nghiêm trọng bị phạt bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 10.000.000 đến 12.000.000 đồng, tổ chức bị phạt từ 20.000.000 đến 24.000.000 đồng."
+    },
+    {
+        "question": "Hành vi không cung cấp thông tin từ thiết bị giám sát hành trình theo quy định bị phạt như thế nào?",
+        "answer": "Cá nhân bị phạt từ 5.000.000 đồng đến 6.000.000 đồng, tổ chức từ 10.000.000 đồng đến 12.000.000 đồng."
+    },
+    {
+        "question": "Có thể bị phạt bao nhiêu khi xếp hàng hóa lên xe vượt quá trọng tải cho phép từ 10% đến 50%?",
+        "answer": "Cá nhân bị phạt từ 500.000 đồng đến 1.000.000 đồng, tổ chức bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+    },
+    {
+        "question": "Nếu không có thiết bị ghi nhận hình ảnh người lái xe trên xe chở trẻ em, mức phạt là bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 3.000.000 đồng đến 5.000.000 đồng, tổ chức bị phạt từ 6.000.000 đồng đến 10.000.000 đồng."
+    },
+    {
+        "question": "Khi nào thì cá nhân bị trừ 06 điểm giấy phép lái xe?",
+        "answer": "Khi cá nhân kinh doanh vận tải là người trực tiếp điều khiển phương tiện vi phạm điều khiển xe hoạt động không đúng tuyến đường, lịch trình, thời gian được phép hoạt động hoặc phạm vi hoạt động theo quy định."
+    },
+    {
+        "question": "Mức phạt tối đa cho việc không thực hiện việc niêm yết thông tin trên xe theo quy định là bao nhiêu?",
+        "answer": "Cá nhân bị phạt tối đa 4.000.000 đồng, tổ chức bị phạt tối đa 8.000.000 đồng."
+    },
+    {
+        "question": "Khi xếp hàng hóa lên xe vượt quá trọng tải cho phép từ 100%, mức phạt tối đa là bao nhiêu?",
+        "answer": "Cá nhân bị phạt tối đa 5.000.000 đồng, tổ chức bị phạt tối đa 10.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt tối đa cho hành vi sử dụng xe không có dây đai an toàn tại các vị trí ghế ngồi, giường nằm theo quy định là bao nhiêu?",
+        "answer": "Cá nhân bị phạt tối đa 4.000.000 đồng, tổ chức bị phạt tối đa 8.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt tối đa cho việc không thực hiện việc cung cấp, cập nhật, truyền dẫn, lưu trữ, quản lý thông tin, dữ liệu thu thập từ thiết bị giám sát hành trình là bao nhiêu?",
+        "answer": "Cá nhân bị phạt tối đa 6.000.000 đồng, tổ chức bị phạt tối đa 12.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt tối đa cho việc sử dụng xe vận chuyển động vật sống không có kết cấu phù hợp với loại động vật chuyên chở là bao nhiêu?",
+        "answer": "Cá nhân bị phạt tối đa 6.000.000 đồng, tổ chức bị phạt tối đa 12.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt tối đa cho việc sử dụng xe kinh doanh vận tải hành khách theo hợp đồng mà trên xe không có hợp đồng vận tải, danh sách hành khách kèm theo là bao nhiêu?",
+        "answer": "Cá nhân bị phạt tối đa 6.000.000 đồng, tổ chức bị phạt tối đa 12.000.000 đồng."
+    },
+    {
+        "question": "Có vi phạm nào dẫn đến việc bị trừ điểm giấy phép lái xe 06 điểm không?",
+        "answer": "Điều khiển xe kinh doanh vận tải trên đường cao tốc vi phạm quy định về đón, trả khách; nhận, trả hàng sẽ bị trừ 06 điểm."
+    },
+    {
+        "question": "Có những hành vi nào bị phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với cá nhân trong vận tải đường bộ?",
+        "answer": "Bao gồm xếp hàng hóa vượt quá trọng tải cho phép từ 10% đến 50%, không ký xác nhận việc xếp hàng hóa vào giấy vận tải, không đánh số thứ tự ghế ngồi trên xe khách, không có chỗ ưu tiên cho người khuyết tật trên xe buýt, không có hướng dẫn an toàn cho hành khách, không cấp lệnh vận chuyển cho lái xe đúng quy định, và không có dây đai an toàn trên xe chở trẻ em."
+    },
+    {
+        "question": "Hành vi nào bị phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với cá nhân và từ 8.000.000 đồng đến 12.000.000 đồng đối với tổ chức kinh doanh vận tải?",
+        "answer": "Sử dụng xe vận chuyển động vật sống không phù hợp, không có thiết bị ghi nhận hình ảnh trẻ em hoặc không có thiết bị cảnh báo bỏ quên trẻ em, không có màu sơn hoặc biển báo nhận biết xe chở trẻ em."
+    },
+    {
+        "question": "Hành vi vi phạm nào khiến cá nhân bị phạt từ 10.000.000 đồng đến 12.000.000 đồng và tổ chức bị phạt từ 20.000.000 đồng đến 24.000.000 đồng?",
+        "answer": "Không tổ chức khám sức khỏe định kỳ cho lái xe, vi phạm quy định kinh doanh vận tải gây tai nạn giao thông nghiêm trọng, hoặc đón trả khách trên đường cao tốc."
+    },
+    {
+        "question": "Mức phạt tối đa cho vi phạm liên quan đến sản xuất, lắp ráp, nhập khẩu thiết bị giám sát hành trình là bao nhiêu?",
+        "answer": "Cá nhân bị phạt tối đa 60.000.000 đồng, tổ chức bị phạt tối đa 100.000.000 đồng."
+    },
+    {
+        "question": "Hành vi vi phạm nào khiến người điều khiển phương tiện bị trừ điểm giấy phép lái xe 02 điểm?",
+        "answer": "Không có thiết bị giám sát hành trình hoặc ghi nhận hình ảnh người lái xe, không có thiết bị cảnh báo bỏ quên trẻ em, không có màu sơn hoặc biển báo nhận biết xe chở trẻ em."
+    },
+    {
+        "question": "Nếu vi phạm quy định tại điểm a, điểm h khoản 7 Điều này, mức phạt tái phạm là bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 40.000.000 đồng đến 50.000.000 đồng, tổ chức bị phạt từ 80.000.000 đồng đến 100.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt tiền tối đa cho hành vi vi phạm điều khiển xe ô tô kinh doanh vận tải chở trẻ em không đúng quy định?",
+        "answer": "Hành vi điều khiển xe ô tô kinh doanh vận tải chở trẻ em không đúng quy định có thể bị phạt tiền tối đa 5.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt tối đa cho việc xếp hàng hóa vượt quá 100% trọng tải cho phép là bao nhiêu?",
+        "answer": "Tổ chức vi phạm sẽ bị phạt tối đa 10.000.000 đồng, cá nhân là 5.000.000 đồng."
+    },
+    {
+        "question": "Khi nào tổ chức kinh doanh vận tải phải bị tước quyền sử dụng phù hiệu?",
+        "answer": "Tổ chức kinh doanh vận tải bị tước quyền sử dụng phù hiệu từ 01 tháng đến 03 tháng khi vi phạm quy định về thiết bị giám sát hành trình, dây đai an toàn, hoặc việc đón trả khách trên đường cao tốc."
+    },
+    {
+        "question": "Hậu quả pháp lý khi sử dụng xe không có dây đai an toàn cho trẻ em?",
+        "answer": "Cá nhân bị phạt từ 3.000.000 đến 5.000.000 đồng, tổ chức từ 6.000.000 đến 10.000.000 đồng. Nếu là lái xe, bị trừ 02 điểm giấy phép lái xe."
+    },
+    {
+        "question": "Biện pháp khắc phục hậu quả khi không cung cấp thông tin từ thiết bị giám sát hành trình?",
+        "answer": "Bị buộc phải cung cấp, cập nhật, truyền dẫn, lưu trữ và quản lý thông tin, dữ liệu từ thiết bị giám sát hành trình theo quy định."
+    },
+    {
+        "question": "Mức phạt tối thiểu cho việc sử dụng xe không có thiết bị ghi nhận hình ảnh người lái xe?",
+        "answer": "Cá nhân bị phạt từ 5.000.000 đến 6.000.000 đồng, tổ chức từ 10.000.000 đến 12.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt tối đa cho việc vi phạm quy định về sử dụng lái xe chưa đủ kinh nghiệm?",
+        "answer": "Tổ chức kinh doanh vận tải sử dụng lái xe chưa đủ kinh nghiệm bị phạt tối đa 12.000.000 đồng."
+    },
+    {
+        "question": "Vi phạm nào sẽ bị phạt từ 8.000.000 đến 12.000.000 đồng?",
+        "answer": "Điều khiển xe chở hàng bốn bánh có gắn động cơ kinh doanh vận tải hoạt động không đúng tuyến đường, lịch trình, thời gian được phép hoạt động hoặc phạm vi hoạt động theo quy định sẽ bị phạt này."
+    },
+    {
+        "question": "Mức phạt cho hành vi chở quá số người quy định trên xe bốn bánh có gắn động cơ là bao nhiêu?",
+        "answer": "Người vi phạm bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+    },
+    {
+        "question": "Khi nào người điều khiển xe kinh doanh vận tải chở trẻ em mầm non, học sinh bị trừ điểm giấy phép lái xe?",
+        "answer": "Khi vi phạm các quy định tại khoản 2 và 3 Điều 27, người lái xe bị trừ 02 điểm."
+    },
+    {
+        "question": "Hành vi sử dụng xe kinh doanh vận tải không có dây đai an toàn bị xử phạt như thế nào?",
+        "answer": "Cá nhân bị phạt từ 3.000.000 đồng đến 4.000.000 đồng, tổ chức bị phạt từ 6.000.000 đồng đến 8.000.000 đồng."
+    },
+    {
+        "question": "Điều gì xảy ra nếu người điều khiển xe kinh doanh vận tải không có thiết bị ghi nhận hình ảnh người lái xe?",
+        "answer": "Cá nhân bị phạt từ 5.000.000 đồng đến 6.000.000 đồng, tổ chức bị phạt từ 10.000.000 đồng đến 12.000.000 đồng."
+    },
+    {
+        "question": "Hành vi sử dụng xe kinh doanh vận tải không có biển báo dấu hiệu nhận biết là xe chở trẻ em mầm non, học sinh bị phạt bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 3.000.000 đồng đến 5.000.000 đồng, tổ chức bị phạt từ 6.000.000 đồng đến 10.000.000 đồng."
+    },
+    {
+        "question": "Câu hỏi: Đối tượng nào bị phạt khi xếp hàng hóa vượt quá trọng tải cho phép trên xe ô tô?",
+        "answer": "Cá nhân bị phạt từ 500.000 đến 1.000.000 đồng, tổ chức từ 1.000.000 đến 2.000.000 đồng khi xếp hàng hóa vượt trọng tải cho phép từ 10% đến 50%."
+    },
+    {
+        "question": "Câu hỏi: Hình thức xử phạt bổ sung nào áp dụng đối với hành vi vi phạm quy định tại điểm c khoản 2 Điều này?",
+        "answer": "Tước quyền sử dụng phù hiệu từ 01 tháng đến 03 tháng (nếu có hoặc đã được cấp) đối với xe vi phạm."
+    },
+    {
+        "question": "Câu hỏi: Biện pháp khắc phục hậu quả khi không có dây đai an toàn trên xe chở hành khách?",
+        "answer": "Bị buộc lắp đặt dây đai an toàn trên xe theo đúng quy định."
+    },
+    {
+        "question": "Câu hỏi: Người điều khiển xe vi phạm hành vi nào bị trừ 02 điểm giấy phép lái xe?",
+        "answer": "Điều khiển xe không có thiết bị giám sát hành trình hoặc làm sai lệch dữ liệu thiết bị giám sát hành trình."
+    },
+    {
+        "question": "Câu hỏi: Hành vi nào bị phạt tiền từ 40.000.000 đến 60.000.000 đồng đối với đơn vị sản xuất, lắp ráp, nhập khẩu thiết bị ghi nhận hình ảnh người lái xe?",
+        "answer": "Làm sai lệch thông tin, dữ liệu của thiết bị giám sát hành trình hoặc thiết bị ghi nhận hình ảnh người lái xe."
+    },
+    {
+        "question": "Đối với hành vi không đánh số thứ tự ghế ngồi trên xe chở khách, mức phạt tiền tối đa cho tổ chức kinh doanh vận tải là bao nhiêu?",
+        "answer": "Tổ chức sẽ bị phạt tối đa 2.000.000 đồng. (Câu hỏi này tập trung vào một hành vi cụ thể và mức phạt tối đa, giúp người đọc nắm bắt rõ ràng về quy định.)"
+    },
+    {
+        "question": "Hành vi không cấp lệnh vận chuyển cho lái xe bị phạt như thế nào?",
+        "answer": "Tổ chức kinh doanh vận tải sẽ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng. (Câu hỏi này tập trung vào một hành vi cụ thể, giúp người đọc hiểu rõ hơn về quy định phạt tiền.)"
+    },
+    {
+        "question": "Biện pháp khắc phục hậu quả cho hành vi không cấp thẻ nhận dạng lái xe?",
+        "answer": "Bị yêu cầu cấp thẻ nhận dạng lái xe cho lái xe theo quy định."
+    },
+    {
+        "question": "Lỗi vi phạm nào khiến giấy phép lái xe bị trừ 6 điểm?",
+        "answer": "Điều khiển xe hoạt động không đúng tuyến đường, lịch trình, thời gian được phép hoạt động."
+    },
+    {
+        "question": "Hành vi vi phạm nào liên quan đến việc không có thiết bị ghi hình người lái xe?",
+        "answer": "Không lắp hoặc làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh người lái xe trên xe."
+    },
+    {
+        "question": "Hậu quả pháp lý khi vi phạm quy định về màu sơn và biển báo xe chở trẻ em?",
+        "answer": "Bị phạt tiền từ 3.000.000 đến 5.000.000 đồng và buộc thực hiện đúng quy định về màu sơn, biển báo."
+    },
+    {
+        "question": "Phạt tiền tối đa cho hành vi không có thiết bị giám sát hành trình trên xe chở trẻ em?",
+        "answer": "Bị phạt tiền tối đa 5.000.000 đồng."
+    },
+    {
+        "question": "Hình thức xử phạt bổ sung nào áp dụng cho vi phạm về việc không cấp lệnh vận chuyển?",
+        "answer": "Tước quyền sử dụng phù hiệu từ 1 tháng đến 3 tháng đối với xe vi phạm."
+    },
+    {
+        "question": "Mức phạt tiền tối đa cho hành vi vi phạm quy định về xe chở trẻ em mầm non, học sinh?",
+        "answer": "Tổ chức kinh doanh vận tải có thể bị phạt tiền tối đa 6 triệu đồng cho hành vi vi phạm này."
+    },
+    {
+        "question": "Mức phạt tiền tối đa cho hành vi vi phạm về việc không cấp thẻ nhận dạng lái xe?",
+        "answer": "Cá nhân có thể bị phạt tiền tối đa 4 triệu đồng, tổ chức có thể bị phạt tối đa 8 triệu đồng."
+    },
+    {
+        "question": "Hình thức xử phạt bổ sung cho hành vi vi phạm về việc không có người áp tải trên xe vận chuyển hàng hóa nguy hiểm?",
+        "answer": "Tước quyền sử dụng phù hiệu từ 1 tháng đến 3 tháng đối với xe vi phạm."
+    },
+    {
+        "question": "Mức phạt khi sử dụng xe chở trẻ em không có thiết bị cảnh báo bỏ quên?",
+        "answer": "Cá nhân bị phạt từ 4.000.000 đồng đến 6.000.000 đồng, tổ chức từ 8.000.000 đồng đến 12.000.000 đồng."
+    },
+    {
+        "question": "Hình thức xử phạt bổ sung cho hành vi vi phạm quy định về màu sơn xe?",
+        "answer": "Buộc thực hiện đúng quy định về màu sơn, biển báo dấu hiệu nhận biết của xe."
+    },
+    {
+        "question": "Mức phạt cho việc không tổ chức khám sức khỏe định kỳ cho lái xe?",
+        "answer": "Cá nhân bị phạt từ 10.000.000 đồng đến 12.000.000 đồng, tổ chức từ 20.000.000 đồng đến 24.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt cho hành vi vi phạm quy định về trật tự, an toàn giao thông đường bộ?",
+        "answer": "Mức phạt tiền tùy thuộc vào hành vi vi phạm, từ 500.000 đồng đến 60.000.000 đồng cho cá nhân và từ 1.000.000 đồng đến 100.000.000 đồng cho tổ chức."
+    },
+    {
+        "question": "Mức phạt khi không có biển báo nhận biết xe chở trẻ em mầm non, học sinh?",
+        "answer": "Cá nhân bị phạt từ 3.000.000 đồng đến 5.000.000 đồng, tổ chức từ 6.000.000 đồng đến 10.000.000 đồng."
+    },
+    {
+        "question": "Khi nào một cá nhân hoặc tổ chức vận tải đường bộ bị phạt tiền từ 500.000 đồng đến 1.000.000 đồng?",
+        "answer": "Cá nhân, tổ chức vận tải đường bộ bị phạt tiền từ 500.000 đồng đến 1.000.000 đồng khi xếp hàng hóa vượt trọng tải cho phép từ 10% đến 50%, hoặc không ký xác nhận việc xếp hàng hóa vào giấy vận tải."
+    },
+    {
+        "question": "Mức phạt tiền tối đa là bao nhiêu khi cá nhân, tổ chức vận tải vi phạm quy định về trật tự, an toàn giao thông?",
+        "answer": "Mức phạt tiền tối đa đối với cá nhân, tổ chức vận tải vi phạm quy định về trật tự, an toàn giao thông là 100.000.000 đồng, áp dụng cho tổ chức tái phạm hành vi nghiêm trọng."
+    },
+    {
+        "question": "Người điều khiển phương tiện vi phạm khi không hướng dẫn trẻ em mầm non, học sinh ngồi đúng vị trí sẽ bị phạt bao nhiêu?",
+        "answer": "Người điều khiển phương tiện vi phạm khi không hướng dẫn trẻ em mầm non, học sinh ngồi đúng vị trí sẽ bị phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+    },
+    {
+        "question": "Khi một tổ chức vi phạm quy định về trật tự, an toàn giao thông đường bộ, họ có thể bị áp dụng biện pháp khắc phục hậu quả gì?",
+        "answer": "Tổ chức vi phạm có thể bị yêu cầu cấp thẻ nhận dạng lái xe, tập huấn nghiệp vụ, hướng dẫn quy trình, lắp đặt thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh, dây đai an toàn và ghế ngồi cho trẻ em theo quy định."
+    },
+    {
+        "question": "Người điều khiển xe ô tô kinh doanh vận tải chở quá số người quy định sẽ bị phạt bao nhiêu?",
+        "answer": "Người điều khiển xe ô tô kinh doanh vận tải chở quá số người quy định sẽ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+    },
+    {
+        "question": "Nếu không đánh số ghế ngồi trên xe khách, sẽ bị xử phạt bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 1.000.000 đến 2.000.000 đồng, tổ chức bị phạt từ 2.000.000 đến 4.000.000 đồng."
+    },
+    {
+        "question": "Khi nào lái xe điều khiển xe khách sẽ bị trừ 6 điểm?",
+        "answer": "Lái xe điều khiển xe hoạt động không đúng tuyến đường, lịch trình, thời gian hoặc phạm vi hoạt động theo quy định bị trừ 6 điểm."
+    },
+    {
+        "question": "Mức phạt cho việc chở quá số người quy định?",
+        "answer": "Cá nhân bị phạt từ 1.000.000 đến 2.000.000 đồng."
+    },
+    {
+        "question": "Hành vi nào liên quan đến xe chở trẻ em sẽ bị phạt từ 3.000.000 đến 5.000.000 đồng?",
+        "answer": "Không có thiết bị giám sát hành trình, không có thiết bị ghi hình trẻ em, không có màu sơn hoặc biển báo theo quy định bị phạt này."
+    },
+    {
+        "question": "Hành vi nào liên quan đến xe chở trẻ em không có biển báo sẽ bị phạt?",
+        "answer": "Cá nhân bị phạt từ 3.000.000 đến 5.000.000 đồng, tổ chức bị phạt tương tự."
+    },
+    {
+        "question": "Hình thức xử phạt bổ sung đối với hành vi vi phạm quy định về sử dụng xe vận tải không đúng quy định là gì?",
+        "answer": "Ngoài việc bị phạt tiền, cá nhân, tổ chức vi phạm còn bị tước quyền sử dụng phù hiệu từ 01 tháng đến 03 tháng (nếu có hoặc đã được cấp)."
+    },
+    {
+        "question": "Hành vi vi phạm nào sẽ bị phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe chở trẻ em mầm non, học sinh?",
+        "answer": "Người điều khiển xe chở trẻ em mầm non, học sinh không hướng dẫn trẻ ngồi đúng vị trí quy định trong xe sẽ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+    },
+    {
+        "question": "Cá nhân kinh doanh vận tải phải chịu phạt tiền bao nhiêu khi không cấp thẻ nhận dạng lái xe?",
+        "answer": "Cá nhân kinh doanh vận tải sẽ bị phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng nếu không cấp thẻ nhận dạng lái xe cho lái xe theo quy định."
+    },
+    {
+        "question": "Mức phạt tối thiểu cho hành vi xếp hàng hóa lên xe không ký xác nhận vào giấy vận tải là bao nhiêu?",
+        "answer": "Mức phạt tối thiểu cho hành vi này là 500.000 đồng đối với cá nhân và 1.000.000 đồng đối với tổ chức."
+    },
+    {
+        "question": "Hành vi nào bị phạt từ 1 triệu đến 2 triệu đồng đối với cá nhân?",
+        "answer": "Cá nhân xếp hàng hóa vượt quá trọng tải cho phép từ 10% đến 50%, hoặc không ký xác nhận xếp hàng hóa vào giấy vận tải sẽ bị phạt từ 1 triệu đến 2 triệu đồng."
+    },
+    {
+        "question": "Phạt tiền tối đa bao nhiêu đối với tổ chức xếp hàng hóa vượt quá trọng tải cho phép trên 100%?",
+        "answer": "Tổ chức xếp hàng hóa vượt quá trọng tải cho phép trên 100% sẽ bị phạt tiền tối đa 10 triệu đồng."
+    },
+    {
+        "question": "Hành vi nào khiến tổ chức bị phạt từ 4 đến 6 triệu đồng?",
+        "answer": "Tổ chức không thực hiện việc cung cấp, cập nhật, truyền, lưu trữ, quản lý thông tin, dữ liệu từ thiết bị giám sát hành trình hoặc không lắp thiết bị giám sát hành trình sẽ bị phạt từ 4 đến 6 triệu đồng."
+    },
+    {
+        "question": "Có biện pháp khắc phục hậu quả nào được áp dụng khi vi phạm các quy định về trật tự, an toàn giao thông đường bộ trong vận tải đường bộ?",
+        "answer": "Biện pháp khắc phục hậu quả bao gồm việc buộc cấp thẻ nhận dạng lái xe, tập huấn, hướng dẫn nghiệp vụ, lắp đặt thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe, dây đai an toàn, ghế ngồi cho trẻ em mầm non, học sinh tiểu học trên xe theo đúng quy định."
+    },
+    {
+        "question": "Câu hỏi: Mức phạt cho việc không cấp lệnh vận chuyển cho lái xe là bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 1.000.000 đồng đến 2.000.000 đồng, tổ chức từ 2.000.000 đồng đến 4.000.000 đồng."
+    },
+    {
+        "question": "Câu hỏi: Mức phạt cho hành vi làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh người lái xe là bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 40.000.000 đồng đến 60.000.000 đồng, tổ chức từ 80.000.000 đồng đến 100.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt cho việc không cung cấp thiết bị ghi nhận hình ảnh trẻ em trên xe chở học sinh?",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi không cung cấp thiết bị ghi nhận hình ảnh trẻ em trên xe chở học sinh."
+    },
+    {
+        "question": "Người điều khiển xe không tuân thủ quy định về màu sơn xe chở trẻ em bị xử lý như thế nào?",
+        "answer": "Người điều khiển xe không tuân thủ quy định về màu sơn xe chở trẻ em sẽ bị phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt nào áp dụng cho việc không cấp lệnh vận chuyển, giấy vận tải cho lái xe?",
+        "answer": "Cá nhân bị phạt từ 1.000.000 đồng đến 2.000.000 đồng, tổ chức bị phạt từ 2.000.000 đồng đến 4.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt nào áp dụng cho việc không hướng dẫn trẻ em mầm non, học sinh ngồi đúng vị trí quy định trong xe?",
+        "answer": "Người điều khiển xe bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt nào áp dụng cho việc không lắp thiết bị giám sát hành trình trên xe ô tô cứu hộ giao thông?",
+        "answer": "Người điều khiển xe bị phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+    },
+    {
+        "question": "Nếu một tổ chức vi phạm quy định về kinh doanh vận tải, dịch vụ hỗ trợ vận tải bằng cách không cấp thẻ nhận dạng lái xe cho lái xe, họ sẽ bị phạt bao nhiêu?",
+        "answer": "Tổ chức sẽ bị phạt từ 6.000.000 đồng đến 8.000.000 đồng nếu không cấp thẻ nhận dạng lái xe cho lái xe theo quy định."
+    },
+    {
+        "question": "Điều gì sẽ xảy ra với cá nhân vi phạm quy định về kinh doanh vận tải bằng cách sử dụng lái xe không được tập huấn về an toàn giao thông?",
+        "answer": "Cá nhân sẽ bị phạt từ 3.000.000 đồng đến 4.000.000 đồng nếu sử dụng lái xe không được tập huấn về an toàn giao thông theo quy định."
+    },
+    {
+        "question": "Cá nhân vi phạm quy định về kinh doanh vận tải bằng cách không thực hiện việc cung cấp, cập nhật thông tin từ thiết bị giám sát hành trình sẽ bị phạt bao nhiêu?",
+        "answer": "Cá nhân sẽ bị phạt từ 5.000.000 đồng đến 6.000.000 đồng nếu không thực hiện việc cung cấp, cập nhật thông tin từ thiết bị giám sát hành trình theo quy định."
+    },
+    {
+        "question": "Nếu một đơn vị sản xuất thiết bị giám sát hành trình không báo cáo về việc cập nhật, thay đổi phần mềm của thiết bị, họ sẽ bị phạt bao nhiêu?",
+        "answer": "Đơn vị sản xuất thiết bị giám sát hành trình sẽ bị phạt từ 20.000.000 đồng đến 40.000.000 đồng nếu không báo cáo về việc cập nhật, thay đổi phần mềm của thiết bị theo quy định."
+    },
+    {
+        "question": "Cá nhân kinh doanh vận tải vi phạm quy định tại điểm c khoản 8 Điều này sẽ bị phạt bao nhiêu?",
+        "answer": "Cá nhân kinh doanh vận tải sẽ bị phạt từ 4.000.000 đồng đến 6.000.000 đồng và bị trừ điểm giấy phép lái xe 06 điểm nếu vi phạm quy định tại điểm c khoản 8 Điều này."
+    },
+    {
+        "question": "Có chế tài nào áp dụng cho việc vi phạm quy định về trọng tải xe ô tô không?",
+        "answer": "Cá nhân hoặc tổ chức vi phạm quy định về trọng tải xe ô tô sẽ bị phạt tiền tùy thuộc vào mức độ vi phạm, từ 500.000 đồng đến 10.000.000 đồng. Mức phạt tăng dần theo tỷ lệ vượt quá trọng tải cho phép."
+    },
+    {
+        "question": "Việc vi phạm quy định về xếp hàng hóa trên xe ô tô có bị phạt không?",
+        "answer": "Có, việc xếp hàng hóa vượt quá trọng tải cho phép sẽ bị phạt tiền từ 500.000 đồng đến 10.000.000 đồng tùy theo mức độ vi phạm."
+    },
+    {
+        "question": "Có biện pháp xử lý nào đối với việc không có dây đai an toàn trên xe chở trẻ em không?",
+        "answer": "Sử dụng xe chở trẻ em không có dây đai an toàn sẽ bị"
+    },
+    {
+        "question": "Lái xe kinh doanh vận tải chở trẻ em mầm non, học sinh vi phạm quy định về màu sơn xe sẽ bị phạt bao nhiêu?",
+        "answer": "Lái xe sẽ bị phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+    },
+    {
+        "question": "Phạt tiền tối đa đối với vi phạm quy định về dây đai an toàn trên xe vận tải hành khách là bao nhiêu?",
+        "answer": "Cá nhân bị phạt tối đa 6.000.000 đồng, tổ chức bị phạt tối đa 12.000.000 đồng."
+    },
+    {
+        "question": "Nếu vi phạm quy định về sử dụng phù hiệu trên xe kinh doanh vận tải, mức phạt tối đa là bao nhiêu?",
+        "answer": "Cá nhân bị phạt tối đa 3.000.000 đồng."
+    },
+    {
+        "question": "Có hình thức xử phạt nào khác ngoài phạt tiền đối với các hành vi vi phạm trật tự, an toàn giao thông đường bộ không?",
+        "answer": "Ngoài phạt tiền, còn có hình thức xử phạt bổ sung như tước quyền sử dụng phù hiệu từ 01 tháng đến 03 tháng (nếu có hoặc đã được cấp) đối với xe vi phạm."
+    },
+    {
+        "question": "Hành vi sử dụng lái xe chưa đủ số năm kinh nghiệm bị phạt bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 5.000.000 đồng đến 6.000.000 đồng, tổ chức kinh doanh vận tải bị phạt từ 10.000.000 đồng đến 12.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt cho việc sử dụng xe vận chuyển hàng nguy hiểm mà không có người áp tải là bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 1.000.000 đồng đến 2.000.000 đồng, tổ chức kinh doanh vận tải bị phạt từ 2.000.000 đồng đến 4.000.000 đồng."
+    },
+    {
+        "question": "Khi nào chủ phương tiện bị phạt vì không cấp thẻ nhận dạng cho lái xe?",
+        "answer": "Chủ phương tiện bị phạt từ 3.000.000 đồng đến 4.000.000 đồng nếu không cấp thẻ nhận dạng lái xe theo quy định."
+    },
+    {
+        "question": "Biện pháp khắc phục hậu quả khi không thực hiện việc niêm yết thông tin trên xe?",
+        "answer": "Bị yêu cầu thực hiện việc niêm yết thông tin trên xe theo quy định."
+    },
+    {
+        "question": "Câu hỏi: Mức phạt nào được áp dụng cho việc không cung cấp thông tin đầy đủ trên xe?",
+        "answer": "Cá nhân bị phạt từ 5 đến 6 triệu đồng, tổ chức bị phạt từ 10 đến 12 triệu đồng."
+    },
+    {
+        "question": "Câu hỏi: Người lái xe có thể bị tước quyền sử dụng phù hiệu trong bao lâu?",
+        "answer": "Từ 01 tháng đến 03 tháng đối với xe vi phạm."
+    },
+    {
+        "question": "Câu hỏi: Khi nào một đơn vị sản xuất thiết bị giám sát hành trình sẽ bị phạt tiền tối đa 60 triệu đồng?",
+        "answer": "Đơn vị bị phạt 60 triệu đồng nếu làm sai lệch thông tin, dữ liệu của thiết bị giám sát hành trình hoặc thiết bị ghi nhận hình ảnh người lái xe."
+    },
+    {
+        "question": "Biện pháp khắc phục hậu quả khi vi phạm về không có thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh là gì?",
+        "answer": "Bị yêu cầu lắp đặt đúng thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh theo quy định."
+    },
+    {
+        "question": "Biện pháp xử lý nào áp dụng cho hành vi không thực hiện việc cung cấp thông tin từ thiết bị ghi nhận hình ảnh người lái xe?",
+        "answer": "Bị phạt tiền từ 5.000.000 đến 6.000.000 đồng đối với cá nhân."
+    },
+    {
+        "question": "Cá nhân hoặc tổ chức kinh doanh vận tải phải làm gì nếu không muốn bị phạt về việc không cung cấp thông tin từ thiết bị giám sát hành trình?",
+        "answer": "Họ phải thực hiện việc cung cấp, cập nhật, truyền dẫn, lưu trữ, quản lý thông tin, dữ liệu từ thiết bị giám sát hành trình theo quy định để tránh bị phạt."
+    },
+    {
+        "question": "Cá nhân hoặc tổ chức nào sẽ bị phạt nếu sử dụng thiết bị giám sát hành trình sai lệch thông tin?",
+        "answer": "Đơn vị sản xuất, lắp ráp, nhập khẩu thiết bị giám sát hành trình của xe ô tô sẽ bị phạt từ 40.000.000 đồng đến 60.000.000 đồng nếu làm sai lệch thông tin, dữ liệu của thiết bị."
+    },
+    {
+        "question": "Tổ chức nào sẽ bị phạt nếu không có nhân sự cho từng vị trí công việc khi sản xuất, lắp ráp, nhập khẩu thiết bị giám sát hành trình?",
+        "answer": "Đơn vị sản xuất, lắp ráp, nhập khẩu thiết bị giám sát hành trình sẽ bị phạt từ 20.000.000 đồng đến 40."
+    },
+    {
+        "question": "Điều gì xảy ra nếu cá nhân tái phạm hành vi quy định tại điểm a, điểm h khoản 7?",
+        "answer": "Cá nhân bị phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng."
+    },
+    {
+        "question": "Hành vi nào liên quan đến việc không cung cấp thông tin trên xe theo quy định?",
+        "answer": "Sử dụng xe ô tô kinh doanh vận tải mà không niêm yết thông tin trên xe hoặc thông tin không chính xác, không đầy đủ theo quy định."
+    },
+    {
+        "question": "Ai phải chịu trách nhiệm về việc không cấp thẻ nhận dạng cho lái xe theo quy định?",
+        "answer": "Tổ chức kinh doanh vận tải phải chịu trách nhiệm nếu không cấp thẻ nhận dạng cho lái xe theo quy định, có thể bị phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với cá nhân, từ 6.000.000 đồng đến 8.000.000 đồng đối với tổ chức."
+    },
+    {
+        "question": "Hành vi không niêm yết thông tin trên xe bị xử phạt như thế nào?",
+        "answer": "Cá nhân bị phạt từ 3.000.000 đồng đến 4.000.000 đồng, tổ chức bị phạt từ 6.000.000 đồng đến 8.000.000 đồng nếu không niêm yết thông tin trên xe theo quy định."
+    },
+    {
+        "question": "Tổ chức nào sẽ bị phạt nếu sử dụng xe vận chuyển động vật sống không có kết cấu phù hợp?",
+        "answer": "Tổ chức sẽ bị phạt từ 8.000.000 đồng đến 12.000.000 đồng."
+    },
+    {
+        "question": "Mức phạt cho việc điều khiển xe kinh doanh vận tải không có phù hiệu là bao nhiêu?",
+        "answer": "Cá nhân bị phạt từ 2.000.000 đồng đến 3.000.000 đồng và bị trừ 02 điểm giấy phép lái xe."
+    },
+    {
+        "question": "Mức phạt cho việc sử dụng xe ô tô cứu hộ không có thiết bị giám sát hành trình là bao nhiêu?",
+        "answer": "Người điều khiển bị phạt từ 3.000.000 đồng đến 5.000.000 đồng và bị trừ 02 điểm giấy phép lái xe."
+    },
+    {
+        "question": "Biện pháp khắc phục hậu quả đối với hành vi vi phạm tại điểm đ khoản 4 Điều 26 là gì?",
+        "answer": "Cần lắp đặt dây đai an toàn, ghế ngồi cho trẻ em mầm non, học sinh tiểu học trên xe theo đúng quy định."
+    },
+    {
+        "question": "Ai sẽ bị xử phạt khi vi phạm quy định về xếp hàng hóa lên xe?",
+        "answer": "Cá nhân hoặc tổ chức xếp hàng hóa lên xe ô tô vượt quá trọng tải cho phép sẽ bị xử phạt. Mức phạt tăng dần tùy thuộc vào mức độ vi phạm."
+    },
+    {
+        "question": "Người điều khiển xe chở hàng bốn bánh vi phạm điều khiển xe không đúng tuyến đường được xử phạt như thế nào?",
+        "answer": "Người điều khiển xe chở hàng bốn bánh vi phạm điều khiển xe không đúng tuyến đường, lịch trình, thời gian được phép hoạt động sẽ bị phạt từ 8.000.000 đồng đến 12.000.000 đồng và trừ 6 điểm giấy phép lái xe."
+    },
+    {
+        "question": "Nếu vi phạm về xếp hàng hóa vượt quá 100% trọng tải, tổ chức có thể bị phạt tối đa bao nhiêu?",
+        "answer": "Tổ chức có thể bị phạt tối đa 10.000.000 đồng khi xếp hàng hóa vượt quá 100% trọng tải cho phép."
+    },
+    {
+        "question": "Hành vi điều khiển xe không đúng tuyến đường, lịch trình sẽ bị phạt bao nhiêu?",
+        "answer": "Điều khiển xe không đúng tuyến đường, lịch trình, thời gian được phép hoạt động sẽ bị phạt từ 8.000.000 đến 12.000.000 đồng."
+    },
+    {
+        "question": "Phạt như thế nào khi sử dụng lái xe không được tập huấn về an toàn giao thông?",
+        "answer": "Cá nhân bị phạt từ 3.000.000 đến 4.000.000 đồng, tổ chức bị phạt từ 6.000.000 đến 8.000.000 đồng."
+    },
+    {
+        "question": "Xe vận chuyển trẻ em không có thiết bị cảnh báo bỏ quên trẻ bị phạt như thế nào?",
+        "answer": "Cá nhân bị phạt từ 4.000.000 đến 6.000.000 đồng, tổ chức bị phạt từ 8.000.000 đến 12.000.000 đồng."
+    },
+    {
+        "question": "Điều khiển xe cứu hộ không có dụng cụ chuyên dùng bị phạt thế nào?",
+        "answer": "Cá nhân bị phạt từ 2.000.000 đến 3.000.000 đồng vì không có dụng cụ, thiết bị chuyên dùng cứu hộ theo quy định."
+    }
+]

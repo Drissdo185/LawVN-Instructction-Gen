@@ -6,7 +6,7 @@ def load_model_and_tokenizer():
     """
     Load Qwen 2.5 14B model and tokenizer
     """
-    model_name = "Qwen/Qwen1.5-14B"
+    model_name = "Qwen/Qwen2.5-14B-Instruct"
     tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
@@ -51,7 +51,6 @@ def generate_qa(model, tokenizer, context, num_qa_pairs=3, max_length=1024):
     1. Cấu trúc câu trả lời:
        - Trích dẫn chính xác điều khoản liên quan
        - Giải thích rõ ràng nội dung quy định
-       - Đưa ra ví dụ minh họa khi cần thiết
        - Phân tích ý nghĩa và mục đích của quy định
        - Nêu các trường hợp áp dụng thực tế
 
