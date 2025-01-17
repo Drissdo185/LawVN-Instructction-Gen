@@ -3,4 +3,7 @@ beautifulsoup4
 transformers
 torch
 accelerate>=0.26.0
+weaviate-client==3.25.3
+llama-index==0.11.21
+
 
