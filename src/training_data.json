@@ -1,0 +1,252 @@
+[
+    {
+      "question": "Mức phạt cho hành vi không thực hiện đúng quy định trong giấy phép lưu hành là bao nhiêu?",
+      "context": "Điều 34 khoản 1: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi không thực hiện đúng quy định trong giấy phép lưu hành",
+      "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng"
+    },
+    {
+      "question": "Xe vượt tải trọng cho phép từ 10% đến 20% bị phạt bao nhiêu tiền?",
+      "context": "Điều 34 khoản 2: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe vượt quá tải trọng cho phép của đường bộ trên 10% đến 20%",
+      "answer": "Mức phạt từ 4.000.000 đồng đến 6.000.000 đồng"
+    },
+    {
+      "question": "Điều khiển xe bánh xích không có giấy phép lưu hành bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 3 điểm b: Điều khiển xe bánh xích tham gia giao thông không có giấy phép lưu hành hoặc có giấy phép lưu hành nhưng không còn giá trị sử dụng theo quy định hoặc lưu thông trực tiếp trên đường mà không thực hiện biện pháp bảo vệ đường theo quy định",
+      "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+    },
+    {
+      "question": "Mức phạt cho hành vi chở hàng vượt khổ giới hạn của xe ghi trong giấy phép lưu hành là bao nhiêu?",
+      "context": "Điều 34 khoản 3 điểm a: Chở hàng vượt khổ giới hạn của xe hoặc của đường bộ ghi trong giấy phép lưu hành",
+      "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+    },
+    {
+      "question": "Xe vượt tải trọng cho phép từ 20% đến 50% bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 4 điểm a: Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của đường bộ trên 20% đến 50%",
+      "answer": "Mức phạt từ 13.000.000 đồng đến 15.000.000 đồng"
+    },
+    {
+      "question": "Điều khiển xe đi không đúng tuyến đường trong giấy phép lưu hành bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 4 điểm c: Điều khiển xe có giấy phép lưu hành còn giá trị sử dụng nhưng đi không đúng tuyến đường quy định trong giấy phép lưu hành",
+      "answer": "Mức phạt từ 13.000.000 đồng đến 15.000.000 đồng"
+    },
+    {
+      "question": "Xe vượt tải trọng cho phép trên 50% bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 5 điểm a: Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của đường bộ trên 50%",
+      "answer": "Mức phạt từ 40.000.000 đồng đến 50.000.000 đồng"
+    },
+    {
+      "question": "Không chấp hành yêu cầu kiểm tra về trọng tải bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 5 điểm b: Không chấp hành yêu cầu kiểm tra về trọng tải, tải trọng, khổ giới hạn xe, vận chuyển hàng siêu trường, siêu trọng của người thi hành công vụ",
+      "answer": "Mức phạt từ 40.000.000 đồng đến 50.000.000 đồng"
+    },
+    {
+      "question": "Vi phạm về tải trọng gây hư hại cầu đường bị xử lý thêm như thế nào?",
+      "context": "Điều 34 khoản 6: Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 1, khoản 2, khoản 3, khoản 4, khoản 5 Điều này nếu gây hư hại cầu, đường còn bị áp dụng biện pháp khắc phục hậu quả buộc khôi phục lại tình trạng ban đầu",
+      "answer": "Ngoài bị phạt tiền còn phải khắc phục hậu quả, khôi phục lại tình trạng ban đầu của cầu đường"
+    },
+    {
+      "question": "Hành vi không chấp hành kiểm tra trọng tải bị trừ bao nhiêu điểm GPLX?",
+      "context": "Điều 34 khoản 7 điểm d: Thực hiện hành vi quy định tại điểm b khoản 5 Điều này còn bị trừ điểm giấy phép lái xe 10 điểm",
+      "answer": "Bị trừ 10 điểm giấy phép lái xe"
+    },
+    {
+      "question": "Điều khiển xe vượt tải trên 50% bị trừ bao nhiêu điểm GPLX?",
+      "context": "Điều 34 khoản 7 điểm c: Thực hiện hành vi quy định tại điểm a khoản 5 Điều này còn bị trừ điểm giấy phép lái xe 04 điểm",
+      "answer": "Bị trừ 4 điểm giấy phép lái xe"
+    },
+    {
+      "question": "Điều khiển xe đi sai tuyến đường quy định bị trừ bao nhiêu điểm GPLX?",
+      "context": "Điều 34 khoản 7 điểm b: Thực hiện hành vi quy định tại điểm b, điểm c khoản 4 Điều này còn bị trừ điểm giấy phép lái xe 03 điểm",
+      "answer": "Bị trừ 3 điểm giấy phép lái xe"
+    },
+    {
+      "question": "Chở hàng vượt khổ giới hạn bị trừ bao nhiêu điểm GPLX?",
+      "context": "Điều 34 khoản 7 điểm a: Thực hiện hành vi quy định tại khoản 1, khoản 3, điểm a khoản 4 Điều này còn bị trừ điểm giấy phép lái xe 02 điểm",
+      "answer": "Bị trừ 2 điểm giấy phép lái xe"
+    },
+    {
+      "question": "Xe có giấy phép lưu hành nhưng vượt tải so với quy định trong giấy phép bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 4 điểm b: Điều khiển xe có giấy phép lưu hành còn giá trị sử dụng nhưng tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe nếu có) vượt quá quy định trong giấy phép lưu hành",
+      "answer": "Mức phạt từ 13.000.000 đồng đến 15.000.000 đồng"
+    },
+    {
+      "question": "Xe có kích thước bao ngoài vượt quá kích thước giới hạn cho phép bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 3 điểm d: Điều khiển xe có kích thước bao ngoài vượt quá kích thước giới hạn cho phép của xe theo quy định, trừ trường hợp có giấy phép lưu hành còn giá trị sử dụng",
+      "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+    },
+    {
+      "question": "Dùng thủ đoạn để trốn tránh việc phát hiện xe chở quá tải bị xử phạt như thế nào?",
+      "context": "Điều 34 khoản 5 điểm b: chuyển tải hoặc dùng các thủ đoạn khác để trốn tránh việc phát hiện xe chở quá tải, quá khổ",
+      "answer": "Mức phạt từ 40.000.000 đồng đến 50.000.000 đồng"
+    },
+    {
+      "question": "Chở hàng vượt khổ giới hạn của đường bộ không có giấy phép bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 3 điểm c: Điều khiển xe có kích thước bao ngoài vượt quá khổ giới hạn của đường bộ hoặc chở hàng vượt khổ giới hạn của đường bộ hoặc chở hàng vượt quá kích thước giới hạn xếp hàng hóa của xe tham gia giao thông, trừ trường hợp có giấy phép lưu hành còn giá trị sử dụng",
+      "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+    },
+    {
+      "question": "Nếu vượt tải trọng 15% so với quy định thì bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 2: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe vượt quá tải trọng cho phép của đường bộ trên 10% đến 20%",
+      "answer": "Mức phạt từ 4.000.000 đồng đến 6.000.000 đồng vì thuộc phạm vi vượt tải từ 10% đến 20%"
+    },
+    {
+      "question": "Nếu vượt tải trọng 30% so với quy định thì bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 4 điểm a: Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của đường bộ trên 20% đến 50%",
+      "answer": "Mức phạt từ 13.000.000 đồng đến 15.000.000 đồng vì thuộc phạm vi vượt tải từ 20% đến 50%"
+    },
+    {
+      "question": "Nếu vượt tải trọng 60% so với quy định thì bị phạt bao nhiêu?",
+      "context": "Điều 34 khoản 5 điểm a: Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của đường bộ trên 50%",
+      "answer": "Mức phạt từ 40.000.000 đồng đến 50.000.000 đồng vì thuộc phạm vi vượt tải trên 50%"
+    },
+    {
+        "question": "Mức phạt cho hành vi không thực hiện đúng quy định trong giấy phép lưu hành là bao nhiêu?",
+        "context": "Điều 34 khoản 1: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi không thực hiện đúng quy định trong giấy phép lưu hành",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng"
+      },
+      {
+        "question": "Xe vượt tải trọng cho phép từ 10% đến 20% bị phạt bao nhiêu tiền?",
+        "context": "Điều 34 khoản 2: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe vượt quá tải trọng cho phép của đường bộ trên 10% đến 20%",
+        "answer": "Mức phạt từ 4.000.000 đồng đến 6.000.000 đồng"
+      },
+      {
+        "question": "Điều khiển xe bánh xích không có giấy phép lưu hành bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 3 điểm b: Điều khiển xe bánh xích tham gia giao thông không có giấy phép lưu hành hoặc có giấy phép lưu hành nhưng không còn giá trị sử dụng theo quy định hoặc lưu thông trực tiếp trên đường mà không thực hiện biện pháp bảo vệ đường theo quy định",
+        "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+      },
+      {
+        "question": "Mức phạt cho hành vi chở hàng vượt khổ giới hạn của xe ghi trong giấy phép lưu hành là bao nhiêu?",
+        "context": "Điều 34 khoản 3 điểm a: Chở hàng vượt khổ giới hạn của xe hoặc của đường bộ ghi trong giấy phép lưu hành",
+        "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+      },
+      {
+        "question": "Xe vượt tải trọng cho phép từ 20% đến 50% bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 4 điểm a: Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của đường bộ trên 20% đến 50%",
+        "answer": "Mức phạt từ 13.000.000 đồng đến 15.000.000 đồng"
+      },
+      {
+        "question": "Điều khiển xe đi không đúng tuyến đường trong giấy phép lưu hành bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 4 điểm c: Điều khiển xe có giấy phép lưu hành còn giá trị sử dụng nhưng đi không đúng tuyến đường quy định trong giấy phép lưu hành",
+        "answer": "Mức phạt từ 13.000.000 đồng đến 15.000.000 đồng"
+      },
+      {
+        "question": "Xe vượt tải trọng cho phép trên 50% bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 5 điểm a: Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của đường bộ trên 50%",
+        "answer": "Mức phạt từ 40.000.000 đồng đến 50.000.000 đồng"
+      },
+      {
+        "question": "Không chấp hành yêu cầu kiểm tra về trọng tải bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 5 điểm b: Không chấp hành yêu cầu kiểm tra về trọng tải, tải trọng, khổ giới hạn xe, vận chuyển hàng siêu trường, siêu trọng của người thi hành công vụ",
+        "answer": "Mức phạt từ 40.000.000 đồng đến 50.000.000 đồng"
+      },
+      {
+        "question": "Vi phạm về tải trọng gây hư hại cầu đường bị xử lý thêm như thế nào?",
+        "context": "Điều 34 khoản 6: Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 1, khoản 2, khoản 3, khoản 4, khoản 5 Điều này nếu gây hư hại cầu, đường còn bị áp dụng biện pháp khắc phục hậu quả buộc khôi phục lại tình trạng ban đầu",
+        "answer": "Ngoài bị phạt tiền còn phải khắc phục hậu quả, khôi phục lại tình trạng ban đầu của cầu đường"
+      },
+      {
+        "question": "Hành vi không chấp hành kiểm tra trọng tải bị trừ bao nhiêu điểm GPLX?",
+        "context": "Điều 34 khoản 7 điểm d: Thực hiện hành vi quy định tại điểm b khoản 5 Điều này còn bị trừ điểm giấy phép lái xe 10 điểm",
+        "answer": "Bị trừ 10 điểm giấy phép lái xe"
+      },
+      {
+        "question": "Điều khiển xe vượt tải trên 50% bị trừ bao nhiêu điểm GPLX?",
+        "context": "Điều 34 khoản 7 điểm c: Thực hiện hành vi quy định tại điểm a khoản 5 Điều này còn bị trừ điểm giấy phép lái xe 04 điểm",
+        "answer": "Bị trừ 4 điểm giấy phép lái xe"
+      },
+      {
+        "question": "Điều khiển xe đi sai tuyến đường quy định bị trừ bao nhiêu điểm GPLX?",
+        "context": "Điều 34 khoản 7 điểm b: Thực hiện hành vi quy định tại điểm b, điểm c khoản 4 Điều này còn bị trừ điểm giấy phép lái xe 03 điểm",
+        "answer": "Bị trừ 3 điểm giấy phép lái xe"
+      },
+      {
+        "question": "Chở hàng vượt khổ giới hạn bị trừ bao nhiêu điểm GPLX?",
+        "context": "Điều 34 khoản 7 điểm a: Thực hiện hành vi quy định tại khoản 1, khoản 3, điểm a khoản 4 Điều này còn bị trừ điểm giấy phép lái xe 02 điểm",
+        "answer": "Bị trừ 2 điểm giấy phép lái xe"
+      },
+      {
+        "question": "Xe có giấy phép lưu hành nhưng vượt tải so với quy định trong giấy phép bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 4 điểm b: Điều khiển xe có giấy phép lưu hành còn giá trị sử dụng nhưng tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe nếu có) vượt quá quy định trong giấy phép lưu hành",
+        "answer": "Mức phạt từ 13.000.000 đồng đến 15.000.000 đồng"
+      },
+      {
+        "question": "Xe có kích thước bao ngoài vượt quá kích thước giới hạn cho phép bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 3 điểm d: Điều khiển xe có kích thước bao ngoài vượt quá kích thước giới hạn cho phép của xe theo quy định, trừ trường hợp có giấy phép lưu hành còn giá trị sử dụng",
+        "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+      },
+      {
+        "question": "Dùng thủ đoạn để trốn tránh việc phát hiện xe chở quá tải bị xử phạt như thế nào?",
+        "context": "Điều 34 khoản 5 điểm b: chuyển tải hoặc dùng các thủ đoạn khác để trốn tránh việc phát hiện xe chở quá tải, quá khổ",
+        "answer": "Mức phạt từ 40.000.000 đồng đến 50.000.000 đồng"
+      },
+      {
+        "question": "Chở hàng vượt khổ giới hạn của đường bộ không có giấy phép bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 3 điểm c: Điều khiển xe có kích thước bao ngoài vượt quá khổ giới hạn của đường bộ hoặc chở hàng vượt khổ giới hạn của đường bộ hoặc chở hàng vượt quá kích thước giới hạn xếp hàng hóa của xe tham gia giao thông, trừ trường hợp có giấy phép lưu hành còn giá trị sử dụng",
+        "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+      },
+      {
+        "question": "Nếu vượt tải trọng 15% so với quy định thì bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 2: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe vượt quá tải trọng cho phép của đường bộ trên 10% đến 20%",
+        "answer": "Mức phạt từ 4.000.000 đồng đến 6.000.000 đồng vì thuộc phạm vi vượt tải từ 10% đến 20%"
+      },
+      {
+        "question": "Nếu vượt tải trọng 30% so với quy định thì bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 4 điểm a: Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của đường bộ trên 20% đến 50%",
+        "answer": "Mức phạt từ 13.000.000 đồng đến 15.000.000 đồng vì thuộc phạm vi vượt tải từ 20% đến 50%"
+      },
+      {
+        "question": "Nếu vượt tải trọng 60% so với quy định thì bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 5 điểm a: Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của đường bộ trên 50%",
+        "answer": "Mức phạt từ 40.000.000 đồng đến 50.000.000 đồng vì thuộc phạm vi vượt tải trên 50%"
+      },
+      {
+        "question": "Xe bánh xích có giấy phép lưu hành hết hạn bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 3 điểm b: Điều khiển xe bánh xích tham gia giao thông không có giấy phép lưu hành hoặc có giấy phép lưu hành nhưng không còn giá trị sử dụng theo quy định",
+        "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+      },
+      {
+        "question": "Xe bánh xích lưu thông trực tiếp trên đường không có biện pháp bảo vệ bị phạt thế nào?",
+        "context": "Điều 34 khoản 3 điểm b: lưu thông trực tiếp trên đường mà không thực hiện biện pháp bảo vệ đường theo quy định",
+        "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+      },
+      {
+        "question": "Vi phạm về tải trọng gây hư hại đường bộ bị xử lý như thế nào?",
+        "context": "Điều 34 khoản 6: nếu gây hư hại cầu, đường còn bị áp dụng biện pháp khắc phục hậu quả buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính gây ra",
+        "answer": "Ngoài bị phạt tiền còn phải khắc phục hậu quả, khôi phục lại tình trạng ban đầu của đường bộ"
+      },
+      {
+        "question": "Điều khiển xe vượt tải từ 20% đến 50% bị trừ bao nhiêu điểm GPLX?",
+        "context": "Điều 34 khoản 7 điểm a: Thực hiện hành vi quy định tại điểm a khoản 4 Điều này còn bị trừ điểm giấy phép lái xe 02 điểm",
+        "answer": "Bị trừ 2 điểm giấy phép lái xe"
+      },
+      {
+        "question": "Xe có giấy phép lưu hành nhưng vượt tải so với quy định trong giấy phép bị trừ bao nhiêu điểm?",
+        "context": "Điều 34 khoản 7 điểm b: Thực hiện hành vi quy định tại điểm b, điểm c khoản 4 Điều này còn bị trừ điểm giấy phép lái xe 03 điểm",
+        "answer": "Bị trừ 3 điểm giấy phép lái xe"
+      },
+      {
+        "question": "Không chấp hành yêu cầu kiểm tra vận chuyển hàng siêu trường bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 5 điểm b: Không chấp hành yêu cầu kiểm tra về trọng tải, tải trọng, khổ giới hạn xe, vận chuyển hàng siêu trường, siêu trọng của người thi hành công vụ",
+        "answer": "Mức phạt từ 40.000.000 đồng đến 50.000.000 đồng"
+      },
+      {
+        "question": "Chuyển tải để trốn tránh việc phát hiện xe chở quá tải bị trừ bao nhiêu điểm GPLX?",
+        "context": "Điều 34 khoản 7 điểm d: Thực hiện hành vi quy định tại điểm b khoản 5 Điều này còn bị trừ điểm giấy phép lái xe 10 điểm",
+        "answer": "Bị trừ 10 điểm giấy phép lái xe"
+      },
+      {
+        "question": "Hành vi vượt tải trọng trục xe trên 50% bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 5 điểm a: Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của đường bộ trên 50%",
+        "answer": "Mức phạt từ 40.000.000 đồng đến 50.000.000 đồng"
+      },
+      {
+        "question": "Hành vi vượt tải trọng trục xe từ 20% đến 50% bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 4 điểm a: Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của đường bộ trên 20% đến 50%",
+        "answer": "Mức phạt từ 13.000.000 đồng đến 15.000.000 đồng"
+      },
+      {
+        "question": "Xe chở hàng vượt quá kích thước giới hạn xếp hàng hóa bị phạt bao nhiêu?",
+        "context": "Điều 34 khoản 3 điểm c: chở hàng vượt quá kích thước giới hạn xếp hàng hóa của xe tham gia giao thông, trừ trường hợp có giấy phép lưu hành còn giá trị sử dụng",
+        "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+      }
+      ]
