@@ -748,5 +748,977 @@
         "question": "Mức phạt cho hành vi ngồi phía sau vòng tay qua người ngồi trước để điều khiển xe là bao nhiêu?",
         "context": "Điều 7 khoản 9 điểm h: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: h) Ngồi phía sau vòng tay qua người ngồi trước để điều khiển xe, trừ trường hợp chở trẻ em dưới 06 tuổi ngồi phía trước",
         "answer": "Mức phạt từ 8.000.000 đồng đến 10.000.000 đồng"
+      },
+      {
+        "question": "Mức phạt cho hành vi không chấp hành hiệu lệnh của biển báo hiệu, vạch kẻ đường là bao nhiêu?",
+        "context": "Điều 8 khoản 1 điểm a: Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi dừng xe, đỗ xe tại nơi có biển 'Cấm dừng xe và đỗ xe' là bao nhiêu?",
+        "context": "Điều 8 khoản 2 điểm a: Dừng xe, đỗ xe nơi có biển 'Cấm dừng xe và đỗ xe'.",
+        "answer": "Mức phạt từ 600.000 đồng đến 800.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe bị phạt bao nhiêu nếu chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h?",
+        "context": "Điều 8 khoản 3 điểm a: Chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h.",
+        "answer": "Mức phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi không sử dụng đèn chiếu sáng trong điều kiện thời tiết xấu là bao nhiêu?",
+        "context": "Điều 8 khoản 3 điểm c: Không sử dụng hoặc sử dụng không đủ đèn chiếu sáng trong điều kiện thời tiết xấu.",
+        "answer": "Mức phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Lái xe quay đầu tại nơi có biển báo cấm sẽ bị phạt bao nhiêu tiền?",
+        "context": "Điều 8 khoản 4 điểm d: Quay đầu xe tại nơi có biển báo hiệu có nội dung cấm quay đầu.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe chạy trên đường cao tốc khi trong máu có nồng độ cồn dưới 50 mg/100 ml máu là bao nhiêu?",
+        "context": "Điều 8 khoản 6 điểm c: Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 mg/100 ml máu.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi đi ngược chiều trên đường có biển 'Cấm đi ngược chiều' là bao nhiêu?",
+        "context": "Điều 8 khoản 7 điểm d: Đi ngược chiều trên đường có biển 'Cấm đi ngược chiều'.",
+        "answer": "Mức phạt từ 6.000.000 đồng đến 8.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe vào đường cao tốc khi có chất ma túy trong cơ thể bị phạt bao nhiêu?",
+        "context": "Điều 8 khoản 9 điểm c: Điều khiển xe trên đường mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng.",
+        "answer": "Mức phạt từ 18.000.000 đồng đến 20.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi lùi xe trên đường cao tốc là bao nhiêu?",
+        "context": "Điều 8 khoản 9 điểm đ: Lùi xe trên đường cao tốc.",
+        "answer": "Mức phạt từ 18.000.000 đồng đến 20.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe quá tốc độ và gây tai nạn giao thông bị phạt bao nhiêu tiền?",
+        "context": "Điều 8 khoản 8 điểm a: Điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông.",
+        "answer": "Mức phạt từ 14.000.000 đồng đến 16.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi không nhường đường cho xe ưu tiên đang phát tín hiệu ưu tiên là bao nhiêu?",
+        "context": "Điều 8 khoản 6 điểm g: Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi điều khiển xe chạy dưới tốc độ tối thiểu trên đoạn đường có quy định tốc độ tối thiểu là bao nhiêu?",
+        "context": "Điều 8 khoản 3 điểm đ: Điều khiển xe chạy dưới tốc độ tối thiểu trên đoạn đường bộ có quy định tốc độ tối thiểu cho phép.",
+        "answer": "Mức phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe đi vào đường cấm bị xử phạt thế nào?",
+        "context": "Điều 8 khoản 6 điểm d: Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi dừng xe, đỗ xe không đúng nơi quy định trên đường cao tốc là bao nhiêu?",
+        "context": "Điều 8 khoản 6 điểm b: Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe trên đường trong cơ thể có chất ma túy bị xử phạt như thế nào?",
+        "context": "Điều 8 khoản 9 điểm c: Điều khiển xe trên đường mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng.",
+        "answer": "Mức phạt từ 18.000.000 đồng đến 20.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi điều khiển xe lùi trên đường cao tốc là bao nhiêu?",
+        "context": "Điều 8 khoản 9 điểm đ: Lùi xe trên đường cao tốc.",
+        "answer": "Mức phạt từ 18.000.000 đồng đến 20.000.000 đồng."
+      },
+      {
+        "question": "Hành vi mở cửa xe không đảm bảo an toàn gây tai nạn giao thông bị phạt bao nhiêu?",
+        "context": "Điều 8 khoản 8 điểm a: Mở cửa xe, để cửa xe mở không bảo đảm an toàn gây tai nạn giao thông.",
+        "answer": "Mức phạt từ 14.000.000 đồng đến 16.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe quay đầu tại nơi có biển báo cấm quay đầu bị xử phạt thế nào?",
+        "context": "Điều 8 khoản 4 điểm d: Quay đầu xe tại nơi có biển báo hiệu có nội dung cấm quay đầu đối với loại phương tiện đang điều khiển.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe sử dụng còi hơi trong khu dân cư có hệ thống chiếu sáng đang hoạt động?",
+        "context": "Điều 8 khoản 3 điểm b: Sử dụng còi hơi khi đi qua khu dân cư có hệ thống chiếu sáng đang hoạt động.",
+        "answer": "Mức phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe chạy quá tốc độ quy định trên 20 km/h bị xử phạt như thế nào?",
+        "context": "Điều 8 khoản 6 điểm a: Chạy quá tốc độ quy định trên 20 km/h.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi không chấp hành hiệu lệnh của đèn tín hiệu giao thông là bao nhiêu?",
+        "context": "Điều 8 khoản 4 điểm c: Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Hành vi sử dụng điện thoại di động khi điều khiển ô tô bị xử phạt như thế nào?",
+        "context": "Điều 8 khoản 5 điểm d: Sử dụng điện thoại di động khi đang điều khiển xe ô tô chạy trên đường.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với người điều khiển xe ô tô không thắt dây an toàn khi xe đang chạy là bao nhiêu?",
+        "context": "Điều 8 khoản 3 điểm k: Người điều khiển xe không thắt dây an toàn khi xe đang chạy.",
+        "answer": "Mức phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Người ngồi ghế sau không thắt dây an toàn khi xe đang chạy bị xử phạt bao nhiêu?",
+        "context": "Điều 8 khoản 3 điểm l: Người được chở trên xe ô tô không thắt dây an toàn khi xe đang chạy (nếu có trang bị dây an toàn).",
+        "answer": "Mức phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Hành vi điều khiển xe vượt đèn vàng khi chưa đảm bảo an toàn bị xử phạt như thế nào?",
+        "context": "Điều 8 khoản 4 điểm c: Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe không có gương chiếu hậu bên trái hoặc có nhưng không có tác dụng bị xử phạt thế nào?",
+        "context": "Điều 8 khoản 2 điểm e: Điều khiển xe không có gương chiếu hậu bên trái hoặc có nhưng không có tác dụng.",
+        "answer": "Mức phạt từ 300.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi điều khiển xe chạy vào làn thu phí tự động mà không đủ điều kiện thanh toán là bao nhiêu?",
+        "context": "Điều 8 khoản 4 điểm đ: Điều khiển xe đi vào làn đường thu phí tự động mà không đủ điều kiện thanh toán.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Hành vi không bật đèn chiếu sáng vào ban đêm hoặc khi sương mù, thời tiết xấu bị xử phạt như thế nào?",
+        "context": "Điều 8 khoản 3 điểm g: Không sử dụng đèn chiếu sáng vào ban đêm hoặc khi trời có sương mù, thời tiết xấu làm hạn chế tầm nhìn.",
+        "answer": "Mức phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe mô tô không đội mũ bảo hiểm bị xử phạt bao nhiêu?",
+        "context": "Điều 8 khoản 2 điểm i: Người điều khiển xe mô tô, xe gắn máy không đội mũ bảo hiểm hoặc đội mũ bảo hiểm không cài quai đúng quy cách.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Hành vi không nhường đường cho người đi bộ tại vạch kẻ sang đường bị xử phạt như thế nào?",
+        "context": "Điều 8 khoản 3 điểm h: Không nhường đường cho người đi bộ tại nơi có vạch kẻ đường dành cho người đi bộ.",
+        "answer": "Mức phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi không đi bên phải theo chiều đi của mình là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm a: Không đi bên phải theo chiều đi của mình, đi không đúng phần đường quy định.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe đạp máy không đội mũ bảo hiểm sẽ bị phạt bao nhiêu?",
+        "context": "Điều 9 khoản 4 điểm d: Người điều khiển xe đạp máy không đội 'mũ bảo hiểm cho người đi mô tô, xe máy' hoặc đội mũ bảo hiểm không cài quai đúng quy cách.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Tại sao không được đi xe đạp dàn hàng ngang từ 03 xe trở lên?",
+        "context": "Điều 9 khoản 1 điểm g: Điều khiển xe đạp, xe đạp máy đi dàn hàng ngang từ 03 xe trở lên, xe thô sơ khác đi dàn hàng ngang từ 02 xe trở lên.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Đi xe đạp bằng một bánh có bị xử phạt không?",
+        "context": "Điều 9 khoản 3 điểm b: Đi xe bằng một bánh đối với xe đạp, xe đạp máy; đi xe bằng hai bánh đối với xe xích lô.",
+        "answer": "Mức phạt từ 300.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi không chấp hành đèn tín hiệu giao thông là bao nhiêu?",
+        "context": "Điều 9 khoản 2 điểm đ: Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Hành vi vượt đèn đỏ có bị xử phạt không và mức phạt là bao nhiêu?",
+        "context": "Điều 9 khoản 2 điểm đ: Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe đạp có bị phạt khi đi vào đường cao tốc không?",
+        "context": "Điều 9 khoản 5: Phạt tiền từ 800.000 đồng đến 1.200.000 đồng đối với người điều khiển xe đi vào đường cao tốc, trừ phương tiện phục vụ việc quản lý, bảo trì đường cao tốc.",
+        "answer": "Mức phạt từ 800.000 đồng đến 1.200.000 đồng."
+      },
+      {
+        "question": "Hành vi nào liên quan đến nồng độ cồn bị phạt cao nhất?",
+        "context": "Điều 9 khoản 4 điểm b: Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi đi vào đường cấm là bao nhiêu?",
+        "context": "Điều 9 khoản 3 điểm c: Đi vào khu vực cấm, đường có biển báo hiệu nội dung cấm đi vào đối với loại phương tiện đang điều khiển.",
+        "answer": "Mức phạt từ 300.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Nếu gây tai nạn giao thông mà không dừng lại thì bị phạt bao nhiêu?",
+        "context": "Điều 9 khoản 4 điểm a: Gây tai nạn giao thông không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, không ở lại hiện trường hoặc không đến trình báo ngay với cơ quan công an, Ủy ban nhân dân nơi gần nhất.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi dừng xe đột ngột hoặc chuyển hướng không báo hiệu trước là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm b: Dừng xe đột ngột; chuyển hướng không báo hiệu trước.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe đạp kéo theo xe khác hoặc mang vác vật cồng kềnh sẽ bị phạt bao nhiêu?",
+        "context": "Điều 9 khoản 2 điểm c: Người đang điều khiển xe hoặc chở người ngồi trên xe bám, kéo, đẩy xe khác, vật khác, mang vác vật cồng kềnh; điều khiển xe kéo theo xe khác, vật khác.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi không nhường đường khi đi từ đường nhánh ra đường chính là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm n: Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi từ đường không ưu tiên ra đường ưu tiên, từ đường nhánh ra đường chính.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe đạp trong hầm đường bộ mà không bật đèn sẽ bị xử phạt như thế nào?",
+        "context": "Điều 9 khoản 1 điểm e: Chạy trong hầm đường bộ không bật đèn hoặc không có vật phát sáng báo hiệu; dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định; quay đầu xe trong hầm đường bộ.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Hành vi không chấp hành hiệu lệnh của người điều khiển giao thông bị phạt bao nhiêu?",
+        "context": "Điều 9 khoản 2 điểm b: Không chấp hành hiệu lệnh, chỉ dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi dừng xe đẩy làm quầy hàng lưu động trên đường gây cản trở giao thông là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm m: Dừng xe đẩy làm quầy hàng lưu động trên đường gây cản trở giao thông.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe đạp đi ngược chiều đường một chiều sẽ bị phạt bao nhiêu?",
+        "context": "Điều 9 khoản 3 điểm c: Đi ngược chiều đường của đường một chiều, đường có biển 'Cấm đi ngược chiều'.",
+        "answer": "Mức phạt từ 300.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi vượt bên phải trong các trường hợp không được phép là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm d: Vượt bên phải trong các trường hợp không được phép.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Hành vi điều khiển xe đạp máy mà trong máu có nồng độ cồn từ 50 đến 80 miligam/100 mililít máu bị phạt bao nhiêu?",
+        "context": "Điều 9 khoản 3 điểm d: Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.",
+        "answer": "Mức phạt từ 300.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi để xe ở lòng đường, vỉa hè trái phép là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm k: Để xe ở lòng đường, vỉa hè trái phép; đỗ xe ở lòng đường gây cản trở giao thông, đỗ xe trên cầu gây cản trở giao thông.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi chở quá số người quy định trên xe đạp, xe đạp máy là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm o: Xe đạp, xe đạp máy, xe xích lô chở quá số người quy định, trừ trường hợp chở người bệnh đi cấp cứu.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Hành vi dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định bị xử phạt bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm e: Dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định; quay đầu xe trong hầm đường bộ.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với người điều khiển xe đạp máy chở người không đội mũ bảo hiểm đúng quy cách là bao nhiêu?",
+        "context": "Điều 9 khoản 4 điểm đ: Chở người ngồi trên xe đạp máy không đội 'mũ bảo hiểm cho người đi mô tô, xe máy' hoặc đội 'mũ bảo hiểm cho người đi mô tô, xe máy' không cài quai đúng quy cách.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe đạp không chấp hành biển báo hiệu, vạch kẻ đường sẽ bị xử phạt bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm c: Không chấp hành hiệu lệnh hoặc chỉ dẫn của biển báo hiệu, vạch kẻ đường.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi không tuân thủ quy định dừng, đỗ xe tại nơi giao nhau với đường sắt là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm l: Không tuân thủ các quy định về dừng xe, đỗ xe tại nơi đường bộ giao nhau cùng mức với đường sắt.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe đạp máy mà trong hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu bị xử phạt bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm p: Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Hành vi không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn bị xử phạt như thế nào?",
+        "context": "Điều 9 khoản 2 điểm d: Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn hoặc gây cản trở đối với xe cơ giới xin vượt, gây cản trở xe ưu tiên.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe đạp, xe đạp máy sử dụng ô (dù) là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm h: Người điều khiển xe đạp, xe đạp máy sử dụng ô (dù), dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe đạp đi lạng lách, đánh võng là bao nhiêu?",
+        "context": "Điều 9 khoản 3 điểm a: Điều khiển xe lạng lách, đánh võng; đuổi nhau trên đường.",
+        "answer": "Mức phạt từ 300.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Hành vi điều khiển xe đạp máy buông cả hai tay bị xử phạt như thế nào?",
+        "context": "Điều 9 khoản 2 điểm a: Điều khiển xe đạp, xe đạp máy buông cả hai tay; chuyển hướng đột ngột trước đầu xe cơ giới đang chạy; dùng chân điều khiển xe đạp, xe đạp máy.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe đạp đi dàn hàng ngang từ 3 xe trở lên là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm g: Điều khiển xe đạp, xe đạp máy đi dàn hàng ngang từ 03 xe trở lên, xe thô sơ khác đi dàn hàng ngang từ 02 xe trở lên.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Hành vi quay đầu xe trong hầm đường bộ bị xử phạt bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm e: Quay đầu xe trong hầm đường bộ.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với người điều khiển xe đạp, xe đạp máy sử dụng điện thoại khi tham gia giao thông là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm h: Người điều khiển xe đạp, xe đạp máy sử dụng điện thoại hoặc các thiết bị điện tử khác.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Hành vi điều khiển xe đạp máy không đội mũ bảo hiểm đúng quy cách bị xử phạt như thế nào?",
+        "context": "Điều 9 khoản 4 điểm d: Người điều khiển xe đạp máy không đội 'mũ bảo hiểm cho người đi mô tô, xe máy' hoặc đội 'mũ bảo hiểm cho người đi mô tô, xe máy' không cài quai đúng quy cách.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi dừng xe trên phần đường xe chạy ở khu vực ngoài đô thị nơi có lề đường là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm đ: Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Hành vi để xe ở lòng đường, vỉa hè trái phép bị xử phạt như thế nào?",
+        "context": "Điều 9 khoản 1 điểm k: Để xe ở lòng đường, vỉa hè trái phép; đỗ xe ở lòng đường gây cản trở giao thông, đỗ xe trên cầu gây cản trở giao thông.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe đạp, xe đạp máy không bật đèn khi tham gia giao thông trong thời gian từ 18 giờ đến 06 giờ sáng hôm sau bị phạt bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm i: Điều khiển xe thô sơ trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau không sử dụng đèn hoặc không có báo hiệu ở phía trước và phía sau xe.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi không nhường đường cho xe ưu tiên là bao nhiêu?",
+        "context": "Điều 9 khoản 2 điểm d: Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn hoặc gây cản trở đối với xe cơ giới xin vượt, gây cản trở xe ưu tiên.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Hành vi điều khiển xe đạp đi vào đường cấm bị xử phạt bao nhiêu?",
+        "context": "Điều 9 khoản 3 điểm c: Đi vào khu vực cấm, đường có biển báo hiệu nội dung cấm đi vào đối với loại phương tiện đang điều khiển.",
+        "answer": "Mức phạt từ 300.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe đạp đi vào đường cao tốc là bao nhiêu?",
+        "context": "Điều 9 khoản 5: Phạt tiền từ 800.000 đồng đến 1.200.000 đồng đối với người điều khiển xe đi vào đường cao tốc, trừ phương tiện phục vụ việc quản lý, bảo trì đường cao tốc.",
+        "answer": "Mức phạt từ 800.000 đồng đến 1.200.000 đồng."
+      },
+      {
+        "question": "Hành vi không chấp hành hiệu lệnh của đèn tín hiệu giao thông bị xử phạt như thế nào?",
+        "context": "Điều 9 khoản 2 điểm đ: Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi không chấp hành hiệu lệnh của biển báo hiệu giao thông là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm c: Không chấp hành hiệu lệnh hoặc chỉ dẫn của biển báo hiệu.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Hành vi đỗ xe trên cầu gây cản trở giao thông bị xử phạt như thế nào?",
+        "context": "Điều 9 khoản 1 điểm k: Đỗ xe trên cầu gây cản trở giao thông.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ là bao nhiêu?",
+        "context": "Điều 9 khoản 4 điểm c: Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Hành vi đi xe bằng một bánh đối với xe đạp, xe đạp máy bị xử phạt bao nhiêu?",
+        "context": "Điều 9 khoản 3 điểm b: Đi xe bằng một bánh đối với xe đạp, xe đạp máy.",
+        "answer": "Mức phạt từ 300.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe đạp không có tín hiệu báo rẽ khi chuyển hướng là bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm b: Chuyển hướng không báo hiệu trước.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Hành vi không nhường đường khi đi từ đường không ưu tiên ra đường ưu tiên bị xử phạt bao nhiêu?",
+        "context": "Điều 9 khoản 1 điểm n: Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi từ đường không ưu tiên ra đường ưu tiên.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi không đi đúng phần đường quy định đối với người đi bộ là bao nhiêu?",
+        "context": "Điều 10 khoản 1 điểm a: Không đi đúng phần đường quy định; vượt qua dải phân cách; đi qua đường không đúng nơi quy định; đi qua đường không có tín hiệu bằng tay theo quy định.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Người đi bộ bị phạt bao nhiêu nếu không chấp hành hiệu lệnh của đèn tín hiệu giao thông?",
+        "context": "Điều 10 khoản 1 điểm b: Không chấp hành hiệu lệnh hoặc chỉ dẫn của đèn tín hiệu, biển báo hiệu, vạch kẻ đường.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Nếu người đi bộ không chấp hành hướng dẫn của cảnh sát giao thông, họ bị phạt bao nhiêu?",
+        "context": "Điều 10 khoản 1 điểm c: Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Người đi bộ đi vào đường cao tốc bị xử phạt thế nào?",
+        "context": "Điều 10 khoản 2 điểm a: Đi vào đường cao tốc, trừ người phục vụ việc quản lý, bảo trì đường cao tốc.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với người đi bộ mang vác vật cồng kềnh gây cản trở giao thông là bao nhiêu?",
+        "context": "Điều 10 khoản 2 điểm b: Mang, vác vật cồng kềnh gây cản trở giao thông.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Người đi bộ bị phạt bao nhiêu nếu đu bám vào phương tiện giao thông đang chạy?",
+        "context": "Điều 10 khoản 2 điểm c: Đu, bám vào phương tiện giao thông đang chạy.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Tại sao người đi bộ lại bị xử phạt khi đi vào đường cao tốc?",
+        "context": "Điều 10 khoản 2 điểm a: Đi vào đường cao tốc, trừ người phục vụ việc quản lý, bảo trì đường cao tốc.",
+        "answer": "Người đi bộ bị cấm đi vào đường cao tốc vì gây nguy hiểm cho bản thân và các phương tiện khác, mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Hành vi nào của người đi bộ bị xử phạt cao nhất theo Điều 10?",
+        "context": "Điều 10 khoản 2: Các hành vi như đi vào đường cao tốc, mang vác vật cồng kềnh gây cản trở giao thông, đu bám vào phương tiện giao thông đang chạy.",
+        "answer": "Hành vi này bị phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Khi nào người đi bộ không bị phạt khi đi vào đường cao tốc?",
+        "context": "Điều 10 khoản 2 điểm a: Đi vào đường cao tốc, trừ người phục vụ việc quản lý, bảo trì đường cao tốc.",
+        "answer": "Người phục vụ việc quản lý, bảo trì đường cao tốc không bị phạt."
+      },
+      {
+        "question": "Người đi bộ cần làm gì để tránh bị phạt khi qua đường?",
+        "context": "Điều 10 khoản 1 điểm a: Không đi đúng phần đường quy định; đi qua đường không đúng nơi quy định; đi qua đường không có tín hiệu bằng tay theo quy định.",
+        "answer": "Người đi bộ cần đi đúng phần đường, đúng nơi quy định và có tín hiệu bằng tay khi qua đường."
+      },
+      {
+        "question": "Nếu người đi bộ vượt qua dải phân cách thì mức phạt bao nhiêu?",
+        "context": "Điều 10 khoản 1 điểm a: Không đi đúng phần đường quy định; vượt qua dải phân cách.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Người đi bộ không tuân thủ vạch kẻ đường có bị phạt không?",
+        "context": "Điều 10 khoản 1 điểm b: Không chấp hành hiệu lệnh hoặc chỉ dẫn của vạch kẻ đường.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Nếu người đi bộ không chấp hành biển báo hiệu thì có bị phạt không?",
+        "context": "Điều 10 khoản 1 điểm b: Không chấp hành hiệu lệnh hoặc chỉ dẫn của biển báo hiệu.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Có mức phạt nào cao hơn 600.000 đồng đối với người đi bộ không?",
+        "context": "Điều 10 khoản 2: Mức phạt cao nhất đối với người đi bộ là từ 400.000 đồng đến 600.000 đồng.",
+        "answer": "Không, mức phạt cao nhất theo Điều 10 là 600.000 đồng."
+      },
+      {
+        "question": "Người đi bộ có thể bị phạt nếu không tuân theo hiệu lệnh của ai?",
+        "context": "Điều 10 khoản 1 điểm c: Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông.",
+        "answer": "Người đi bộ có thể bị phạt nếu không tuân theo hiệu lệnh của cảnh sát giao thông hoặc người kiểm soát giao thông."
+      },
+      {
+        "question": "Khi đi bộ, làm thế nào để không bị phạt?",
+        "context": "Điều 10 khoản 1 và 2: Người đi bộ cần tuân thủ các quy tắc giao thông như đi đúng phần đường, chấp hành tín hiệu và không gây cản trở giao thông.",
+        "answer": "Người đi bộ nên đi đúng phần đường, tuân thủ tín hiệu giao thông, không mang vác cồng kềnh và không đi vào đường cao tốc."
+      },
+      {
+        "question": "Hành vi đi bộ nào có thể gây nguy hiểm nhất?",
+        "context": "Điều 10 khoản 2 điểm a: Đi vào đường cao tốc.",
+        "answer": "Đi vào đường cao tốc có thể gây nguy hiểm nghiêm trọng, mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Người đi bộ có thể bị phạt nếu làm gì trên đường cao tốc?",
+        "context": "Điều 10 khoản 2 điểm a: Đi vào đường cao tốc, trừ người phục vụ việc quản lý, bảo trì đường cao tốc.",
+        "answer": "Người đi bộ có thể bị phạt từ 400.000 đồng đến 600.000 đồng nếu đi vào đường cao tốc mà không thuộc diện được phép."
+      },
+      {
+        "question": "Tại sao người đi bộ không được đu bám vào xe đang chạy?",
+        "context": "Điều 10 khoản 2 điểm c: Đu, bám vào phương tiện giao thông đang chạy.",
+        "answer": "Hành vi này nguy hiểm cho cả người đi bộ và phương tiện, mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+
+      {
+        "question": "Mức phạt cho hành vi không nhường đường theo quy định là bao nhiêu?",
+        "context": "Điều 11 khoản 1 điểm a: Không nhường đường theo quy định, không báo hiệu bằng tay khi chuyển hướng.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Hành vi không chấp hành hiệu lệnh của đèn tín hiệu bị xử phạt thế nào?",
+        "context": "Điều 11 khoản 1 điểm b: Không chấp hành hiệu lệnh hoặc chỉ dẫn của đèn tín hiệu, biển báo hiệu, vạch kẻ đường.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Phạt bao nhiêu tiền nếu không dọn sạch chất thải của vật nuôi trên đường?",
+        "context": "Điều 11 khoản 1 điểm c: Không đủ dụng cụ đựng chất thải của vật nuôi hoặc không dọn sạch chất thải của vật nuôi thải ra đường, vỉa hè.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Khi nào bị phạt vì để vật nuôi đi trên đường bộ không an toàn?",
+        "context": "Điều 11 khoản 1 điểm d: Để vật nuôi đi trên đường bộ không bảo đảm an toàn cho người, phương tiện đang tham gia giao thông.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi đi dàn hàng ngang từ 02 xe trở lên là bao nhiêu?",
+        "context": "Điều 11 khoản 1 điểm đ: Đi dàn hàng ngang từ 02 xe trở lên.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Nếu để vật nuôi kéo xe mà không có người điều khiển thì bị xử phạt như thế nào?",
+        "context": "Điều 11 khoản 1 điểm e: Để vật nuôi kéo xe mà không có người điều khiển.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Lỗi điều khiển xe không có báo hiệu theo quy định bị phạt bao nhiêu tiền?",
+        "context": "Điều 11 khoản 1 điểm g: Điều khiển xe không có báo hiệu theo quy định.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Người không chấp hành hiệu lệnh của CSGT sẽ bị phạt bao nhiêu?",
+        "context": "Điều 11 khoản 2 điểm a: Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Hành vi dẫn dắt vật nuôi chạy theo khi đang ngồi trên phương tiện bị xử phạt thế nào?",
+        "context": "Điều 11 khoản 2 điểm b: Dẫn dắt vật nuôi chạy theo khi đang điều khiển hoặc ngồi trên phương tiện giao thông đường bộ.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Nếu điều khiển, dẫn dắt vật nuôi đi vào đường cấm thì bị xử phạt thế nào?",
+        "context": "Điều 11 khoản 2 điểm c: Điều khiển, dẫn dắt vật nuôi đi không đúng phần đường quy định, đi vào đường cấm, khu vực cấm, đi vào phần đường của xe cơ giới.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt nếu đi vào đường cao tốc với xe vật nuôi kéo là bao nhiêu?",
+        "context": "Điều 11 khoản 3: Người điều khiển, dẫn dắt vật nuôi, điều khiển xe vật nuôi kéo đi vào đường cao tốc.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Tại sao không nên để vật nuôi đi trên đường bộ không an toàn?",
+        "context": "Điều 11 khoản 1 điểm d: Để vật nuôi đi trên đường bộ không bảo đảm an toàn cho người, phương tiện đang tham gia giao thông.",
+        "answer": "Vì có thể gây tai nạn giao thông, mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Làm thế nào để tránh bị phạt khi dẫn dắt vật nuôi trên đường?",
+        "context": "Điều 11 khoản 1 điểm d, e: Để vật nuôi đi trên đường bộ không bảo đảm an toàn hoặc để vật nuôi kéo xe mà không có người điều khiển.",
+        "answer": "Luôn kiểm soát vật nuôi, không để đi tự do hoặc kéo xe không có người điều khiển."
+      },
+      {
+        "question": "Hành vi nào có mức phạt cao nhất trong điều 11?",
+        "context": "Điều 11 khoản 3: Người điều khiển, dẫn dắt vật nuôi, điều khiển xe vật nuôi kéo đi vào đường cao tốc.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Có bị phạt nếu đi xe vật nuôi kéo mà không có báo hiệu không?",
+        "context": "Điều 11 khoản 1 điểm g: Điều khiển xe không có báo hiệu theo quy định.",
+        "answer": "Có, mức phạt từ 150.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Tại sao lại bị phạt khi dẫn dắt vật nuôi chạy theo xe?",
+        "context": "Điều 11 khoản 2 điểm b: Dẫn dắt vật nuôi chạy theo khi đang điều khiển hoặc ngồi trên phương tiện giao thông đường bộ.",
+        "answer": "Vì có thể gây nguy hiểm cho người đi đường, mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Những lỗi nào liên quan đến việc không chấp hành hiệu lệnh giao thông?",
+        "context": "Điều 11 khoản 1 điểm b và khoản 2 điểm a: Không chấp hành hiệu lệnh của đèn tín hiệu, biển báo hiệu, vạch kẻ đường hoặc của người điều khiển giao thông.",
+        "answer": "Mức phạt từ 150.000 đồng đến 250.000 đồng hoặc từ 400.000 đồng đến 600.000 đồng tùy lỗi."
+      },
+      {
+        "question": "Hành vi nào bị phạt cao hơn: không chấp hành đèn tín hiệu hay không chấp hành hiệu lệnh CSGT?",
+        "context": "Điều 11 khoản 1 điểm b và khoản 2 điểm a: Không chấp hành hiệu lệnh đèn tín hiệu hoặc của người điều khiển giao thông.",
+        "answer": "Không chấp hành hiệu lệnh CSGT bị phạt cao hơn, từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Hành vi đi vào đường cấm với xe vật nuôi kéo bị phạt thế nào?",
+        "context": "Điều 11 khoản 2 điểm c: Điều khiển, dẫn dắt vật nuôi đi không đúng phần đường quy định, đi vào đường cấm.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi sử dụng ô (dù) khi được chở trên xe đạp là bao nhiêu?",
+        "context": "Điều 12 khoản 1: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người được chở trên xe đạp, xe đạp máy sử dụng ô (dù).",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Người chơi cầu lông trái phép trên đường bộ bị phạt bao nhiêu?",
+        "context": "Điều 12 khoản 2 điểm b: Phạt tiền từ 200.000 đồng đến 250.000 đồng đối với cá nhân chơi cầu lông hoặc các hoạt động thể thao khác trái phép trên đường bộ.",
+        "answer": "Mức phạt từ 200.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi phơi thóc trên đường bộ là bao nhiêu?",
+        "context": "Điều 12 khoản 2 điểm g: Phạt tiền từ 200.000 đồng đến 250.000 đồng đối với cá nhân phơi thóc, lúa, rơm, rạ, nông, lâm, hải sản trên đường bộ.",
+        "answer": "Mức phạt từ 200.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Cá nhân để vật che khuất biển báo hiệu đường bộ bị xử phạt bao nhiêu?",
+        "context": "Điều 12 khoản 3: Phạt tiền từ 250.000 đồng đến 350.000 đồng đối với cá nhân để vật che khuất biển báo hiệu đường bộ, đèn tín hiệu giao thông.",
+        "answer": "Mức phạt từ 250.000 đồng đến 350.000 đồng."
+      },
+      {
+        "question": "Hành vi không thắt dây đai an toàn trên xe ô tô bị phạt bao nhiêu?",
+        "context": "Điều 12 khoản 4: Phạt tiền từ 350.000 đồng đến 400.000 đồng đối với người được chở trên xe ô tô không thắt dây đai an toàn khi xe đang chạy.",
+        "answer": "Mức phạt từ 350.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Người đi xe máy không đội mũ bảo hiểm bị phạt bao nhiêu?",
+        "context": "Điều 12 khoản 5 điểm b: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người đi mô tô, xe máy không đội mũ bảo hiểm hoặc đội không cài quai đúng quy cách.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với cá nhân không cứu giúp người bị tai nạn giao thông là bao nhiêu?",
+        "context": "Điều 12 khoản 6 điểm a: Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với cá nhân khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông.",
+        "answer": "Mức phạt từ 500.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Bán hàng rong trên vỉa hè bị phạt bao nhiêu?",
+        "context": "Điều 12 khoản 2 điểm e: Phạt tiền từ 200.000 đồng đến 250.000 đồng đối với cá nhân bán hàng rong hoặc bán hàng hóa nhỏ lẻ khác trên vỉa hè có quy định cấm bán hàng.",
+        "answer": "Mức phạt từ 200.000 đồng đến 250.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi họp chợ trái phép trên lòng đường là bao nhiêu?",
+        "context": "Điều 12 khoản 7: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với cá nhân sử dụng trái phép lòng đường, vỉa hè để họp chợ.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Xúc phạm người thi hành công vụ bị xử phạt thế nào?",
+        "context": "Điều 12 khoản 14 điểm a: Phạt tiền từ 35.000.000 đồng đến 37.000.000 đồng đối với cá nhân xúc phạm, đe dọa, cản trở, chống đối người thi hành công vụ.",
+        "answer": "Mức phạt từ 35.000.000 đồng đến 37.000.000 đồng."
+      },
+      {
+        "question": "Chiếm dụng dải phân cách giữa làm nơi bày bán hàng hóa bị phạt bao nhiêu?",
+        "context": "Điều 12 khoản 6 điểm d: Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với cá nhân chiếm dụng dải phân cách giữa để bày bán hàng hóa.",
+        "answer": "Mức phạt từ 500.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Làm rơi vãi hóa chất gây mất an toàn giao thông bị xử phạt thế nào?",
+        "context": "Điều 12 khoản 11 điểm a: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với cá nhân làm rơi vãi hóa chất, chất thải gây mất an toàn giao thông.",
+        "answer": "Mức phạt từ 6.000.000 đồng đến 8.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi không khai báo gian dối để trốn tránh trách nhiệm là bao nhiêu?",
+        "context": "Điều 12 khoản 13: Phạt tiền từ 30.000.000 đồng đến 32.000.000 đồng đối với cá nhân không khai báo hoặc khai báo gian dối để trốn tránh trách nhiệm khi vi phạm.",
+        "answer": "Mức phạt từ 30.000.000 đồng đến 32.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi điều khiển xe không có kính chắn gió hoặc có nhưng vỡ không có tác dụng là bao nhiêu?",
+        "context": "Điều 13 khoản 1: Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với hành vi điều khiển xe không có kính chắn gió hoặc có nhưng vỡ không có tác dụng.",
+        "answer": "Mức phạt từ 200.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe không có đủ đèn chiếu sáng sẽ bị xử phạt như thế nào?",
+        "context": "Điều 13 khoản 2 điểm a: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với hành vi điều khiển xe không có đủ đèn chiếu sáng.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe không có còi hoặc có nhưng còi không có tác dụng bị xử phạt bao nhiêu?",
+        "context": "Điều 13 khoản 2 điểm b: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với hành vi điều khiển xe không có còi hoặc có nhưng còi không có tác dụng.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Hành vi lắp thêm đèn không đúng quy định trên xe bị xử phạt bao nhiêu?",
+        "context": "Điều 13 khoản 3 điểm a: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi lắp thêm đèn không đúng quy định.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Khi nào người điều khiển xe bị phạt từ 2.000.000 đồng đến 3.000.000 đồng?",
+        "context": "Điều 13 khoản 4: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với các hành vi như không có chứng nhận đăng ký xe, điều khiển xe tải có kích thước thùng xe không đúng quy định, dán phù hiệu sai quy định.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Lái xe có tem kiểm định an toàn kỹ thuật nhưng đã hết hạn dưới 1 tháng sẽ bị phạt như thế nào?",
+        "context": "Điều 13 khoản 5 điểm a: Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với hành vi điều khiển xe có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật đã hết hiệu lực dưới 01 tháng.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 4.000.000 đồng."
+      },
+      {
+        "question": "Sử dụng chứng nhận đăng ký xe bị tẩy xóa có bị phạt không, mức phạt là bao nhiêu?",
+        "context": "Điều 13 khoản 6 điểm a: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi sử dụng chứng nhận đăng ký xe bị tẩy xóa.",
+        "answer": "Mức phạt từ 4.000.000 đồng đến 6.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe không gắn biển số sẽ bị xử phạt bao nhiêu?",
+        "context": "Điều 13 khoản 7 điểm b: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với hành vi điều khiển xe không gắn biển số.",
+        "answer": "Mức phạt từ 10.000.000 đồng đến 12.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi gắn biển số không đúng quy định là bao nhiêu?",
+        "context": "Điều 13 khoản 8 điểm b: Phạt tiền từ 20.000.000 đồng đến 26.000.000 đồng đối với hành vi gắn biển số không đúng quy định.",
+        "answer": "Mức phạt từ 20.000.000 đồng đến 26.000.000 đồng."
+      },
+      {
+        "question": "Hành vi nào sẽ bị tịch thu phương tiện theo quy định tại Điều 13?",
+        "context": "Điều 13 khoản 9: Tịch thu phương tiện đối với hành vi điều khiển xe quá niên hạn sử dụng hoặc xe lắp ráp trái quy định.",
+        "answer": "Tịch thu phương tiện."
+      },
+      {
+        "question": "Người vi phạm lỗi gắn biển số không đúng quy định có bị trừ điểm GPLX không?",
+        "context": "Điều 13 khoản 13 điểm c: Thực hiện hành vi gắn biển số không đúng quy định bị trừ 10 điểm giấy phép lái xe.",
+        "answer": "Bị trừ 10 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Lái xe không đủ hệ thống hãm có bị phạt tiền không? Nếu có, mức phạt là bao nhiêu?",
+        "context": "Điều 13 khoản 5 điểm b: Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với hành vi điều khiển xe không đủ hệ thống hãm.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 4.000.000 đồng."
+      },
+      {
+        "question": "Khi nào một xe bị buộc phải khôi phục lại tình trạng ban đầu?",
+        "context": "Điều 13 khoản 11: Người vi phạm một số hành vi sẽ bị buộc khôi phục lại tình trạng ban đầu, như lắp thêm thiết bị không đúng quy định hoặc gắn biển số sai quy cách.",
+        "answer": "Khi có hành vi thay đổi kết cấu xe trái quy định hoặc gắn biển số sai quy cách."
+      },
+      {
+        "question": "Lái xe có hệ thống chuyển hướng không đúng tiêu chuẩn kỹ thuật bị xử phạt bao nhiêu?",
+        "context": "Điều 13 khoản 3 điểm b: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi điều khiển xe có hệ thống chuyển hướng không đúng tiêu chuẩn kỹ thuật.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe tải có kích thước thùng xe không đúng quy định bị xử phạt bao nhiêu?",
+        "context": "Điều 13 khoản 4 điểm b: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi điều khiển xe tải có kích thước thùng xe không đúng quy định.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Hành vi sử dụng còi vượt quá âm lượng cho phép bị xử phạt thế nào?",
+        "context": "Điều 13 khoản 5 điểm d: Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với hành vi lắp đặt, sử dụng còi vượt quá âm lượng theo quy định.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 4.000.000 đồng."
+      },
+      {
+        "question": "Trường hợp nào bị buộc nộp lại chứng nhận đăng ký xe?",
+        "context": "Điều 13 khoản 11 điểm d: Buộc nộp lại chứng nhận đăng ký xe nếu sử dụng chứng nhận bị tẩy xóa hoặc không do cơ quan có thẩm quyền cấp.",
+        "answer": "Khi chứng nhận đăng ký xe bị tẩy xóa hoặc không hợp lệ."
+      },
+      {
+        "question": "Lái xe đăng ký tạm thời hoạt động quá phạm vi cho phép bị xử phạt thế nào?",
+        "context": "Điều 13 khoản 7 điểm a: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với hành vi điều khiển xe đăng ký tạm thời hoạt động quá phạm vi cho phép.",
+        "answer": "Mức phạt từ 10.000.000 đồng đến 12.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi điều khiển xe không lắp đủ bánh lốp hoặc lắp bánh lốp không đúng kích cỡ là bao nhiêu?",
+        "context": "Điều 13 khoản 3 điểm c: Điều khiển xe không lắp đủ bánh lốp hoặc lắp bánh lốp không đúng kích cỡ hoặc không bảo đảm tiêu chuẩn kỹ thuật (kể cả rơ moóc và sơ mi rơ moóc).",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với xe ô tô tải có kích thước thùng xe không đúng với thông số kỹ thuật là bao nhiêu?",
+        "context": "Điều 13 khoản 4 điểm b: Điều khiển xe ô tô tải (kể cả rơ moóc và sơ mi rơ moóc) có kích thước thùng xe không đúng với thông số kỹ thuật được ghi trong giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe kinh doanh vận tải có niên hạn sử dụng không bảo đảm điều kiện của hình thức kinh doanh đã đăng ký là bao nhiêu?",
+        "context": "Điều 13 khoản 5 điểm c: Điều khiển xe kinh doanh vận tải có niên hạn sử dụng không bảo đảm điều kiện của hình thức kinh doanh đã đăng ký.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 4.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi điều khiển xe không có còi hoặc còi không có tác dụng là bao nhiêu?",
+        "context": "Điều 13 khoản 2 điểm b: Điều khiển xe không có còi hoặc có nhưng còi không có tác dụng.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe có hệ thống chuyển hướng không đúng tiêu chuẩn an toàn kỹ thuật là bao nhiêu?",
+        "context": "Điều 13 khoản 3 điểm b: Điều khiển xe có hệ thống chuyển hướng của xe không đúng tiêu chuẩn an toàn kỹ thuật.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi điều khiển xe ô tô lắp thêm đèn không đúng quy định là bao nhiêu?",
+        "context": "Điều 13 khoản 3 điểm a: Điều khiển xe lắp thêm đèn phía trước, phía sau, trên nóc, dưới gầm, một hoặc cả hai bên thành xe, trừ đèn sương mù dạng rời được lắp theo quy định.",
+        "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe có giấy chứng nhận hoặc tem kiểm định nhưng đã hết hiệu lực dưới 01 tháng là bao nhiêu?",
+        "context": "Điều 13 khoản 5 điểm a: Điều khiển xe có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường nhưng đã hết hiệu lực (hạn sử dụng) dưới 01 tháng.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 4.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với xe không có thiết bị chữa cháy hoặc có nhưng không có tác dụng là bao nhiêu?",
+        "context": "Điều 13 khoản 2 điểm a: Điều khiển xe không có đủ thiết bị chữa cháy hoặc có nhưng không có tác dụng, không đúng tiêu chuẩn thiết kế.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi sử dụng còi vượt quá âm lượng cho phép là bao nhiêu?",
+        "context": "Điều 13 khoản 5 điểm d: Điều khiển xe lắp đặt, sử dụng còi vượt quá âm lượng theo quy định.",
+        "answer": "Mức phạt từ 3.000.000 đồng đến 4.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe không có chứng nhận đăng ký xe hoặc sử dụng chứng nhận đăng ký xe đã hết hạn là bao nhiêu?",
+        "context": "Điều 13 khoản 4 điểm a: Điều khiển xe không có chứng nhận đăng ký xe hoặc sử dụng chứng nhận đăng ký xe đã hết hạn sử dụng, hết hiệu lực.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi điều khiển xe không có còi là bao nhiêu?",
+        "context": "Điều 14 khoản 1 điểm a: Điều khiển xe không có còi.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi điều khiển xe không có đèn tín hiệu là bao nhiêu?",
+        "context": "Điều 14 khoản 1 điểm b: Điều khiển xe không có đèn tín hiệu hoặc có nhưng không có tác dụng.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Tại sao hành vi điều khiển xe không có hệ thống hãm lại bị xử phạt?",
+        "context": "Điều 14 khoản 1 điểm d: Điều khiển xe không có hệ thống hãm hoặc có nhưng không có tác dụng, không bảo đảm tiêu chuẩn kỹ thuật.",
+        "answer": "Hành vi này ảnh hưởng đến an toàn giao thông nên bị phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi điều khiển xe lắp đèn chiếu sáng về phía sau xe là bao nhiêu?",
+        "context": "Điều 14 khoản 1 điểm đ: Điều khiển xe lắp đèn chiếu sáng về phía sau xe.",
+        "answer": "Mức phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi điều khiển xe không có chứng nhận đăng ký xe là bao nhiêu?",
+        "context": "Điều 14 khoản 2 điểm a: Điều khiển xe không có chứng nhận đăng ký xe hoặc sử dụng chứng nhận đăng ký xe đã hết hạn sử dụng.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Hành vi sử dụng chứng nhận đăng ký xe bị tẩy xóa bị phạt bao nhiêu tiền?",
+        "context": "Điều 14 khoản 2 điểm b: Sử dụng chứng nhận đăng ký xe bị tẩy xóa.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe đăng ký tạm thời quá phạm vi cho phép có mức phạt bao nhiêu?",
+        "context": "Điều 14 khoản 2 điểm c: Điều khiển xe đăng ký tạm thời hoạt động quá phạm vi, tuyến đường, thời hạn cho phép.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt cho hành vi điều khiển xe không có bộ phận giảm thanh là bao nhiêu?",
+        "context": "Điều 14 khoản 2 điểm d: Điều khiển xe không có bộ phận giảm thanh, giảm khói hoặc không bảo đảm quy chuẩn môi trường.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi sử dụng còi không đúng quy chuẩn kỹ thuật là bao nhiêu?",
+        "context": "Điều 14 khoản 2 điểm đ: Sử dụng còi không đúng quy chuẩn kỹ thuật cho từng loại xe.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe không gắn biển số sẽ bị phạt bao nhiêu tiền?",
+        "context": "Điều 14 khoản 3 điểm a: Điều khiển xe không gắn biển số.",
+        "answer": "Mức phạt từ 4.000.000 đồng đến 6.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi gắn biển số không đúng với chứng nhận đăng ký xe là bao nhiêu?",
+        "context": "Điều 14 khoản 3 điểm a: Gắn biển số không đúng với chứng nhận đăng ký xe.",
+        "answer": "Mức phạt từ 4.000.000 đồng đến 6.000.000 đồng."
+      },
+      {
+        "question": "Tại sao việc gắn biển số bị bẻ cong hoặc che lấp lại bị phạt?",
+        "context": "Điều 14 khoản 3 điểm b: Gắn biển số bị bẻ cong, che lấp, làm thay đổi chữ, số, màu sắc.",
+        "answer": "Hành vi này gây khó khăn cho công tác kiểm tra, nhận diện xe nên bị phạt từ 4.000.000 đồng đến 6.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi điều khiển xe sản xuất, lắp ráp trái quy định là gì?",
+        "context": "Điều 14 khoản 4: Điều khiển loại xe sản xuất, lắp ráp trái quy định tham gia giao thông.",
+        "answer": "Phương tiện sẽ bị tịch thu."
+      },
+      {
+        "question": "Ngoài tiền phạt, điều khiển xe không gắn biển số có bị hình phạt bổ sung nào không?",
+        "context": "Điều 14 khoản 5 điểm a: Thực hiện hành vi điều khiển xe không gắn biển số bị tịch thu biển số xe.",
+        "answer": "Ngoài tiền phạt, biển số xe sẽ bị tịch thu."
+      },
+      {
+        "question": "Người vi phạm có phải khắc phục hậu quả khi sử dụng còi không đúng quy chuẩn không?",
+        "context": "Điều 14 khoản 6 điểm a: Buộc thay thế thiết bị đủ tiêu chuẩn an toàn kỹ thuật hoặc khôi phục tính năng kỹ thuật.",
+        "answer": "Có, phải thay thế thiết bị hoặc khôi phục tính năng kỹ thuật."
+      },
+      {
+        "question": "Mức phạt khi sử dụng giấy đăng ký xe bị tẩy xóa là bao nhiêu?",
+        "context": "Điều 14 khoản 2 điểm b: Sử dụng giấy đăng ký xe bị tẩy xóa.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt khi sử dụng chứng nhận đăng ký xe không do cơ quan có thẩm quyền cấp là bao nhiêu?",
+        "context": "Điều 14 khoản 2 điểm b: Sử dụng chứng nhận đăng ký xe không do cơ quan có thẩm quyền cấp.",
+        "answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe vi phạm khoản 3 Điều 14 bị trừ bao nhiêu điểm giấy phép lái xe?",
+        "context": "Điều 14 khoản 8 điểm b: Thực hiện hành vi quy định tại khoản 3 Điều này bị trừ điểm giấy phép lái xe.",
+        "answer": "Bị trừ 06 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Người điều khiển xe vi phạm khoản 2 Điều 14 bị trừ bao nhiêu điểm giấy phép lái xe?",
+        "context": "Điều 14 khoản 8 điểm a: Thực hiện hành vi quy định tại khoản 2 Điều này bị trừ điểm giấy phép lái xe.",
+        "answer": "Bị trừ 02 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Mức phạt cho hành vi điều khiển xe không có còi hoặc chuông là bao nhiêu?",
+        "context": "Điều 15 khoản 1: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi điều khiển xe không có bộ phận phát âm thanh cảnh báo (còi, chuông).",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng"
+      },
+      {
+        "question": "Mức phạt cho việc điều khiển xe thô sơ không có đèn chiếu sáng phía trước là bao nhiêu?",
+        "context": "Điều 15 khoản 1: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi điều khiển xe không có đèn chiếu sáng hoặc tấm phản quang phía trước.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng"
+      },
+      {
+        "question": "Tại sao người điều khiển xe không có đèn tín hiệu phía sau lại bị phạt?",
+        "context": "Điều 15 khoản 1: Người điều khiển xe không có đèn tín hiệu hoặc tấm phản quang phía sau xe (đối với loại xe quy định phải có bộ phận này) sẽ bị xử phạt.",
+        "answer": "Do vi phạm quy định về điều kiện của phương tiện khi tham gia giao thông."
+      },
+      {
+        "question": "Người điều khiển xe không có hệ thống hãm bị xử phạt bao nhiêu tiền?",
+        "context": "Điều 15 khoản 2: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với hành vi điều khiển xe không có hệ thống (bộ phận) hãm.",
+        "answer": "Mức phạt từ 300.000 đồng đến 400.000 đồng"
+      },
+      {
+        "question": "Điều kiện nào của phương tiện khi tham gia giao thông có thể dẫn đến mức phạt cao hơn?",
+        "context": "Điều 15: Vi phạm liên quan đến hệ thống hãm bị xử phạt cao hơn (300.000 - 400.000 đồng) so với vi phạm liên quan đến còi, đèn (100.000 - 200.000 đồng).",
+        "answer": "Vi phạm về hệ thống hãm có mức phạt cao hơn."
+      },
+      {
+        "question": "Khi nào một người bị phạt do không có tấm phản quang phía trước xe?",
+        "context": "Điều 15 khoản 1: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi điều khiển xe không có tấm phản quang phía trước (đối với loại xe quy định phải có).",
+        "answer": "Khi điều khiển xe thiếu tấm phản quang phía trước theo quy định."
+      },
+      {
+        "question": "Mức phạt cho hành vi điều khiển xe có hệ thống hãm không hiệu lực là bao nhiêu?",
+        "context": "Điều 15 khoản 2: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với hành vi điều khiển xe có hệ thống hãm nhưng không có hiệu lực.",
+        "answer": "Mức phạt từ 300.000 đồng đến 400.000 đồng"
+      },
+      {
+        "question": "Người vi phạm quy định về điều kiện phương tiện có thể bị phạt tối đa bao nhiêu tiền?",
+        "context": "Điều 15: Mức phạt cao nhất là 400.000 đồng đối với hành vi điều khiển xe không có hệ thống hãm hoặc có nhưng không hiệu lực.",
+        "answer": "Tối đa 400.000 đồng"
+      },
+      {
+        "question": "Làm thế nào để tránh bị phạt theo Điều 15?",
+        "context": "Điều 15 quy định về điều kiện phương tiện: Người điều khiển xe cần đảm bảo xe có đủ còi, đèn, tấm phản quang và hệ thống hãm hoạt động hiệu quả.",
+        "answer": "Đảm bảo xe có đầy đủ và hoạt động đúng các bộ phận theo quy định."
+      },
+      {
+        "question": "Tại sao hệ thống hãm không hiệu lực bị phạt nặng hơn so với việc thiếu còi?",
+        "context": "Điều 15: Hệ thống hãm ảnh hưởng trực tiếp đến an toàn giao thông, nên mức phạt cao hơn (300.000 - 400.000 đồng) so với vi phạm về còi (100.000 - 200.000 đồng).",
+        "answer": "Vì ảnh hưởng trực tiếp đến an toàn giao thông."
+      },
+      {
+        "question": "Mức phạt thấp nhất khi vi phạm quy định về điều kiện phương tiện là bao nhiêu?",
+        "context": "Điều 15 khoản 1: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với các hành vi như không có còi, đèn, hoặc tấm phản quang.",
+        "answer": "100.000 đồng"
+      },
+      {
+        "question": "Hành vi nào bị phạt mức 200.000 đồng theo Điều 15?",
+        "context": "Điều 15 khoản 1: Mức phạt từ 100.000 đồng đến 200.000 đồng áp dụng cho các hành vi như không có còi, đèn hoặc tấm phản quang.",
+        "answer": "Không có còi, đèn hoặc tấm phản quang."
+      },
+      {
+        "question": "Mức phạt 300.000 đồng áp dụng cho hành vi vi phạm nào?",
+        "context": "Điều 15 khoản 2: Mức phạt từ 300.000 đồng đến 400.000 đồng áp dụng cho hành vi không có hệ thống hãm hoặc có nhưng không hiệu lực.",
+        "answer": "Không có hệ thống hãm hoặc có nhưng không hiệu lực."
+      },
+      {
+        "question": "Phương tiện nào cần có đèn chiếu sáng hoặc tấm phản quang phía trước?",
+        "context": "Điều 15 khoản 1: Các loại xe được quy định bắt buộc phải có đèn chiếu sáng hoặc tấm phản quang phía trước.",
+        "answer": "Các xe theo quy định phải có đèn hoặc tấm phản quang."
+      },
+      {
+        "question": "Không có tấm phản quang phía sau xe bị phạt bao nhiêu?",
+        "context": "Điều 15 khoản 1: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi không có tấm phản quang phía sau.",
+        "answer": "Mức phạt từ 100.000 đồng đến 200.000 đồng"
+      },
+      {
+        "question": "Người vi phạm Điều 15 có bị tước quyền lái xe không?",
+        "context": "Điều 15 chỉ quy định về xử phạt tiền, không đề cập đến việc tước quyền điều khiển phương tiện.",
+        "answer": "Không bị tước quyền điều khiển phương tiện."
+      },
+      {
+        "question": "Tại sao phải có đèn tín hiệu hoặc tấm phản quang phía sau xe?",
+        "context": "Điều 15 khoản 1: Để đảm bảo phương tiện có thể được nhận diện vào ban đêm hoặc trong điều kiện thiếu sáng.",
+        "answer": "Để đảm bảo an toàn giao thông, giúp phương tiện dễ nhận diện."
+      },
+      {
+        "question": "Có bị phạt nếu còi xe bị hỏng nhưng vẫn có chuông không?",
+        "context": "Điều 15 khoản 1: Yêu cầu phương tiện phải có còi hoặc chuông, nếu có chuông vẫn đáp ứng yêu cầu.",
+        "answer": "Không bị phạt nếu xe có chuông hoạt động."
+      },
+      {
+        "question": "Mức phạt có thay đổi nếu xe không có cả còi lẫn chuông không?",
+        "context": "Điều 15 khoản 1: Dù thiếu một hoặc cả hai (còi, chuông), mức phạt vẫn từ 100.000 đồng đến 200.000 đồng.",
+        "answer": "Mức phạt không thay đổi, vẫn từ 100.000 đồng đến 200.000 đồng."
       }
-      ]
+    
+]
