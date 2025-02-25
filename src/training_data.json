@@ -1719,6 +1719,696 @@
         "question": "Mức phạt có thay đổi nếu xe không có cả còi lẫn chuông không?",
         "context": "Điều 15 khoản 1: Dù thiếu một hoặc cả hai (còi, chuông), mức phạt vẫn từ 100.000 đồng đến 200.000 đồng.",
         "answer": "Mức phạt không thay đổi, vẫn từ 100.000 đồng đến 200.000 đồng."
-      }
+      },
+      {"question": "Mức phạt cho hành vi điều khiển xe máy chuyên dùng không gắn biển số là bao nhiêu?",
+    "context": "Điều 16 khoản 1 điểm a: Điều khiển xe không gắn biển số (đối với loại xe có quy định phải gắn biển số).",
+    "answer": "Nếu bạn chạy xe mà không gắn biển số (trong trường hợp bắt buộc), bạn sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng đấy!"},
+
+    
+  {
+    "question": "Người điều khiển xe không có hệ thống hãm đạt tiêu chuẩn kỹ thuật bị xử phạt thế nào?",
+    "context": "Điều 16 khoản 1 điểm b: Điều khiển xe không có hệ thống hãm hoặc có hệ thống hãm nhưng không bảo đảm tiêu chuẩn kỹ thuật.",
+    "answer": "Chạy xe mà không có hệ thống phanh đạt chuẩn thì khá nguy hiểm. Nếu vi phạm, bạn sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng!"
+  },
+  {
+    "question": "Điều khiển xe có hệ thống chuyển hướng không đảm bảo tiêu chuẩn kỹ thuật bị phạt bao nhiêu?",
+    "context": "Điều 16 khoản 1 điểm b: Điều khiển xe có hệ thống chuyển hướng không bảo đảm tiêu chuẩn kỹ thuật.",
+    "answer": "Hệ thống chuyển hướng mà không đạt tiêu chuẩn thì rất dễ gây tai nạn. Nếu bị phát hiện, bạn sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng nhé!"
+  },
+  {
+    "question": "Nếu xe có bộ phận chuyên dùng lắp đặt không đúng vị trí thì mức phạt là bao nhiêu?",
+    "context": "Điều 16 khoản 1 điểm c: Điều khiển xe có các bộ phận chuyên dùng lắp đặt không đúng vị trí; không bảo đảm an toàn khi di chuyển.",
+    "answer": "Xe mà có bộ phận chuyên dùng lắp sai vị trí thì có thể gây nguy hiểm khi di chuyển. Nếu bị bắt, bạn sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng."
+  },
+  {
+    "question": "Mức phạt khi xe không có đủ đèn chiếu sáng là bao nhiêu?",
+    "context": "Điều 16 khoản 1 điểm d: Điều khiển xe không có đủ đèn chiếu sáng.",
+    "answer": "Đèn xe rất quan trọng khi chạy buổi tối, nếu xe bạn không có đủ đèn chiếu sáng thì có thể bị phạt từ 800.000 đồng đến 1.000.000 đồng nhé!"
+  },
+  {
+    "question": "Điều khiển xe có bộ phận giảm thanh, giảm khói không có tác dụng bị phạt thế nào?",
+    "context": "Điều 16 khoản 1 điểm d: Điều khiển xe không có bộ phận giảm thanh, giảm khói hoặc có nhưng không có tác dụng.",
+    "answer": "Xe mà ồn ào hoặc xả khói nhiều quá thì gây ô nhiễm lắm. Nếu không có bộ phận giảm thanh, giảm khói hoặc có nhưng không hiệu quả, bạn sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng!"
+  },
+  {
+    "question": "Xe có giấy chứng nhận kiểm định an toàn kỹ thuật nhưng hết hạn dưới 1 tháng bị phạt bao nhiêu?",
+    "context": "Điều 16 khoản 1 điểm đ: Điều khiển xe có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường nhưng đã hết hiệu lực dưới 01 tháng.",
+    "answer": "Nếu giấy chứng nhận kiểm định của xe bạn hết hạn dưới 1 tháng, bạn sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng nhé! Nhớ kiểm tra giấy tờ trước khi ra đường nha!"
+  },
+  {
+    "question": "Mức phạt cho hành vi điều khiển xe gắn biển số bị bẻ cong, che lấp là bao nhiêu?",
+    "context": "Điều 16 khoản 1 điểm e: Điều khiển xe gắn biển số bị bẻ cong, che lấp, làm thay đổi chữ, số, màu sắc.",
+    "answer": "Nếu biển số xe của bạn bị che lấp, bẻ cong hay làm mờ chữ số, bạn có thể bị phạt từ 800.000 đồng đến 1.000.000 đồng đó!"
+  },
+  {
+    "question": "Điều khiển xe hoạt động không đúng phạm vi quy định bị phạt thế nào?",
+    "context": "Điều 16 khoản 2 điểm a: Điều khiển xe hoạt động không đúng phạm vi quy định.",
+    "answer": "Nếu bạn chạy xe không đúng phạm vi được phép, bạn sẽ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng nha!"
+  },
+  {
+    "question": "Xe không có giấy chứng nhận kiểm định an toàn kỹ thuật bị xử phạt bao nhiêu?",
+    "context": "Điều 16 khoản 2 điểm b: Điều khiển xe không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
+    "answer": "Giấy kiểm định an toàn kỹ thuật rất quan trọng. Nếu bạn không có giấy này, bạn sẽ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng nhé!"
+  },
+  {
+    "question": "Nếu sử dụng giấy chứng nhận kiểm định bị tẩy xóa thì có hình thức xử phạt bổ sung nào?",
+    "context": "Điều 16 khoản 5 điểm b: Buộc nộp lại giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường bị tẩy xóa.",
+    "answer": "Nếu bạn dùng giấy tờ kiểm định bị tẩy xóa, không chỉ bị phạt tiền mà bạn còn phải nộp lại giấy chứng nhận luôn đấy!"
+  },
+  {
+    "question": "Tại sao cần tuân thủ quy định về kiểm định an toàn kỹ thuật?",
+    "context": "Điều 16 quy định về các mức xử phạt đối với vi phạm liên quan đến kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
+    "answer": "Chắc chắn rồi! Kiểm định an toàn giúp xe của bạn vận hành tốt hơn và tránh gây nguy hiểm khi tham gia giao thông. Chẳng ai muốn xe hư giữa đường đâu, đúng không?"
+  },
+  {
+    "question": "Nếu tôi điều khiển xe máy chuyên dùng tự chế thì có bị phạt không?",
+    "context": "Điều 16 khoản 3: Tịch thu phương tiện đối với hành vi điều khiển xe máy chuyên dùng sản xuất, lắp ráp hoặc cải tạo trái quy định.",
+    "answer": "Nếu bạn chạy xe máy chuyên dùng tự chế hoặc cải tạo sai quy định, thì không chỉ bị phạt đâu mà xe còn bị tịch thu luôn đó!"
+  },
+  {
+    "question": "Mức phạt khi sử dụng giấy đăng ký xe giả là bao nhiêu?",
+    "context": "Điều 16 khoản 2 điểm đ: Sử dụng chứng nhận đăng ký xe không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa.",
+    "answer": "Dùng giấy đăng ký xe giả là vi phạm nghiêm trọng nhé! Bạn sẽ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng và có thể bị thu hồi giấy tờ luôn!"
+  },
+  {
+    "question": "Nếu không chứng minh được nguồn gốc của xe thì hậu quả là gì?",
+    "context": "Điều 16 khoản 4 điểm b: Nếu không có giấy tờ chứng minh nguồn gốc hợp pháp của xe thì bị tịch thu phương tiện.",
+    "answer": "Nếu bạn không có giấy tờ chứng minh nguồn gốc xe, xe của bạn có thể bị tịch thu luôn đấy. Nhớ kiểm tra giấy tờ trước khi mua xe nhé!"
+  },
+  {
+    "question": "Điều khiển xe không có giấy đăng ký bị phạt bao nhiêu?",
+    "context": "Điều 16 khoản 2 điểm c: Điều khiển xe không có chứng nhận đăng ký xe hoặc sử dụng giấy đăng ký hết hạn.",
+    "answer": "Không có giấy đăng ký xe khi chạy trên đường thì bạn có thể bị phạt từ 1.000.000 đồng đến 2.000.000 đồng nhé!"
+  },
+  {
+    "question": "Nếu biển số xe không rõ chữ hoặc số thì có bị phạt không?",
+    "context": "Điều 16 khoản 1 điểm e: Gắn biển số không rõ chữ, số hoặc bị che lấp, làm thay đổi màu sắc.",
+    "answer": "Chạy xe mà biển số bị mờ, che lấp hoặc không rõ chữ số thì sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng nhé!"
+  },
+  {
+    "question": "Điều khiển xe có hệ thống đèn sai quy chuẩn bị phạt thế nào?",
+    "context": "Điều 16 khoản 1 điểm d: Điều khiển xe không có đủ đèn chiếu sáng hoặc hệ thống đèn không đạt chuẩn.",
+    "answer": "Nếu đèn xe không đủ sáng hoặc sai quy chuẩn, bạn có thể bị phạt từ 800.000 đồng đến 1.000.000 đồng đó!"
+  },
+  {
+    "question": "Nếu gắn biển số xe không đúng vị trí thì có bị xử phạt không?",
+    "context": "Điều 16 khoản 1 điểm e: Gắn biển số không đúng vị trí, không đúng quy cách.",
+    "answer": "Có chứ! Gắn biển số sai vị trí có thể bị phạt từ 800.000 đồng đến 1.000.000 đồng đó. Nhớ kiểm tra biển số trước khi chạy nha!"
+  },
+  {
+    "question": "Sử dụng giấy chứng nhận đăng ký xe có chứng thực nhưng hết hạn có bị phạt không?",
+    "context": "Điều 16 khoản 2 điểm c: Sử dụng chứng nhận đăng ký xe hết hiệu lực.",
+    "answer": "Dù là giấy chứng thực nhưng nếu hết hạn thì vẫn bị phạt từ 1.000.000 đồng đến 2.000.000 đồng đó nha!"
+  },
+  {
+    "question": "Điều khiển xe có tem kiểm định giả bị xử lý thế nào?",
+    "context": "Điều 16 khoản 2 điểm đ: Sử dụng tem kiểm định không do cơ quan có thẩm quyền cấp.",
+    "answer": "Nếu bạn dùng tem kiểm định giả, bạn không chỉ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng mà còn có nguy cơ bị tịch thu giấy tờ nữa đấy!"
+  },
+  {
+    "question": "Nếu xe không đảm bảo tiêu chuẩn khí thải thì bị phạt bao nhiêu?",
+    "context": "Điều 16 khoản 1 điểm d: Không đảm bảo quy chuẩn môi trường về khí thải, tiếng ồn.",
+    "answer": "Xe mà xả khói nhiều quá hay gây tiếng ồn lớn sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng đó nha!"
+  },
+  {
+    "question": "Nếu xe không có giấy chứng nhận kiểm định an toàn thì có được lưu thông không?",
+    "context": "Điều 16 khoản 2 điểm b: Điều khiển xe không có giấy chứng nhận kiểm định an toàn kỹ thuật.",
+    "answer": "Không đâu bạn ơi! Nếu xe không có giấy kiểm định an toàn, bạn có thể bị phạt từ 1.000.000 đồng đến 2.000.000 đồng!"
+  },
+  {
+    "question": "Điều khiển xe không đúng số khung, số máy trong giấy đăng ký bị xử lý thế nào?",
+    "context": "Điều 16 khoản 2 điểm đ: Sử dụng giấy đăng ký xe không đúng số khung, số động cơ.",
+    "answer": "Nếu số khung, số máy không khớp với giấy đăng ký, bạn có thể bị phạt từ 1.000.000 đồng đến 2.000.000 đồng đó!"
+  },
+  {
+    "question": "Có bị phạt nếu xe không có bộ phận giảm khói không?",
+    "context": "Điều 16 khoản 1 điểm d: Không có bộ phận giảm thanh, giảm khói hoặc có nhưng không có tác dụng.",
+    "answer": "Có chứ! Nếu xe của bạn không có bộ phận giảm khói hoặc có nhưng không hoạt động tốt, bạn có thể bị phạt từ 800.000 đồng đến 1.000.000 đồng nha!"
+  },
+  {
+    "question": "Mức phạt khi sử dụng giấy đăng ký xe giả là bao nhiêu?",
+    "context": "Điều 16 khoản 2 điểm đ: Sử dụng giấy đăng ký xe không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa.",
+    "answer": "Dùng giấy tờ giả là vi phạm nghiêm trọng! Bạn sẽ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng và có thể bị tịch thu xe đó!"
+  },
+  {
+    "question": "Nếu biển số xe bị che lấp có bị phạt không?",
+    "context": "Điều 16 khoản 1 điểm e: Gắn biển số không rõ chữ, số hoặc bị che lấp.",
+    "answer": "Biển số xe mà bị che lấp hay khó đọc thì bạn sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng nhé!"
+  },
+  {
+    "question": "Nếu xe không gắn biển số đúng quy cách thì sao?",
+    "context": "Điều 16 khoản 1 điểm e: Gắn biển số không đúng vị trí, không đúng quy cách theo quy định.",
+    "answer": "Biển số không đúng vị trí hay sai quy cách thì bạn có thể bị phạt từ 800.000 đồng đến 1.000.000 đồng đó!"
+  },
+  {
+    "question": "Làm thế nào để tránh bị phạt vì giấy chứng nhận kiểm định hết hạn?",
+    "context": "Điều 16 quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
+    "answer": "Bạn nhớ kiểm tra giấy chứng nhận kiểm định thường xuyên và gia hạn đúng thời gian nhé! Nếu để hết hạn quá 1 tháng, mức phạt có thể lên tới 2.000.000 đồng!"
+  },
+  {
+    "question": "Mức phạt cho hành vi điều khiển xe không đáp ứng yêu cầu về vệ sinh lưu thông trong đô thị là bao nhiêu?",
+    "context": "Điều 17 khoản 1: Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi điều khiển xe không đáp ứng yêu cầu về vệ sinh lưu thông trong đô thị.",
+    "answer": "Mức phạt từ 500.000 đồng đến 1.000.000 đồng."
+  },
+  {
+    "question": "Tại sao hành vi chở hàng không che đậy hoặc làm rơi vãi hàng hóa trên đường lại bị xử phạt?",
+    "context": "Điều 17 khoản 2 điểm a: Chở đất đá, phế thải, hàng rời mà không có mui, bạt che đậy hoặc có nhưng vẫn để rơi vãi; làm rơi vãi hàng hóa trên đường bộ; chở hàng hoặc chất thải để nước chảy xuống mặt đường gây mất an toàn giao thông.",
+    "answer": "Hành vi này gây mất an toàn giao thông, có thể làm đường trơn trượt hoặc gây cản trở xe cộ."
+  },
+  {
+    "question": "Mức phạt đối với hành vi làm rơi vãi đất, đá, phế thải trên đường bộ là bao nhiêu?",
+    "context": "Điều 17 khoản 2 điểm a: Chở đất đá, phế thải, hàng rời mà không có mui, bạt che đậy hoặc có nhưng vẫn để rơi vãi.",
+    "answer": "Mức phạt từ 2.000.000 đồng đến 4.000.000 đồng."
+  },
+  {
+    "question": "Điều khiển xe kéo bùn đất ra đường bộ có bị phạt không?",
+    "context": "Điều 17 khoản 2 điểm b: Lôi kéo bùn, đất, cát, nguyên liệu, vật liệu hoặc chất phế thải khác ra đường bộ gây mất an toàn giao thông.",
+    "answer": "Có, mức phạt từ 2.000.000 đồng đến 4.000.000 đồng."
+  },
+  {
+    "question": "Hành vi đổ rác trái phép trên đường phố bị xử lý thế nào?",
+    "context": "Điều 17 khoản 4: Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với người điều khiển xe thực hiện hành vi đổ trái phép rác, đất, cát, đá, vật liệu, chất phế thải ra đường phố.",
+    "answer": "Mức phạt từ 10.000.000 đồng đến 15.000.000 đồng."
+  },
+  {
+    "question": "Mức phạt cho hành vi đổ trái phép vật liệu xây dựng trong phạm vi đất dành cho đường bộ là bao nhiêu?",
+    "context": "Điều 17 khoản 3: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe đổ trái phép rác, đất, cát, đá, vật liệu, chất phế thải trong phạm vi đất dành cho đường bộ ở đoạn đường ngoài đô thị.",
+    "answer": "Mức phạt từ 4.000.000 đồng đến 6.000.000 đồng."
+  },
+  {
+    "question": "Ai sẽ bị trừ điểm giấy phép lái xe nếu vi phạm khoản 3 và khoản 4 Điều 17?",
+    "context": "Điều 17 khoản 5: Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện (khi điều khiển xe ô tô) thực hiện hành vi vi phạm quy định tại khoản 3, khoản 4 Điều này còn bị trừ điểm giấy phép lái xe 02 điểm.",
+    "answer": "Người điều khiển xe ô tô sẽ bị trừ 2 điểm giấy phép lái xe."
+  },
+  {
+    "question": "Khi nào một tài xế bị phạt vì làm rơi hàng hóa trên đường?",
+    "context": "Điều 17 khoản 2 điểm a: Làm rơi vãi hàng hóa trên đường bộ gây mất an toàn giao thông.",
+    "answer": "Khi tài xế chở hàng không che đậy kỹ, khiến hàng hóa rơi xuống đường."
+  },
+  {
+    "question": "Có bị phạt không nếu xe chở hàng có bạt che nhưng hàng vẫn rơi vãi?",
+    "context": "Điều 17 khoản 2 điểm a: Chở hàng có mui, bạt che đậy nhưng vẫn để rơi vãi.",
+    "answer": "Có, mức phạt từ 2.000.000 đồng đến 4.000.000 đồng."
+  },
+  {
+    "question": "Tại sao đổ rác thải ra đường phố lại bị xử phạt nặng?",
+    "context": "Điều 17 khoản 4: Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi đổ rác thải ra đường phố.",
+    "answer": "Hành vi này làm mất vệ sinh môi trường và gây mất mỹ quan đô thị."
+  },
+  {
+    "question": "Lái xe tải đổ đất xuống đường ở ngoài đô thị có bị xử phạt không?",
+    "context": "Điều 17 khoản 3: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi đổ đất trái phép trong phạm vi đất dành cho đường bộ ngoài đô thị.",
+    "answer": "Có, mức phạt từ 4.000.000 đồng đến 6.000.000 đồng."
+  },
+  {
+    "question": "Mức phạt cao nhất có thể áp dụng theo Điều 17 là bao nhiêu?",
+    "context": "Điều 17 khoản 4: Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi đổ rác trái phép ra đường phố.",
+    "answer": "Mức phạt cao nhất là 15.000.000 đồng."
+  },
+  {
+    "question": "Người vi phạm khoản 3, 4 Điều 17 bị trừ bao nhiêu điểm bằng lái?",
+    "context": "Điều 17 khoản 5: Người vi phạm khoản 3, khoản 4 bị trừ 2 điểm giấy phép lái xe.",
+    "answer": "Bị trừ 2 điểm bằng lái."
+  },
+  {
+    "question": "Hành vi nào trong Điều 17 có mức phạt nhẹ nhất?",
+    "context": "Điều 17 khoản 1: Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi điều khiển xe không đáp ứng yêu cầu về vệ sinh lưu thông trong đô thị.",
+    "answer": "Hành vi điều khiển xe không đảm bảo vệ sinh lưu thông trong đô thị."
+  },
+  {
+    "question": "Nếu tôi lái xe tải và để nước từ hàng hóa chảy xuống đường, tôi có bị phạt không?",
+    "context": "Điều 17 khoản 2 điểm a: Chở hàng hoặc chất thải để nước chảy xuống mặt đường gây mất an toàn giao thông.",
+    "answer": "Có, mức phạt từ 2.000.000 đồng đến 4.000.000 đồng."
+  },
+  {
+    "question": "Tại sao việc kéo bùn đất ra đường lại bị phạt?",
+    "context": "Điều 17 khoản 2 điểm b: Lôi kéo bùn, đất, cát, nguyên liệu, vật liệu hoặc chất phế thải khác ra đường bộ gây mất an toàn giao thông.",
+    "answer": "Hành vi này có thể làm đường trơn trượt, gây nguy hiểm cho người tham gia giao thông."
+  },
+  {
+    "question": "Mức phạt cho hành vi để vật liệu rơi vãi trên đường trong đô thị là bao nhiêu?",
+    "context": "Điều 17 khoản 2 điểm a: Làm rơi vãi hàng hóa trên đường bộ gây mất an toàn giao thông.",
+    "answer": "Mức phạt từ 2.000.000 đồng đến 4.000.000 đồng."
+  },
+  {
+    "question": "Nếu xe của tôi bị bẩn do trời mưa nhưng vẫn tham gia giao thông, tôi có bị phạt không?",
+    "context": "Điều 17 khoản 1: Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi điều khiển xe không đáp ứng yêu cầu về vệ sinh lưu thông trong đô thị.",
+    "answer": "Nếu xe bị bẩn do điều kiện thời tiết thông thường thì không bị phạt, nhưng nếu xe quá bẩn làm ảnh hưởng đến người khác hoặc che khuất biển số thì có thể bị xử lý."
+  },
+  {
+    "question": "Chỉ bị trừ điểm bằng lái hay còn có hình thức xử phạt khác khi đổ rác trái phép ra đường phố?",
+    "context": "Điều 17 khoản 5: Ngoài việc bị áp dụng hình thức xử phạt, người vi phạm khoản 3, khoản 4 bị trừ 2 điểm giấy phép lái xe.",
+    "answer": "Ngoài việc bị trừ 2 điểm bằng lái, người vi phạm còn bị phạt tiền từ 4.000.000 đến 15.000.000 đồng tùy theo hành vi cụ thể."
+  },
+  {
+    "question": "Có ngoại lệ nào cho việc đổ rác hoặc phế thải ra đường phố không?",
+    "context": "Điều 17 khoản 4: Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi đổ trái phép rác, đất, cát, đá, vật liệu, chất phế thải ra đường phố.",
+    "answer": "Không có ngoại lệ. Việc đổ rác thải ra đường phố dưới bất kỳ hình thức nào cũng bị xử phạt."
+  },
+  {
+    "question": "Nếu tôi vô tình làm rơi đất đá xuống đường khi lái xe, tôi có bị phạt không?",
+    "context": "Điều 17 khoản 2 điểm a: Làm rơi vãi hàng hóa trên đường bộ gây mất an toàn giao thông.",
+    "answer": "Có, dù vô tình hay cố ý, nếu hàng hóa rơi vãi gây nguy hiểm thì vẫn bị xử phạt từ 2.000.000 đến 4.000.000 đồng."
+  },
+  {
+    "question": "Có bị phạt không nếu xe của tôi làm nước chảy xuống mặt đường do trời mưa?",
+    "context": "Điều 17 khoản 2 điểm a: Chở hàng hoặc chất thải để nước chảy xuống mặt đường gây mất an toàn giao thông.",
+    "answer": "Nếu nước chảy xuống đường là do thời tiết tự nhiên thì không bị phạt, nhưng nếu nước từ hàng hóa chảy xuống gây nguy hiểm thì sẽ bị xử phạt."
+  },
+  {
+    "question": "Tôi không lái xe nhưng thuê tài xế, nếu họ vi phạm tôi có bị liên đới trách nhiệm không?",
+    "context": "Điều 17 không quy định trách nhiệm của chủ phương tiện khi tài xế vi phạm.",
+    "answer": "Chủ phương tiện có thể không bị phạt trực tiếp, nhưng nếu phương tiện không đảm bảo an toàn môi trường, bạn vẫn có thể bị xử lý theo quy định khác."
+  },
+  {
+    "question": "Có thể bị đình chỉ lái xe nếu vi phạm nhiều lần các lỗi trong Điều 17 không?",
+    "context": "Điều 17 không đề cập đến việc đình chỉ giấy phép lái xe.",
+    "answer": "Không có quy định đình chỉ bằng lái trong Điều 17, nhưng nếu bị trừ điểm nhiều lần, tài xế có thể bị tước bằng theo quy định khác."
+  },
+  {
+    "question": "Nếu tôi không cố ý đổ rác mà chỉ làm rơi vãi ít rác trên đường, có bị phạt không?",
+    "context": "Điều 17 khoản 4: Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi đổ rác trái phép ra đường phố.",
+    "answer": "Có, dù cố ý hay vô tình, việc làm rơi rác ra đường vẫn bị xử phạt nặng để đảm bảo vệ sinh môi trường."
+  },
+  {
+    "question": "Nếu tôi chở rác nhưng bị gió thổi bay ra đường, tôi có bị phạt không?",
+    "context": "Điều 17 khoản 2 điểm a: Chở hàng có mui, bạt che đậy nhưng vẫn để rơi vãi.",
+    "answer": "Có, vì bạn có trách nhiệm che chắn hàng hóa kỹ càng, tránh để rác bay ra đường."
+  },
+  {
+    "question": "Hành vi nào liên quan đến Điều 17 có thể gây tai nạn giao thông?",
+    "context": "Điều 17 khoản 2 điểm a, b: Làm rơi vãi hàng hóa, kéo bùn đất ra đường gây mất an toàn giao thông.",
+    "answer": "Các hành vi như làm rơi đất đá, nước từ xe chảy xuống đường hoặc kéo bùn đất ra đường có thể làm đường trơn trượt, gây tai nạn."
+  },
+  {
+    "question": "Nếu bị phạt theo Điều 17, tôi có thể khiếu nại không?",
+    "context": "Luật Xử lý vi phạm hành chính cho phép người vi phạm khiếu nại quyết định xử phạt nếu thấy không hợp lý.",
+    "answer": "Có, bạn có quyền khiếu nại nếu cho rằng mức phạt không đúng hoặc có nhầm lẫn."
+  },
+  {
+    "question": "Có thể áp dụng hình phạt bổ sung nào ngoài tiền phạt theo Điều 17 không?",
+    "context": "Điều 17 khoản 5: Trừ điểm giấy phép lái xe đối với hành vi vi phạm khoản 3, khoản 4.",
+    "answer": "Ngoài tiền phạt, người vi phạm có thể bị trừ 2 điểm bằng lái nếu vi phạm các hành vi nghiêm trọng."
+  },
+  {
+    "question": "Nếu xe tải đậu ngoài đô thị và để rác thải rơi xuống đường, tài xế có bị phạt không?",
+    "context": "Điều 17 khoản 3: Phạt từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi đổ trái phép rác trong phạm vi đất dành cho đường bộ ngoài đô thị.",
+    "answer": "Có, hành vi này bị phạt từ 4.000.000 đến 6.000.000 đồng."
+  },
+  {
+    "question": "Nếu xe tôi bị hỏng và rơi dầu ra đường, tôi có bị xử phạt theo Điều 17 không?",
+    "context": "Điều 17 không đề cập đến việc xe bị hỏng gây ô nhiễm môi trường.",
+    "answer": "Không, nhưng bạn có trách nhiệm dọn dẹp để tránh ảnh hưởng giao thông."
+  },
+  {
+    "question": "Có trường hợp nào được miễn giảm mức phạt không?",
+    "context": "Luật Xử lý vi phạm hành chính có quy định về tình tiết giảm nhẹ trong một số trường hợp đặc biệt.",
+    "answer": "Có thể có tình tiết giảm nhẹ nếu chứng minh được lý do khách quan."
+  },
+  {
+    "question": "Có bị phạt nếu tôi chở hàng và mùi từ hàng hóa bay ra gây ô nhiễm không khí không?",
+    "context": "Điều 17 không quy định xử phạt về mùi hôi từ hàng hóa.",
+    "answer": "Không bị phạt theo Điều 17, nhưng có thể bị xử lý theo quy định về bảo vệ môi trường."
+  },
+  {
+    "question": "Người từ đủ 14 tuổi đến dưới 16 tuổi điều khiển xe mô tô sẽ bị xử phạt như thế nào?",
+    "context": "Điều 18 khoản 1: Phạt cảnh cáo người từ đủ 14 tuổi đến dưới 16 tuổi điều khiển xe mô tô...",
+    "answer": "Bạn sẽ chỉ bị cảnh cáo, không bị phạt tiền, nhưng nên lưu ý không vi phạm luật giao thông."
+  },
+  {
+    "question": "Mức phạt khi không mang theo chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của xe mô tô là bao nhiêu?",
+    "context": "Điều 18 khoản 2 điểm a: Phạt tiền từ 200.000 đồng đến 300.000 đồng...",
+    "answer": "Bạn có thể bị phạt từ 200.000 đến 300.000 đồng nếu không mang theo bảo hiểm bắt buộc."
+  },
+  {
+    "question": "Điều gì xảy ra nếu điều khiển xe mô tô mà không có chứng nhận bảo hiểm bắt buộc?",
+    "context": "Điều 18 khoản 2 điểm b: Phạt tiền từ 200.000 đồng đến 300.000 đồng...",
+    "answer": "Bạn sẽ bị phạt từ 200.000 đến 300.000 đồng. Hãy luôn kiểm tra giấy tờ trước khi ra đường!"
+  },
+  {
+    "question": "Người điều khiển xe ô tô kinh doanh vận tải không mang theo giấy phép lái xe có bị phạt không?",
+    "context": "Điều 18 khoản 3 điểm a: Phạt tiền từ 300.000 đồng đến 400.000 đồng...",
+    "answer": "Có, bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu không mang theo giấy phép lái xe."
+  },
+  {
+    "question": "Mức phạt đối với người từ đủ 16 tuổi đến dưới 18 tuổi điều khiển xe mô tô có dung tích từ 50 cm3 trở lên là bao nhiêu?",
+    "context": "Điều 18 khoản 4 điểm a: Phạt tiền từ 400.000 đồng đến 600.000 đồng...",
+    "answer": "Bạn có thể bị phạt từ 400.000 đến 600.000 đồng nếu chưa đủ tuổi nhưng vẫn lái xe mô tô trên 50cc."
+  },
+  {
+    "question": "Người lái xe ô tô không có bảo hiểm bắt buộc sẽ bị xử lý thế nào?",
+    "context": "Điều 18 khoản 4 điểm c: Phạt tiền từ 400.000 đồng đến 600.000 đồng...",
+    "answer": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không có bảo hiểm bắt buộc. Hãy đảm bảo luôn mang theo!"
+  },
+  {
+    "question": "Mức phạt cho người điều khiển xe mô tô dưới 125cc mà không có giấy phép lái xe là bao nhiêu?",
+    "context": "Điều 18 khoản 5 điểm a: Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng...",
+    "answer": "Bạn có thể bị phạt từ 2.000.000 đến 4.000.000 đồng nếu không có giấy phép lái xe hợp lệ."
+  },
+  {
+    "question": "Nếu sử dụng giấy phép lái xe bị tẩy xóa thì có bị phạt không?",
+    "context": "Điều 18 khoản 5 điểm a: Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng...",
+    "answer": "Có, bạn sẽ bị phạt từ 2.000.000 đến 4.000.000 đồng nếu sử dụng giấy phép lái xe bị tẩy xóa."
+  },
+  {
+    "question": "Người từ đủ 16 đến dưới 18 tuổi lái xe ô tô sẽ bị xử phạt như thế nào?",
+    "context": "Điều 18 khoản 6: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng...",
+    "answer": "Bạn sẽ bị phạt từ 4.000.000 đến 6.000.000 đồng nếu chưa đủ 18 tuổi mà lái ô tô."
+  },
+  {
+    "question": "Mức phạt khi điều khiển xe mô tô trên 125cc nhưng không có giấy phép lái xe là bao nhiêu?",
+    "context": "Điều 18 khoản 7 điểm b: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng...",
+    "answer": "Bạn sẽ bị phạt từ 6.000.000 đến 8.000.000 đồng nếu lái xe mô tô trên 125cc mà không có bằng lái."
+  },
+  {
+    "question": "Mức phạt cho người có giấy phép lái xe ô tô nhưng đã hết hạn dưới 1 năm là bao nhiêu?",
+    "context": "Điều 18 khoản 8 điểm a: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng...",
+    "answer": "Bạn có thể bị phạt từ 8.000.000 đến 10.000.000 đồng nếu bằng lái đã hết hạn dưới 1 năm."
+  },
+  {
+    "question": "Mức phạt nếu không có giấy phép lái xe ô tô là bao nhiêu?",
+    "context": "Điều 18 khoản 9 điểm b: Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng...",
+    "answer": "Bạn sẽ bị phạt từ 18.000.000 đến 20.000.000 đồng nếu lái ô tô mà không có bằng lái."
+  },
+  {
+    "question": "Người điều khiển xe máy điện không có giấy phép lái xe sẽ bị xử phạt như thế nào?",
+    "context": "Điều 18 khoản 5: Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng...",
+    "answer": "Bạn sẽ bị phạt từ 2.000.000 đến 4.000.000 đồng nếu lái xe máy điện mà không có giấy phép lái xe hợp lệ."
+  },
+  {
+    "question": "Mức phạt đối với người điều khiển xe mô tô chở quá số người quy định là bao nhiêu?",
+    "context": "Điều 18 khoản 4: Phạt tiền từ 400.000 đồng đến 600.000 đồng...",
+    "answer": "Bạn có thể bị phạt từ 400.000 đến 600.000 đồng nếu chở quá số người cho phép trên xe mô tô."
+  },
+  {
+    "question": "Có bị phạt nếu điều khiển xe mà không bật đèn chiếu sáng khi trời tối không?",
+    "context": "Điều 18 khoản 3: Phạt tiền từ 300.000 đồng đến 400.000 đồng...",
+    "answer": "Có, bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu không bật đèn khi trời tối hoặc trong điều kiện thời tiết xấu."
+  },
+  {
+    "question": "Người lái xe sử dụng điện thoại khi đang điều khiển xe sẽ bị xử phạt thế nào?",
+    "context": "Điều 18 khoản 5: Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng...",
+    "answer": "Bạn sẽ bị phạt từ 2.000.000 đến 4.000.000 đồng nếu sử dụng điện thoại khi đang lái xe."
+  },
+  {
+    "question": "Mức phạt khi điều khiển xe ô tô chạy quá tốc độ quy định là bao nhiêu?",
+    "context": "Điều 18 khoản 8: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng...",
+    "answer": "Bạn có thể bị phạt từ 8.000.000 đến 10.000.000 đồng nếu chạy quá tốc độ quy định."
+  },
+  {
+    "question": "Người lái xe mô tô không đội mũ bảo hiểm có bị xử phạt không?",
+    "context": "Điều 18 khoản 2: Phạt tiền từ 200.000 đồng đến 300.000 đồng...",
+    "answer": "Có, bạn sẽ bị phạt từ 200.000 đến 300.000 đồng nếu không đội mũ bảo hiểm khi tham gia giao thông."
+  },
+  {
+    "question": "Có bị phạt nếu lái xe trong tình trạng có nồng độ cồn vượt mức cho phép?",
+    "context": "Điều 18 khoản 9: Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng...",
+    "answer": "Có, bạn sẽ bị phạt từ 18.000.000 đến 20.000.000 đồng nếu lái xe khi có nồng độ cồn vượt mức cho phép."
+  },
+  {
+    "question": "Điều khiển xe mô tô đi ngược chiều có bị xử phạt không?",
+    "context": "Điều 18 khoản 6: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng...",
+    "answer": "Có, bạn sẽ bị phạt từ 4.000.000 đến 6.000.000 đồng nếu đi ngược chiều trên đường một chiều hoặc đường có biển cấm."
+  },
+  {
+    "question": "Mức phạt đối với người điều khiển xe ô tô vượt đèn đỏ là bao nhiêu?",
+    "context": "Điều 18 khoản 8: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng...",
+    "answer": "Bạn có thể bị phạt từ 8.000.000 đến 10.000.000 đồng nếu vượt đèn đỏ khi lái xe ô tô."
+  },
+  {
+    "question": "Có bị xử phạt nếu điều khiển xe máy mà không bật đèn tín hiệu khi rẽ không?",
+    "context": "Điều 18 khoản 3: Phạt tiền từ 300.000 đồng đến 400.000 đồng...",
+    "answer": "Có, bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu không bật đèn xi-nhan khi rẽ hoặc chuyển làn."
+  },
+  {
+    "question": "Mức phạt cho hành vi điều khiển xe máy chuyên dùng nhưng không có chứng nhận bảo hiểm bắt buộc là bao nhiêu?",
+    "context": "Điều 19 khoản 1: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe máy chuyên dùng không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự theo quy định của pháp luật.",
+    "answer": "Bạn có thể bị phạt từ 400.000 đồng đến 600.000 đồng nếu điều khiển xe máy chuyên dùng mà không có chứng nhận bảo hiểm bắt buộc!"
+  },
+  {
+    "question": "Nếu tôi không có bằng lái xe máy chuyên dùng thì bị phạt bao nhiêu?",
+    "context": "Điều 19 khoản 2: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe máy chuyên dùng không có bằng (hoặc chứng chỉ) điều khiển xe máy chuyên dùng.",
+    "answer": "Bạn có thể bị phạt từ 4.000.000 đồng đến 6.000.000 đồng nếu điều khiển xe máy chuyên dùng mà không có bằng lái hoặc chứng chỉ hợp lệ!"
+  },
+  {
+    "question": "Làm sao để tránh bị phạt khi điều khiển xe máy chuyên dùng?",
+    "context": "Điều 19 khoản 1 và 2: Người điều khiển xe máy chuyên dùng cần có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự và giấy phép lái xe hợp lệ.",
+    "answer": "Để tránh bị phạt, bạn cần có đầy đủ giấy phép lái xe, chứng chỉ điều khiển xe và bảo hiểm bắt buộc!"
+  },
+  {
+    "question": "Mức phạt đối với việc sử dụng giấy phép lái xe đã bị trừ hết điểm là bao nhiêu?",
+    "context": "Điều 19 khoản 2: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe máy chuyên dùng sử dụng giấy phép lái xe đã bị trừ hết điểm.",
+    "answer": "Bạn sẽ bị phạt từ 4.000.000 đồng đến 6.000.000 đồng nếu lái xe với giấy phép đã bị trừ hết điểm!"
+  },
+  {
+    "question": "Điều gì xảy ra nếu tôi điều khiển xe máy chuyên dùng mà không có chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ?",
+    "context": "Điều 19 khoản 2: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe máy chuyên dùng không có chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ.",
+    "answer": "Bạn có thể bị phạt từ 4.000.000 đồng đến 6.000.000 đồng nếu không có chứng chỉ bồi dưỡng kiến thức pháp luật khi điều khiển xe máy chuyên dùng!"
+  },
+  {
+    "question": "Tại sao lại có quy định về chứng nhận bảo hiểm bắt buộc khi điều khiển xe máy chuyên dùng?",
+    "context": "Điều 19 khoản 1: Yêu cầu chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự giúp bảo vệ quyền lợi của các bên liên quan khi xảy ra tai nạn.",
+    "answer": "Việc có bảo hiểm giúp bảo vệ tài chính cho bạn và người khác nếu chẳng may xảy ra tai nạn!"
+  },
+  {
+    "question": "Nếu sử dụng giấy phép lái xe không hợp lệ thì mức phạt ra sao?",
+    "context": "Điều 19 khoản 2: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe máy chuyên dùng sử dụng giấy phép lái xe không hợp lệ.",
+    "answer": "Bạn có thể bị phạt từ 4.000.000 đồng đến 6.000.000 đồng nếu sử dụng giấy phép lái xe không hợp lệ!"
+  },
+  {
+    "question": "Việc không có giấy phép lái xe máy chuyên dùng ảnh hưởng thế nào?",
+    "context": "Điều 19 khoản 2: Người điều khiển xe máy chuyên dùng không có giấy phép lái xe hợp lệ sẽ bị phạt từ 4.000.000 đồng đến 6.000.000 đồng.",
+    "answer": "Không có giấy phép lái xe, bạn sẽ bị phạt nặng và không thể lái xe hợp pháp!"
+  },
+  {
+    "question": "Mức phạt cho hành vi sử dụng giấy phép lái xe bị tẩy xóa là bao nhiêu?",
+    "context": "Điều 19 khoản 2: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người sử dụng giấy phép lái xe bị tẩy xóa.",
+    "answer": "Nếu bạn sử dụng giấy phép bị tẩy xóa, mức phạt sẽ từ 4.000.000 đồng đến 6.000.000 đồng!"
+  },
+  {
+    "question": "Tôi có thể bị phạt nếu giấy phép lái xe của tôi không do cơ quan có thẩm quyền cấp không?",
+    "context": "Điều 19 khoản 2: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp.",
+    "answer": "Đúng vậy! Nếu giấy phép không do cơ quan có thẩm quyền cấp, bạn sẽ bị phạt từ 4.000.000 đồng đến 6.000.000 đồng!"
+  },
+  {
+    "question": "Điều khiển xe máy chuyên dùng mà không có bảo hiểm bắt buộc thì có sao không?",
+    "context": "Điều 19 khoản 1: Người điều khiển xe không có bảo hiểm bắt buộc sẽ bị phạt từ 400.000 đồng đến 600.000 đồng.",
+    "answer": "Có chứ! Bạn có thể bị phạt từ 400.000 đồng đến 600.000 đồng nếu không có bảo hiểm bắt buộc!"
+  },
+  {
+    "question": "Nếu tôi không có chứng chỉ điều khiển xe máy chuyên dùng, mức phạt thế nào?",
+    "context": "Điều 19 khoản 2: Phạt từ 4.000.000 đồng đến 6.000.000 đồng nếu không có chứng chỉ điều khiển xe máy chuyên dùng.",
+    "answer": "Bạn sẽ bị phạt từ 4.000.000 đồng đến 6.000.000 đồng nếu không có chứng chỉ điều khiển xe!"
+  },
+  {
+    "question": "Nếu giấy phép lái xe của tôi hết hạn, tôi có bị phạt không?",
+    "context": "Điều 19 khoản 2: Người sử dụng giấy phép lái xe không còn hiệu lực sẽ bị phạt từ 4.000.000 đồng đến 6.000.000 đồng.",
+    "answer": "Có! Nếu giấy phép của bạn hết hạn, bạn có thể bị phạt từ 4.000.000 đồng đến 6.000.000 đồng!"
+  },
+  {
+    "question": "Làm thế nào để tránh bị phạt vì giấy phép lái xe không hợp lệ?",
+    "context": "Điều 19 khoản 2: Người điều khiển xe cần sử dụng giấy phép lái xe hợp lệ, do cơ quan có thẩm quyền cấp.",
+    "answer": "Hãy chắc chắn rằng giấy phép của bạn hợp lệ và do cơ quan có thẩm quyền cấp để tránh bị phạt!"
+  },
+  {
+    "question": "Nếu tôi không có giấy phép lái xe, tôi có thể bồi dưỡng kiến thức pháp luật để được lái không?",
+    "context": "Điều 19 khoản 2: Không có giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật đều bị phạt.",
+    "answer": "Không được! Bạn cần có giấy phép lái xe hợp lệ thì mới được lái xe hợp pháp!"
+  },
+  {
+    "question": "Mức phạt cho hành vi không hướng dẫn hành khách đứng, nằm, ngồi đúng vị trí trong xe là bao nhiêu?",
+    "context": "Điều 20 khoản 1: Không hướng dẫn hành khách đứng, nằm, ngồi đúng vị trí quy định trong xe.",
+    "answer": "Hành vi này bị phạt tiền từ 100.000 đồng đến 200.000 đồng."
+  },
+  {
+    "question": "Nếu chở quá số người quy định trên xe ô tô khách, tài xế sẽ bị phạt bao nhiêu?",
+    "context": "Điều 20 khoản 2: Chở quá số người quy định được phép chở của phương tiện.",
+    "answer": "Tài xế sẽ bị phạt từ 400.000 đồng đến 600.000 đồng trên mỗi người vượt quá, nhưng tổng mức phạt không vượt quá 75.000.000 đồng."
+  },
+  {
+    "question": "Lái xe mà không đóng cửa lên xuống khi xe đang chạy có bị phạt không?",
+    "context": "Điều 20 khoản 3 điểm a: Không đóng cửa lên xuống khi xe đang chạy.",
+    "answer": "Có, mức phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Có bị phạt nếu để người ngồi trên xe khi xe xuống phà hoặc đang trên phà không?",
+    "context": "Điều 20 khoản 3 điểm b: Để người ngồi trên xe khi xe xuống phà, đang trên phà và khi lên bến.",
+    "answer": "Có, trừ các trường hợp đặc biệt như tài xế, trẻ em, phụ nữ mang thai, người già yếu, mức phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Mức phạt cho hành vi không chạy đúng tuyến đường, lịch trình được cấp phép là bao nhiêu?",
+    "context": "Điều 20 khoản 3 điểm c: Không chạy đúng tuyến đường, lịch trình, hành trình vận tải được phép hoạt động.",
+    "answer": "Mức phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Điều gì xảy ra nếu lái xe để hàng hóa trong khoang chở hành khách?",
+    "context": "Điều 20 khoản 3 điểm đ: Để hàng hóa trong khoang chở hành khách.",
+    "answer": "Lái xe sẽ bị phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Phạt bao nhiêu nếu chở hành lý, hàng hóa vượt quá kích thước bao ngoài của xe?",
+    "context": "Điều 20 khoản 3 điểm e: Chở hành lý, hàng hóa vượt quá kích thước bao ngoài của xe.",
+    "answer": "Mức phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Xe kinh doanh vận tải hành khách không có dây đai an toàn sẽ bị phạt thế nào?",
+    "context": "Điều 20 khoản 3 điểm h: Điều khiển xe ô tô kinh doanh vận tải không có dây đai an toàn tại các vị trí ghế ngồi, giường nằm theo quy định.",
+    "answer": "Mức phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Tài xế sẽ bị phạt bao nhiêu nếu đón, trả hành khách không đúng nơi quy định?",
+    "context": "Điều 20 khoản 5 điểm c: Đón, trả hành khách không đúng nơi quy định.",
+    "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Hành vi đón, trả hành khách trên đường cao tốc có bị xử phạt không?",
+    "context": "Điều 20 khoản 8: Đón, trả hành khách trên đường cao tốc.",
+    "answer": "Có, mức phạt từ 10.000.000 đồng đến 12.000.000 đồng."
+  },
+  {
+    "question": "Điều khiển xe chở người trên mui xe có vi phạm không?",
+    "context": "Điều 20 khoản 6 điểm b: Chở người trên mui xe, trong khoang chở hành lý của xe.",
+    "answer": "Có, mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+  },
+  {
+    "question": "Mức phạt khi lái xe kinh doanh vận tải không có thiết bị giám sát hành trình là bao nhiêu?",
+    "context": "Điều 20 khoản 6 điểm đ: Điều khiển xe kinh doanh vận tải hành khách không lắp thiết bị giám sát hành trình của xe theo quy định.",
+    "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+  },
+  {
+    "question": "Không có phù hiệu hoặc sử dụng phù hiệu hết hạn khi chở khách bị phạt thế nào?",
+    "context": "Điều 20 khoản 7: Điều khiển xe chở hành khách không có hoặc không gắn phù hiệu theo quy định hoặc có nhưng đã hết giá trị sử dụng.",
+    "answer": "Mức phạt từ 5.000.000 đồng đến 7.000.000 đồng."
+  },
+  {
+    "question": "Xe vận tải hành khách không có nhân viên phục vụ khi cần sẽ bị phạt bao nhiêu?",
+    "context": "Điều 20 khoản 3 điểm g: Điều khiển xe vận tải hành khách không có nhân viên phục vụ trên xe đối với những xe quy định phải có nhân viên phục vụ.",
+    "answer": "Mức phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Tài xế sẽ bị xử phạt thế nào nếu để rơi hành lý, hàng hóa xuống đường?",
+    "context": "Điều 20 khoản 3 điểm đ: Để rơi hành lý, hàng hóa trên xe xuống đường.",
+    "answer": "Mức phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Nếu tài xế đe dọa, cưỡng ép hành khách sử dụng dịch vụ thì có bị xử phạt không?",
+    "context": "Điều 20 khoản 6 điểm c: Đe dọa, cưỡng ép hành khách sử dụng dịch vụ ngoài ý muốn.",
+    "answer": "Có, mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+  },
+  {
+    "question": "Chở hàng hóa ảnh hưởng đến sức khỏe hành khách trên xe bị xử phạt thế nào?",
+    "context": "Điều 20 khoản 6 điểm a: Vận chuyển hàng hóa nguy hiểm, hàng độc hại, dễ cháy, dễ nổ, động vật, hàng có mùi hôi thối.",
+    "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+  },
+  {
+    "question": "Phạt bao nhiêu nếu để người lên, xuống xe khi xe đang chạy?",
+    "context": "Điều 20 khoản 5 điểm a: Để người lên, xuống xe khi xe đang chạy.",
+    "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Tài xế bị trừ bao nhiêu điểm GPLX nếu chở quá 100% số người cho phép?",
+    "context": "Điều 20 khoản 10 điểm d: Thực hiện hành vi vượt trên 100% số người quy định được phép chở của phương tiện.",
+    "answer": "Bị trừ 10 điểm trên giấy phép lái xe."
+  },
+  {
+    "question": "Xe khách đón, trả khách tại nơi cấm dừng, cấm đỗ có bị phạt không?",
+    "context": "Điều 20 khoản 5 điểm d: Đón, trả hành khách tại nơi cấm dừng, cấm đỗ.",
+    "answer": "Có, mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Phạt bao nhiêu nếu tài xế không niêm yết hành trình chạy xe theo quy định?",
+    "context": "Điều 20 khoản 3 điểm k: Điều khiển xe không niêm yết hành trình chạy xe hoặc niêm yết hành trình không đúng với hành trình đã được cấp phép.",
+    "answer": "Mức phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Nếu xe khách chở quá 50% số người quy định thì tài xế bị trừ bao nhiêu điểm GPLX?",
+    "context": "Điều 20 khoản 10 điểm b: Thực hiện hành vi chở quá 50% đến 100% số người quy định được phép chở.",
+    "answer": "Bị trừ 4 điểm trên giấy phép lái xe."
+  },
+  {
+    "question": "Xe khách kinh doanh vận tải không có hợp đồng vận tải bị phạt bao nhiêu?",
+    "context": "Điều 20 khoản 5 điểm đ: Điều khiển xe vận tải hành khách theo hợp đồng không có hoặc không mang theo hợp đồng vận tải.",
+    "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Lái xe vận tải hành khách không có hướng dẫn an toàn cho hành khách có vi phạm không?",
+    "context": "Điều 20 khoản 3 điểm i: Điều khiển xe ô tô kinh doanh vận tải không có hướng dẫn cho hành khách về an toàn giao thông và thoát hiểm khi xảy ra sự cố trên xe.",
+    "answer": "Có, mức phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Để người mắc võng nằm trên xe khi xe đang chạy có bị phạt không?",
+    "context": "Điều 20 khoản 3 điểm d: Để người mắc võng nằm trên xe khi xe đang chạy.",
+    "answer": "Có, mức phạt từ 600.000 đồng đến 800.000 đồng."
+  },
+  {
+    "question": "Mức phạt nếu xe hợp đồng vận chuyển trẻ em nhưng không đúng quy định?",
+    "context": "Điều 20 khoản 5 điểm đ: Vận chuyển trẻ em mầm non, học sinh, sinh viên không đúng quy định.",
+    "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Phạt bao nhiêu nếu tài xế không mang theo danh sách hành khách khi vận chuyển khách quốc tế?",
+    "context": "Điều 20 khoản 5 điểm h: Vận chuyển khách liên vận quốc tế không có hoặc không mang theo danh sách hành khách.",
+    "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Tài xế có bị xử phạt nếu vận chuyển khách theo tuyến cố định nhưng không có lệnh vận chuyển?",
+    "context": "Điều 20 khoản 5 điểm e: Vận chuyển hành khách theo tuyến cố định không có hoặc không mang theo lệnh vận chuyển.",
+    "answer": "Có, mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Phạt bao nhiêu nếu tài xế không sử dụng thẻ nhận dạng lái xe khi đăng nhập thông tin?",
+    "context": "Điều 20 khoản 5 điểm k: Không sử dụng thẻ nhận dạng lái xe để đăng nhập thông tin theo quy định.",
+    "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Lái xe không có thiết bị truy cập hợp đồng điện tử bị phạt thế nào?",
+    "context": "Điều 20 khoản 5 điểm m: Điều khiển xe vận tải hành khách theo hợp đồng sử dụng hợp đồng điện tử nhưng không có thiết bị để truy cập nội dung hợp đồng.",
+    "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Nếu xe vận tải hành khách không có thiết bị ghi nhận hình ảnh lái xe thì bị phạt bao nhiêu?",
+    "context": "Điều 20 khoản 5 điểm l: Điều khiển xe ô tô chở người từ 08 chỗ trở lên kinh doanh vận tải hành khách không lắp thiết bị ghi nhận hình ảnh người lái xe.",
+    "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Phạt bao nhiêu nếu để hành lý, hàng hóa trên xe làm lệch xe?",
+    "context": "Điều 20 khoản 5 điểm b: Xếp hành lý, hàng hóa trên xe làm lệch xe.",
+    "answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Tài xế có bị phạt nếu đón khách không đúng địa điểm ghi trong hợp đồng?",
+    "context": "Điều 20 khoản 5 điểm g: Đón, trả hành khách không đúng địa điểm đón, trả khách được ghi trong hợp đồng.",
+    "answer": "Có, mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+  },
+  {
+    "question": "Chở người trong khoang chở hành lý có bị phạt không?",
+    "context": "Điều 20 khoản 6 điểm b: Chở người trong khoang chở hành lý của xe.",
+    "answer": "Có, mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+  },
+  {
+    "question": "Lái xe quá thời gian quy định có bị phạt không?",
+    "context": "Điều 20 khoản 6 điểm d: Điều khiển xe ô tô kinh doanh vận tải quá thời gian quy định.",
+    "answer": "Có, mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+  },
+  {
+    "question": "Lái xe sử dụng phù hiệu giả có bị xử phạt không?",
+    "context": "Điều 20 khoản 7: Sử dụng phù hiệu không do cơ quan có thẩm quyền cấp.",
+    "answer": "Có, mức phạt từ 5.000.000 đồng đến 7.000.000 đồng."
+  },
+  {
+    "question": "Phạt bao nhiêu nếu xe khách không có ký hiệu phân biệt quốc gia khi vận chuyển khách liên vận quốc tế?",
+    "context": "Điều 20 khoản 6 điểm e: Điều khiển xe chở hành khách liên vận quốc tế không có hoặc không gắn ký hiệu phân biệt quốc gia.",
+    "answer": "Mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+  },
+  {
+    "question": "Bị trừ bao nhiêu điểm GPLX nếu thực hiện hành vi đón, trả khách trên đường cao tốc?",
+    "context": "Điều 20 khoản 10 điểm c: Thực hiện hành vi đón, trả hành khách trên đường cao tốc.",
+    "answer": "Bị trừ 6 điểm trên giấy phép lái xe."
+  },
+  {
+    "question": "Tài xế có bị phạt nếu làm sai lệch dữ liệu thiết bị giám sát hành trình của xe?",
+    "context": "Điều 20 khoản 6 điểm đ: Làm sai lệch dữ liệu của thiết bị giám sát hành trình của xe ô tô.",
+    "answer": "Có, mức phạt từ 3.000.000 đồng đến 5.000.000 đồng."
+  }
     
 ]
