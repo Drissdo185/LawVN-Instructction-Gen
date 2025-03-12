@@ -97,63 +97,58 @@ def create_embedding_model() -> HuggingFaceEmbedding:
 
 def setup_weaviate_client():
     """
-    Set up and connect to Weaviate cloud
+    Set up and connect to Weaviate cloud using v4.x client
     """
     try:
         # Connect to Weaviate cloud instance
-        client = weaviate.connect_to_weaviate_cloud(
-            cluster_url=WEAVIATE_URL,
-            auth_credentials=Auth.api_key(WEAVIATE_API_KEY),
+        client = weaviate.connect_to_local(
+            host="127.0.0.1",  # Use a string to specify the host
+            port=8080,
+            grpc_port=50051,
         )
-        print(f"Connected to Weaviate cloud at {WEAVIATE_URL}")
+
+        print(client.is_ready())
         
-        # Check if our schema already exists
-        schema = client.schema.get()
-        existing_classes = [cls["class"] for cls in schema["classes"]] if "classes" in schema and schema["classes"] else []
-        
-        # Create schema if it doesn't exist
-        if DATA_COLLECTION not in existing_classes:
-            print(f"Class {DATA_COLLECTION} not found, creating schema...")
-            schema = {
-                "classes": [
+        # Check if our collection already exists
+        try:
+            # In v4.x, we check if collection exists differently
+            existing_collection = client.collections.get(DATA_COLLECTION)
+            print(f"Collection {DATA_COLLECTION} already exists")
+        except weaviate.exceptions.WeaviateNotFoundError:
+            # Collection doesn't exist, create it
+            print(f"Collection {DATA_COLLECTION} not found, creating it...")
+            client.collections.create(
+                name=DATA_COLLECTION,
+                description="Traffic violations for Vietnamese vehicles",
+                properties=[
                     {
-                        "class": DATA_COLLECTION,
-                        "description": "Traffic violations for Vietnamese vehicles",
-                        "properties": [
-                            {
-                                "name": "text",
-                                "dataType": ["text"],
-                                "description": "The text content of the violation"
-                            },
-                            {
-                                "name": "original_text",
-                                "dataType": ["text"],
-                                "description": "Original non-tokenized text"
-                            },
-                            {
-                                "name": "category",
-                                "dataType": ["string"],
-                                "description": "Vehicle category"
-                            },
-                            {
-                                "name": "fine_amount",
-                                "dataType": ["string"],
-                                "description": "Amount of fine"
-                            },
-                            {
-                                "name": "violation_type",
-                                "dataType": ["string"],
-                                "description": "Type of violation"
-                            }
-                        ]
+                        "name": "text",
+                        "dataType": "text",
+                        "description": "The text content of the violation"
+                    },
+                    {
+                        "name": "original_text",
+                        "dataType": "text",
+                        "description": "Original non-tokenized text"
+                    },
+                    {
+                        "name": "category",
+                        "dataType": "string",
+                        "description": "Vehicle category"
+                    },
+                    {
+                        "name": "fine_amount",
+                        "dataType": "string",
+                        "description": "Amount of fine"
+                    },
+                    {
+                        "name": "violation_type",
+                        "dataType": "string",
+                        "description": "Type of violation"
                     }
                 ]
-            }
-            
-            client.schema.create(schema)
-            print(f"Created schema for class {DATA_COLLECTION}")
-        else:
-            print(f"Class {DATA_COLLECTION} already exists")
+            )
+            print(f"Created collection {DATA_COLLECTION}")
         
         return client
     except Exception as e:
@@ -194,18 +189,6 @@ def build_optimized_index(nodes: List[Any], embed_model: HuggingFaceEmbedding) -
         return index
     
     except Exception as e:
-        print(f"Error building index: {e}")
-        # Fallback to simple vector store if Weaviate fails
-        print("Falling back to SimpleVectorStore...")
-        vector_store = SimpleVectorStore()
-        storage_context = StorageContext.from_defaults(vector_store=vector_store)
-        
-        index = VectorStoreIndex(
-            nodes,
-            storage_context=storage_context,
-            embed_model=embed_model,
-            show_progress=True
-        )
         return index
 
 def create_optimized_retriever(index: VectorStoreIndex):
@@ -260,7 +243,7 @@ def search_violations(retriever, query, top_k=5):
 def main():
     try:
         # Load and process data
-        documents = load_and_preprocess_data("/home/ltnga/LawVN-Instructction-Gen/src/data/motor.json")
+        documents = load_and_preprocess_data("/home/ltnga/LawVN-Instructction-Gen/src/data/car_v2_processed.json")
         print(f"Loaded {len(documents)} documents")
         
         # Create chunker and process nodes
@@ -304,10 +287,10 @@ def main():
         try:
             # This is a bit tricky because we need to get the client from where it was created
             # Let's try to recreate it and close it
-            client = weaviate.connect_to_weaviate_cloud(
-                cluster_url=WEAVIATE_URL,
-                auth_credentials=Auth.api_key(WEAVIATE_API_KEY),
-            )
+            client = weaviate.connect_to_local(
+            host="127.0.0.1",  # Use a string to specify the host
+            port=8080,
+            grpc_port=50051)
             client.close()
             print("Weaviate client connection closed properly")
         except Exception as e:

@@ -1,0 +1,683 @@
+[
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 300.000 đồng đến 400.000 đồng",
+    "nội_dung": [
+      "Không mang GPLX (ô tô)",
+      "Không mang theo giấy đăng ký xe (ô tô)",
+      "Không mang giấy chứng nhận đăng kiểm (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 400.000 đồng đến 600.000 đồng",
+    "nội_dung": [
+      "Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường (ô tô)",
+      "Khi ra, vào vị trí dừng xe, đỗ xe không có tín hiệu báo cho người điều khiển phương tiện khác biết (ô tô)",
+      "Không báo hiệu bằng đèn khẩn cấp hoặc không đặt biển cảnh báo khi gặp sự cố kỹ thuật buộc phải đỗ xe chiếm một phần đường xe chạy (ô tô)",
+      "Không gắn biển báo hiệu ở phía trước xe kéo, phía sau xe được kéo; điều khiển xe kéo rơ moóc không có biển báo hiệu theo quy định (ô tô)",
+      "Sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh (ô tô)",
+      "Không có bảo hiểm xe bắt buộc (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 600.000 đồng đến 800.000 đồng",
+    "nội_dung": [
+      "Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước (ô tô)",
+      "Chở người trên buồng lái quá số lượng quy định (ô tô)",
+      "Không tuân thủ các quy định về nhường đường tại nơi đường bộ giao nhau (ô tô)",
+      "Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường rộng (ô tô)",
+      "Dừng xe không sát theo lề đường, vỉa hè phía bên phải theo chiều đi hoặc bánh xe gần nhất cách lề đường, vỉa hè quá 0,25 mét (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 800.000 đồng đến 1.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h (ô tô)",
+      "Sử dụng còi, rú ga liên tục; sử dụng còi hơi, đèn chiếu xa không đúng quy định (ô tô)",
+      "Chuyển hướng không quan sát hoặc không bảo đảm khoảng cách an toàn với xe phía sau (ô tô)",
+      "Không tuân thủ các quy định về dừng xe, đỗ xe tại nơi đường bộ giao nhau cùng mức với đường sắt (ô tô)",
+      "Dừng xe, đỗ xe tại vị trí: nơi đường bộ giao nhau hoặc trong phạm vi 05 mét tính từ mép đường giao nhau (ô tô)",
+      "Đỗ xe không sát theo lề đường, vỉa hè phía bên phải theo chiều đi (ô tô)",
+      "Không sử dụng hoặc sử dụng không đủ đèn chiếu sáng trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau (ô tô)",
+      "Điều khiển xe ô tô kéo theo xe khác, vật khác trái quy định (ô tô)",
+      "Chở người trên xe được kéo, trừ người điều khiển (ô tô)",
+      "Không thắt dây đai an toàn khi điều khiển xe chạy trên đường (ô tô)",
+      "Chở người trên xe ô tô không thắt dây đai an toàn khi xe đang chạy (ô tô)",
+      "Chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe ô tô ngồi cùng hàng ghế với người lái xe (ô tô)",
+      "Chạy trong hầm đường bộ không sử dụng đèn chiếu sáng gần (ô tô)",
+      "Điều khiển xe chạy dưới tốc độ tối thiểu trên đoạn đường bộ có quy định tốc độ tối thiểu cho phép (ô tô)",
+      "Điều khiển xe chạy tốc độ thấp hơn các xe khác đi cùng chiều mà không đi về làn đường bên phải chiều đi của mình (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe không có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) hoặc sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) đã hết hạn sử dụng, hết hiệu lực (kể cả rơ moóc và sơ mi rơ moóc) (ô tô)",
+      "Xe tải có kích thước thùng xe không đúng thông số kỹ thuật (ô tô)",
+      "Dán, lắp phù hiệu, biểu trưng nhận diện tương tự của cơ quan nhà nước, cơ quan ngoại giao... (ô tô)",
+      "Điều khiển xe không đủ điều kiện để thu phí theo hình thức điện tử tự động không dừng đi vào làn đường dành riêng thu phí (ô tô)",
+      "Dừng xe, đỗ xe tại vị trí: bên trái đường một chiều hoặc bên trái của đường đôi (ô tô)",
+      "Không thực hiện biện pháp bảo đảm an toàn theo quy định khi xe ô tô bị hư hỏng tại nơi đường bộ giao nhau cùng mức với đường sắt (ô tô)",
+      "Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn (ô tô)",
+      "Lùi xe, quay đầu xe trong hầm đường bộ; dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định (ô tô)",
+      "Lùi xe ở đường một chiều, đường có biển 'Cấm đi ngược chiều', khu vực cấm dừng (ô tô)",
+      "Điều khiển xe có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng ngay phương tiện (ô tô)",
+      "Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định (ô tô)",
+      "Quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt (ô tô)",
+      "Quay đầu xe tại nơi có biển báo hiệu có nội dung cấm quay đầu đối với loại phương tiện đang điều khiển (ô tô)",
+      "Không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước (ô tô)",
+      "Không có giấy đăng ký xe (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng",
+    "nội_dung": [
+      "Vượt xe trong những trường hợp không được vượt, vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt (ô tô)",
+      "Điều khiển xe không đi bên phải theo chiều đi của mình; đi không đúng phần đường hoặc làn đường quy định (ô tô)",
+      "Tránh xe đi ngược chiều không đúng quy định; không nhường đường cho xe đi ngược chiều theo quy định tại nơi đường hẹp (ô tô)",
+      "Không tuân thủ quy định khi vào hoặc ra đường cao tốc (ô tô)",
+      "Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h (ô tô)",
+      "Xe không được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu của xe được quyền ưu tiên (ô tô)",
+      "Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước khi chạy trên đường cao tốc (ô tô)",
+      "Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển (ô tô)",
+      "Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển (ô tô)",
+      "Dừng xe, đỗ xe, quay đầu xe trái quy định gây ùn tắc giao thông (ô tô)",
+      "Chuyển hướng không nhường quyền đi trước cho người đi bộ, xe lăn của người khuyết tật (ô tô)",
+      "Chuyển hướng không nhường đường cho các xe đi ngược chiều (ô tô)",
+      "Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi từ đường không ưu tiên ra đường ưu tiên (ô tô)",
+      "Không giảm tốc độ và nhường đường cho xe đi đến từ bên phải tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến (ô tô)",
+      "Chở người trên thùng xe trái quy định; chở người trên nóc xe (ô tô)",
+      "Mở cửa xe, để cửa xe mở không bảo đảm an toàn (ô tô)",
+      "Không có giấy chứng nhận đăng kiểm (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h (ô tô)",
+      "Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ (ô tô)",
+      "Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở (ô tô)",
+      "Điều khiển xe đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 12.000.000 đồng đến 14.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe chạy quá tốc độ quy định trên 35 km/h (ô tô)",
+      "Điều khiển xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ đi vào đường cao tốc (ô tô)",
+      "Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe gây tai nạn giao thông không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, không ở lại hiện trường hoặc không đến trình báo ngay với cơ quan công an, Ủy ban nhân dân nơi gần nhất (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở (ô tô)",
+      "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông (ô tô)",
+      "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông (ô tô)",
+      "Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển 'Cấm đi ngược chiều' (ô tô)",
+      "Không có GPLX hoặc sử dụng GPLX đã bị trừ hết điểm hoặc sử dụng GPLX không do cơ quan có thẩm quyền cấp, GPLX bị tẩy xóa, không còn hiệu lực, không phù hợp với loại xe đang điều khiển (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 20.000.000 đồng đến 22.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông (ô tô)",
+      "Điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông (ô tô)",
+      "Dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường không đúng quy định gây tai nạn giao thông (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở (ô tô)",
+      "Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ (ô tô)",
+      "Điều khiển xe trên đường mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng (ô tô)",
+      "Không chấp hành yêu cầu kiểm tra về chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng của người thi hành công vụ (ô tô)",
+      "Điều khiển xe đi ngược chiều trên đường cao tốc, lùi xe trên đường cao tốc, quay đầu xe trên đường cao tốc (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe lạng lách, đánh võng trên đường bộ (ô tô)",
+      "Chạy quá tốc độ đuổi nhau trên đường bộ (ô tô)",
+      "Dùng chân điều khiển vô lăng xe khi xe đang chạy trên đường bộ (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 50.000.000 đồng đến 70.000.000 đồng",
+    "nội_dung": [
+      "Thực hiện hành vi vi phạm lạng lách, đánh võng trên đường bộ (ô tô)",
+      "Chạy quá tốc độ đuổi nhau trên đường bộ (ô tô)",
+      "Dùng chân điều khiển vô lăng xe khi xe đang chạy trên đường bộ mà gây tai nạn giao thông (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Tịch thu phương tiện",
+    "nội_dung": [
+      "Đối với người điều khiển xe tái phạm hành vi điều khiển xe lạng lách, đánh võng quy định tại khoản 12 Điều 6 (ô tô)",
+      "Không có giấy đăng ký xe (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Tịch thu thiết bị",
+    "nội_dung": [
+      "Tịch thu thiết bị phát tín hiệu ưu tiên lắp đặt, sử dụng trái quy định đối với người thực hiện hành vi điều khiển xe không được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu của xe được quyền ưu tiên (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Tước quyền sử dụng giấy phép lái xe từ 10 tháng đến 12 tháng",
+    "nội_dung": [
+      "Thực hiện hành vi lạng lách, đánh võng trên đường bộ (ô tô)",
+      "Chạy quá tốc độ đuổi nhau trên đường bộ (ô tô)",
+      "Dùng chân điều khiển vô lăng xe khi xe đang chạy trên đường bộ (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng",
+    "nội_dung": [
+      "Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở (ô tô)",
+      "Không chấp hành yêu cầu kiểm tra về nồng độ cồn (ô tô)",
+      "Điều khiển xe trên đường mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng (ô tô)",
+      "Không chấp hành yêu cầu kiểm tra về chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng (ô tô)",
+      "Thực hiện hành vi lạng lách, đánh võng trên đường bộ, chạy quá tốc độ đuổi nhau trên đường bộ, dùng chân điều khiển vô lăng xe mà gây tai nạn giao thông (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Trừ 02 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Không có giấy đăng ký xe (ô tô)",
+      "Điều khiển xe ô tô kéo theo xe khác, vật khác; điều khiển xe ô tô đẩy xe khác, vật khác (ô tô)",
+      "Chở người trên xe được kéo, trừ người điều khiển (ô tô)",
+      "Quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt (ô tô)",
+      "Dừng xe, đỗ xe tại vị trí: bên trái đường một chiều hoặc bên trái của đường đôi (ô tô)",
+      "Không thực hiện biện pháp bảo đảm an toàn theo quy định khi xe ô tô bị hư hỏng ngay tại nơi đường bộ giao nhau cùng mức với đường sắt (ô tô)",
+      "Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn (ô tô)",
+      "Lùi xe, quay đầu xe trong hầm đường bộ; dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định (ô tô)",
+      "Vượt xe trong những trường hợp không được vượt, vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt (ô tô)",
+      "Điều khiển xe không đi bên phải theo chiều đi của mình; đi không đúng phần đường hoặc làn đường quy định (ô tô)",
+      "Tránh xe đi ngược chiều không đúng quy định; không nhường đường cho xe đi ngược chiều theo quy định tại nơi đường hẹp (ô tô)",
+      "Không tuân thủ quy định khi vào hoặc ra đường cao tốc (ô tô)",
+      "Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h (ô tô)",
+      "Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông (ô tô)",
+      "Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi từ đường không ưu tiên ra đường ưu tiên (ô tô)",
+      "Không giảm tốc độ và nhường đường cho xe đi đến từ bên phải tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Trừ 04 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h (ô tô)",
+      "Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ (ô tô)",
+      "Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước khi chạy trên đường cao tốc (ô tô)",
+      "Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Trừ 06 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Chở người trên thùng xe trái quy định; chở người trên nóc xe; để người đu bám ở cửa xe, bên ngoài thành xe khi xe đang chạy (ô tô)",
+      "Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định (ô tô)",
+      "Điều khiển xe gây tai nạn giao thông không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn (ô tô)",
+      "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông (ô tô)",
+      "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông (ô tô)",
+      "Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển 'Cấm đi ngược chiều' (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Trừ 10 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở (ô tô)",
+      "Điều khiển xe không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông (ô tô)",
+      "Điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông (ô tô)",
+      "Dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường không đúng quy định gây tai nạn giao thông (ô tô)",
+      "Điều khiển xe đi ngược chiều trên đường cao tốc, lùi xe trên đường cao tốc, quay đầu xe trên đường cao tốc (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 200.000 đồng đến 400.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe không có kính chắn gió/vỡ không tác dụng (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 400.000 đồng đến 600.000 đồng",
+    "nội_dung": [
+      "Không có đèn chiếu sáng, đèn biển số, đèn báo hãm, đèn tín hiệu, cần gạt nước, gương chiếu hậu, dây đai an toàn, dụng cụ thoát hiểm, thiết bị chữa cháy (ô tô)",
+      "Không có còi hoặc còi không tác dụng (ô tô)",
+      "Không có bộ phận giảm thanh, giảm khói hoặc không đạt quy chuẩn môi trường (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng",
+    "nội_dung": [
+      "Lắp thêm đèn phía trước, sau, trên nóc, dưới gầm, hai bên thành xe (ô tô)",
+      "Hệ thống chuyển hướng không đúng tiêu chuẩn (ô tô)",
+      "Không lắp đủ bánh lốp/lắp không đúng kích cỡ/không đạt tiêu chuẩn (ô tô)",
+      "Ô tô kinh doanh vận tải hành khách lắp thêm/tháo bớt ghế, giường nằm/kích thước khoang hành lý không đúng (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng",
+    "nội_dung": [
+      "Giấy chứng nhận/tem kiểm định an toàn kỹ thuật và bảo vệ môi trường hết hạn dưới 1 tháng (ô tô)",
+      "Không đủ hệ thống hãm hoặc không đúng tiêu chuẩn an toàn (ô tô)",
+      "Xe kinh doanh vận tải có niên hạn không đảm bảo điều kiện đăng ký (ô tô)",
+      "Lắp đặt, sử dụng còi vượt quá âm lượng quy định (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng",
+    "nội_dung": [
+      "Sử dụng chứng nhận đăng ký xe, giấy chứng nhận, tem kiểm định không do cơ quan có thẩm quyền cấp/bị tẩy xóa/không đúng số khung, số máy (ô tô)",
+      "Không có giấy chứng nhận/tem kiểm định an toàn kỹ thuật và bảo vệ môi trường hoặc hết hiệu lực từ 1 tháng trở lên (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe đăng ký tạm thời, xe có phạm vi hoạt động hạn chế vượt quá phạm vi, tuyến đường, thời hạn (ô tô)",
+      "Không gắn biển số (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 20.000.000 đồng đến 26.000.000 đồng",
+    "nội_dung": [
+      "Gắn biển số không đúng chứng nhận đăng ký xe/không do cơ quan có thẩm quyền cấp (ô tô)",
+      "Không gắn đủ biển số/gắn không đúng vị trí, quy cách/gắn biển số không rõ chữ số/sử dụng chất liệu khác/bẻ cong, che lấp, làm thay đổi biển số (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Trừ 2 điểm giấy phép lái xe - Điều kiện phương tiện",
+    "nội_dung": [
+      "Lắp thêm đèn/hệ thống chuyển hướng không đúng tiêu chuẩn (ô tô)",
+      "Không có chứng nhận đăng ký xe/hết hạn/hết hiệu lực (ô tô)",
+      "Giấy chứng nhận/tem kiểm định hết hạn dưới 1 tháng (ô tô)",
+      "Không đủ hệ thống hãm hoặc không đúng tiêu chuẩn (ô tô)",
+      "Sử dụng chứng nhận đăng ký xe, giấy chứng nhận/tem kiểm định không do cơ quan có thẩm quyền cấp/bị tẩy xóa (ô tô)",
+      "Không có giấy chứng nhận/tem kiểm định (ô tô)",
+      "Điều khiển xe đăng ký tạm thời hoạt động quá phạm vi, thời hạn (ô tô)",
+      "Không có giấy chứng nhận đăng kiểm (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Trừ 6 điểm giấy phép lái xe - Điều kiện phương tiện",
+    "nội_dung": [
+      "Không gắn biển số/gắn không đúng vị trí/che lấp/làm thay đổi biển số (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Trừ 10 điểm giấy phép lái xe - Điều kiện phương tiện",
+    "nội_dung": [
+      "Gắn biển số không đúng chứng nhận đăng ký xe/không do cơ quan có thẩm quyền cấp (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 500.000 đồng đến 1.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe không đáp ứng yêu cầu về vệ sinh lưu thông trong đô thị (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng - Bảo vệ môi trường",
+    "nội_dung": [
+      "Chở đất đá, phế thải, hàng rời không có mui, bạt che đậy/có nhưng rơi vãi (ô tô)",
+      "Làm rơi vãi hàng hóa trên đường bộ (ô tô)",
+      "Chở hàng/chất thải để nước chảy xuống mặt đường (ô tô)",
+      "Lôi kéo bùn, đất, cát, nguyên liệu ra đường bộ (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng - Bảo vệ môi trường",
+    "nội_dung": [
+      "Đỗ trái phép rác, đất, cát, đá, vật liệu, chất phế thải trong phạm vi đất dành cho đường bộ ngoài đô thị (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng - Bảo vệ môi trường",
+    "nội_dung": [
+      "Đổ trái phép rác, đất, cát, đá, vật liệu, chất phế thải ra đường phố (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Trừ 2 điểm giấy phép lái xe - Bảo vệ môi trường",
+    "nội_dung": [
+      "Đỗ/đổ trái phép rác, đất, cát, đá, vật liệu, chất phế thải trong phạm vi đường bộ/ra đường phố (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 300.000 đồng đến 400.000 đồng - Điều kiện người lái xe",
+    "nội_dung": [
+      "Không mang theo giấy phép lái xe (ô tô)",
+      "Không mang theo chứng nhận đăng ký xe (ô tô)",
+      "Không mang theo giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 400.000 đồng đến 600.000 đồng - Điều kiện người lái xe",
+    "nội_dung": [
+      "Không mang theo chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực (ô tô)",
+      "Không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng - Điều kiện người lái xe",
+    "nội_dung": [
+      "Có giấy phép lái xe nhưng đã hết hạn sử dụng dưới 01 năm (ô tô)",
+      "Có giấy phép lái xe quốc tế do các nước tham gia Công ước 1968 cấp nhưng không mang theo giấy phép lái xe quốc gia phù hợp (ô tô)",
+      "Sử dụng giấy phép lái xe không hợp lệ (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng - Điều kiện người lái xe",
+    "nội_dung": [
+      "Có giấy phép lái xe nhưng không phù hợp với loại xe đang điều khiển (ô tô)",
+      "Có giấy phép lái xe nhưng đã hết hạn sử dụng từ 01 năm trở lên (ô tô)",
+      "Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm (ô tô)",
+      "Sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô",
+    "mức_phạt": "Trừ 02 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Sử dụng giấy phép lái xe không hợp lệ (ô tô)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Phạt tiền từ 100.000 đồng đến 200.000 đồng",
+    "nội_dung": [
+      "Không hướng dẫn hành khách đứng, nằm, ngồi đúng vị trí quy định trong xe (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Phạt tiền từ 400.000 đồng đến 600.000 đồng",
+    "nội_dung": [
+      "Chở quá số người quy định được phép chở (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Phạt tiền từ 600.000 đồng đến 800.000 đồng",
+    "nội_dung": [
+      "Không đóng cửa lên xuống khi xe đang chạy (ô tô chở khách)",
+      "Để người ngồi trên xe khi xe xuống phà, đang trên phà và lên bến (ô tô chở khách)",
+      "Không chạy đúng tuyến đường, lịch trình, hành trình được phép (ô tô chở khách)",
+      "Để người mắc võng nằm trên xe khi xe đang chạy (ô tô chở khách)",
+      "Sắp xếp hành lý không đảm bảo an toàn; để rơi hành lý; để hàng trong khoang hành khách (ô tô chở khách)",
+      "Chở hành lý vượt kích thước bao ngoài của xe (ô tô chở khách)",
+      "Không có nhân viên phục vụ trên xe đối với xe quy định phải có (ô tô chở khách)",
+      "Không có dây đai an toàn tại các vị trí (ô tô chở khách)",
+      "Không có hướng dẫn về an toàn và thoát hiểm khi xảy ra sự cố (ô tô chở khách)",
+      "Không niêm yết hành trình chạy xe hoặc niêm yết không đúng (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng",
+    "nội_dung": [
+      "Chở quá số người quy định cho xe khách tuyến cố định, hợp đồng có cự ly >300km (ô tô chở khách)",
+      "Để người lên, xuống xe khi xe đang chạy (ô tô chở khách)",
+      "Xếp hành lý làm lệch xe (ô tô chở khách)",
+      "Đón, trả khách không đúng nơi quy định hoặc dừng quá thời gian quy định (ô tô chở khách)",
+      "Đón, trả khách tại nơi cấm dừng, đỗ, nơi đường cong tầm nhìn bị che khuất (ô tô chở khách)",
+      "Sử dụng hợp đồng vận tải bằng văn bản giấy không có/không mang theo danh sách hành khách (ô tô chở khách)",
+      "Vận chuyển hành khách theo tuyến cố định không có/không mang theo lệnh vận chuyển (ô tô chở khách)",
+      "Đón, trả khách không đúng địa điểm trong hợp đồng (ô tô chở khách)",
+      "Vận chuyển khách liên vận quốc tế không có lệnh vận chuyển, danh sách hành khách (ô tô chở khách)",
+      "Chở hành lý vượt trọng tải theo thiết kế (ô tô chở khách)",
+      "Không sử dụng thẻ nhận dạng lái xe hoặc sử dụng thẻ của lái xe khác (ô tô chở khách)",
+      "Không lắp thiết bị ghi nhận hình ảnh người lái xe hoặc làm sai lệch dữ liệu (ô tô chở khách)",
+      "Không có thiết bị truy cập hợp đồng điện tử và danh sách hành khách (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng",
+    "nội_dung": [
+      "Vận chuyển hàng nguy hiểm, hàng độc hại, dễ cháy, động vật, hàng có mùi hôi thối (ô tô chở khách)",
+      "Chở người trên mui xe, trong khoang hành lý (ô tô chở khách)",
+      "Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách (ô tô chở khách)",
+      "Điều khiển xe quá thời gian quy định tại Luật Trật tự, ATGT đường bộ (ô tô chở khách)",
+      "Không lắp thiết bị giám sát hành trình hoặc làm sai lệch dữ liệu (ô tô chở khách)",
+      "Không có thiết bị ghi nhận hình ảnh trẻ em hoặc thiết bị cảnh báo, chống bỏ quên trẻ em (ô tô chở khách)",
+      "Không có màu sơn theo quy định (ô tô chở khách)",
+      "Điều khiển xe chở hành khách liên vận quốc tế không gắn ký hiệu phân biệt quốc gia (ô tô chở khách)",
+      "Không có biển báo dấu hiệu nhận biết là xe chở trẻ em mầm non, học sinh (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe chở hành khách không có/không gắn phù hiệu theo quy định hoặc phù hiệu hết hạn hoặc không do cơ quan có thẩm quyền cấp (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng",
+    "nội_dung": [
+      "Đón, trả hành khách trên đường cao tốc (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Trừ 02 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Đón, trả khách tại nơi cấm dừng, đỗ (ô tô chở khách)",
+      "Không sử dụng thẻ nhận dạng lái xe (ô tô chở khách)",
+      "Không lắp thiết bị ghi nhận hình ảnh người lái xe (ô tô chở khách)",
+      "Vận chuyển hàng nguy hiểm, hàng độc hại trên xe chở khách (ô tô chở khách)",
+      "Chở người trên mui xe, trong khoang hành lý (ô tô chở khách)",
+      "Không lắp thiết bị giám sát hành trình (ô tô chở khách)",
+      "Điều khiển xe chở hành khách không có phù hiệu (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Trừ 04 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Chở quá số người quy định (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Trừ 06 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Đón, trả hành khách trên đường cao tốc (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở khách",
+    "mức_phạt": "Trừ 10 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Chở quá số người quy định (ô tô chở khách)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 600.000 đồng đến 800.000 đồng",
+    "nội_dung": [
+      "Điều khiển xe xếp hàng trên nóc buồng lái, xếp hàng làm lệch xe (ô tô chở hàng)",
+      "Không chốt, đóng cố định cửa sau, cửa bên thùng xe khi xe đang chạy (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 800.000 đồng đến 1.000.000 đồng",
+    "nội_dung": [
+      "Chở hàng vượt trọng tải 10%-30% (ô tô chở hàng)",
+      "Chở hàng trên nóc thùng xe, vượt bề rộng thùng xe, vượt phía trước/sau trên 1,1 lần chiều dài xe (ô tô chở hàng)",
+      "Chở người trên mui xe (ô tô chở hàng)",
+      "Kéo theo rơ moóc, sơ mi rơ moóc có khối lượng toàn bộ vượt khối lượng cho phép 10%-30% (ô tô chở hàng)",
+      "Không có/không mang theo giấy vận tải, không có thiết bị truy cập giấy vận tải điện tử (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng",
+    "nội_dung": [
+      "Không sử dụng thẻ nhận dạng lái xe hoặc sử dụng thẻ của lái xe khác (ô tô chở hàng)",
+      "Không lắp thiết bị ghi nhận hình ảnh người lái xe hoặc làm sai lệch dữ liệu (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng",
+    "nội_dung": [
+      "Chở hàng vượt chiều cao xếp hàng cho phép (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng",
+    "nội_dung": [
+      "Chở hàng vượt trọng tải 30%-50% (ô tô chở hàng)",
+      "Điều khiển xe quá thời gian quy định tại Luật Trật tự, ATGT đường bộ (ô tô chở hàng)",
+      "Không lắp thiết bị giám sát hành trình hoặc làm sai lệch dữ liệu (ô tô chở hàng)",
+      "Kéo theo rơ moóc, sơ mi rơ moóc có khối lượng toàn bộ vượt khối lượng cho phép 30%-50% (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng",
+    "nội_dung": [
+      "Chở hàng vượt trọng tải 50%-100% (ô tô chở hàng)",
+      "Kéo theo rơ moóc, sơ mi rơ moóc có khối lượng toàn bộ vượt khối lượng cho phép 50%-100% (ô tô chở hàng)",
+      "Không có/không gắn phù hiệu theo quy định hoặc phù hiệu hết hạn hoặc không do cơ quan có thẩm quyền cấp (ô tô chở hàng)",
+      "Chở hàng trong đô thị không chạy đúng tuyến, phạm vi, thời gian quy định (ô tô chở hàng)",
+      "Vận chuyển hàng hóa không có giấy phép hoặc không đúng quy định trong giấy phép (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 7.000.000 đồng đến 8.000.000 đồng",
+    "nội_dung": [
+      "Chở hàng vượt trọng tải 100%-150% (ô tô chở hàng)",
+      "Kéo theo rơ moóc, sơ mi rơ moóc có khối lượng toàn bộ vượt khối lượng cho phép 100%-150% (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 8.000.000 đồng đến 12.000.000 đồng",
+    "nội_dung": [
+      "Chở hàng vượt trọng tải trên 150% (ô tô chở hàng)",
+      "Kéo theo rơ moóc, sơ mi rơ moóc có khối lượng toàn bộ vượt khối lượng cho phép trên 150% (ô tô chở hàng)",
+      "Chở công-ten-nơ không bảo đảm quy chuẩn, tiêu chuẩn kỹ thuật (ô tô chở hàng)",
+      "Chở công-ten-nơ bị cắt nóc trái quy định (ô tô chở hàng)",
+      "Vận chuyển hàng phải chằng buộc mà không chằng buộc hoặc chằng buộc không đảm bảo an toàn (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng",
+    "nội_dung": [
+      "Nhận, trả hàng trên đường cao tốc (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 18.000.000 đồng đến 22.000.000 đồng",
+    "nội_dung": [
+      "Vận chuyển phương tiện vận tải, máy móc, thiết bị, hàng dạng trụ không chằng buộc hoặc chằng buộc không đúng quy định (ô tô chở hàng)",
+      "Chở công-ten-nơ không sử dụng cơ cấu khóa hãm hoặc công-ten-nơ bị xê dịch (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Phạt tiền từ 30.000.000 đồng đến 35.000.000 đồng",
+    "nội_dung": [
+      "Vi phạm quy định về chở hàng mà gây tai nạn giao thông (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Trừ 02 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Chở hàng vượt chiều cao xếp hàng cho phép (ô tô chở hàng)",
+      "Không sử dụng thẻ nhận dạng lái xe (ô tô chở hàng)",
+      "Chở hàng vượt trọng tải 30%-50% (ô tô chở hàng)",
+      "Không lắp thiết bị giám sát hành trình (ô tô chở hàng)",
+      "Không có/không gắn phù hiệu theo quy định (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Trừ 04 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Chở hàng vượt trọng tải 50%-100% (ô tô chở hàng)",
+      "Chở công-ten-nơ không bảo đảm quy chuẩn, tiêu chuẩn kỹ thuật (ô tô chở hàng)",
+      "Nhận, trả hàng trên đường cao tốc (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Trừ 06 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Chở hàng trên đường có biển cấm (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Trừ 08 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Chở hàng vượt trọng tải 100%-150% (ô tô chở hàng)"
+    ]
+  },
+  {
+    "category": "ô tô chở hàng",
+    "mức_phạt": "Trừ 10 điểm giấy phép lái xe",
+    "nội_dung": [
+      "Chở hàng vượt trọng tải trên 150% (ô tô chở hàng)",
+      "Vi phạm quy định về chở hàng mà gây tai nạn giao thông (ô tô chở hàng)"
+    ]
+  }
+]
