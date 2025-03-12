@@ -1,0 +1,77 @@
+[
+    {
+      "category": "xe đạp, xe đạp máy và xe thô sơ",
+      "mức_phạt": "Phạt tiền từ 100.000 đồng đến 200.000 đồng",
+      "nội_dung": [
+        "Không đi bên phải theo chiều đi, đi không đúng phần đường",
+        "Dừng xe đột ngột hoặc chuyển hướng không báo hiệu",
+        "Không chấp hành hiệu lệnh hoặc biển báo, vạch kẻ đường",
+        "Vượt bên phải khi không được phép",
+        "Dừng xe, đỗ xe trên phần đường xe chạy (ngoài đô thị nơi có lề đường)",
+        "Đi dàn hàng ngang (từ 3 xe đạp/xe đạp máy trở lên hoặc từ 2 xe thô sơ khác trở lên)",
+        "Sử dụng ô (dù), điện thoại hoặc thiết bị điện tử khi điều khiển xe",
+        "Không sử dụng đèn hoặc báo hiệu khi đi từ 18 giờ đến 6 giờ sáng",
+        "Để xe ở lòng đường, vỉa hè trái phép hoặc gây cản trở giao thông",
+        "Chở quá số người quy định",
+        "Điều khiển xe khi có nồng độ cồn dưới 50 miligam/100 mililít máu",
+        "Không có còi, chuông",
+        "Không có đèn chiếu sáng hoặc tấm phản quang phía trước",
+        "Không có đèn tín hiệu hoặc tấm phản quang phía sau"
+      ]
+    },
+    {
+      "category": "xe đạp, xe đạp máy và xe thô sơ",
+      "mức_phạt": "Phạt tiền từ 150.000 đồng đến 250.000 đồng",
+      "nội_dung": [
+        "Buông cả hai tay khi lái xe, dùng chân điều khiển xe",
+        "Chuyển hướng đột ngột trước đầu xe cơ giới đang chạy",
+        "Không chấp hành hiệu lệnh của người điều khiển hoặc kiểm soát giao thông",
+        "Bám, kéo, đẩy xe khác hoặc mang vác vật cồng kềnh",
+        "Không nhường đường cho xe xin vượt hoặc gây cản trở",
+        "Không chấp hành hiệu lệnh đèn tín hiệu"
+      ]
+    },
+    {
+      "category": "xe đạp, xe đạp máy và xe thô sơ",
+      "mức_phạt": "Phạt tiền từ 300.000 đồng đến 400.000 đồng",
+      "nội_dung": [
+        "Lạng lách, đánh võng hoặc đuổi nhau trên đường",
+        "Đi bằng một bánh (xe đạp, xe đạp máy) hoặc đi bằng hai bánh (xe xích lô)",
+        "Đi vào khu vực cấm hoặc đi ngược chiều",
+        "Có nồng độ cồn từ 50 đến 80 miligam/100 mililít máu",
+        "Không có hệ thống hãm (phanh) hoặc hệ thống hãm không hiệu lực",
+        "Sắp xếp, chằng buộc hàng hóa không an toàn",
+        "Vận chuyển hàng hóa che khuất tầm nhìn hoặc đèn, biển số",
+        "Để rơi hàng hóa xuống đường"
+      ]
+    },
+    {
+      "category": "xe đạp, xe đạp máy và xe thô sơ",
+      "mức_phạt": "Phạt tiền từ 400.000 đồng đến 600.000 đồng",
+      "nội_dung": [
+        "Gây tai nạn không dừng xe, không giúp đỡ người bị nạn",
+        "Có nồng độ cồn vượt quá 80 miligam/100 mililít máu",
+        "Không chấp hành yêu cầu kiểm tra nồng độ cồn",
+        "Không đội mũ bảo hiểm khi điều khiển xe đạp máy",
+        "Chở người không đội mũ bảo hiểm trên xe đạp máy",
+        "Chở hàng vượt quá khối lượng cho phép",
+        "Chở hàng vượt quá khổ giới hạn",
+        "Vận chuyển hàng rời, vật liệu xây dựng rơi vãi",
+        "Không có báo hiệu khi hàng hóa vượt quá phía trước hoặc phía sau xe"
+      ]
+    },
+    {
+      "category": "xe đạp, xe đạp máy và xe thô sơ",
+      "mức_phạt": "Phạt tiền từ 800.000 đồng đến 1.200.000 đồng",
+      "nội_dung": [
+        "Đi vào đường cao tốc (trừ phương tiện phục vụ quản lý, bảo trì đường)"
+      ]
+    },
+    {
+      "category": "xe đạp, xe đạp máy và xe thô sơ",
+      "mức_phạt": "Tịch thu phương tiện",
+      "nội_dung": [
+        "Đua xe đạp, xe đạp máy trái phép trên đường giao thông"
+      ]
+    }
+  ]

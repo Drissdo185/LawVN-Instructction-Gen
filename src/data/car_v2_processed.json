@@ -245,7 +245,6 @@
       "Chở người trên thùng xe trái quy định; chở người trên nóc xe; để người đu bám ở cửa xe, bên ngoài thành xe khi xe đang chạy (ô tô)",
       "Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định (ô tô)",
       "Điều khiển xe gây tai nạn giao thông không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn (ô tô)",
-      "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông (ô tô)",
       "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông (ô tô)",
       "Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển 'Cấm đi ngược chiều' (ô tô)"
     ]
@@ -525,7 +524,8 @@
     "category": "ô tô chở khách",
     "mức_phạt": "Trừ 04 điểm giấy phép lái xe",
     "nội_dung": [
-      "Chở quá số người quy định (ô tô chở khách)"
+      "Chở quá số người quy định (ô tô chở khách)",
+      "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông (ô tô)"
     ]
   },
   {

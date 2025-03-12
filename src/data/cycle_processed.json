@@ -1,0 +1,77 @@
+[
+  {
+    "category": "xe đạp, xe đạp máy và xe thô sơ",
+    "mức_phạt": "Phạt tiền từ 100.000 đồng đến 200.000 đồng",
+    "nội_dung": [
+      "Không đi bên phải theo chiều đi, đi không đúng phần đường (xe đạp, xe đạp máy và xe thô sơ)",
+      "Dừng xe đột ngột hoặc chuyển hướng không báo hiệu (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không chấp hành hiệu lệnh hoặc biển báo, vạch kẻ đường (xe đạp, xe đạp máy và xe thô sơ)",
+      "Vượt bên phải khi không được phép (xe đạp, xe đạp máy và xe thô sơ)",
+      "Dừng xe, đỗ xe trên phần đường xe chạy (xe đạp, xe đạp máy và xe thô sơ)",
+      "Đi dàn hàng ngang (xe đạp, xe đạp máy và xe thô sơ)",
+      "Sử dụng ô (dù), điện thoại hoặc thiết bị điện tử khi điều khiển xe (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không sử dụng đèn hoặc báo hiệu khi đi từ 18 giờ đến 6 giờ sáng (xe đạp, xe đạp máy và xe thô sơ)",
+      "Để xe ở lòng đường, vỉa hè trái phép hoặc gây cản trở giao thông (xe đạp, xe đạp máy và xe thô sơ)",
+      "Chở quá số người quy định (xe đạp, xe đạp máy và xe thô sơ)",
+      "Điều khiển xe khi có nồng độ cồn dưới 50 miligam/100 mililít máu (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không có còi, chuông (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không có đèn chiếu sáng hoặc tấm phản quang phía trước (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không có đèn tín hiệu hoặc tấm phản quang phía sau (xe đạp, xe đạp máy và xe thô sơ)"
+    ]
+  },
+  {
+    "category": "xe đạp, xe đạp máy và xe thô sơ",
+    "mức_phạt": "Phạt tiền từ 150.000 đồng đến 250.000 đồng",
+    "nội_dung": [
+      "Buông cả hai tay khi lái xe, dùng chân điều khiển xe (xe đạp, xe đạp máy và xe thô sơ)",
+      "Chuyển hướng đột ngột trước đầu xe cơ giới đang chạy (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không chấp hành hiệu lệnh của người điều khiển hoặc kiểm soát giao thông (xe đạp, xe đạp máy và xe thô sơ)",
+      "Bám, kéo, đẩy xe khác hoặc mang vác vật cồng kềnh (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không nhường đường cho xe xin vượt hoặc gây cản trở (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không chấp hành hiệu lệnh đèn tín hiệu (xe đạp, xe đạp máy và xe thô sơ)"
+    ]
+  },
+  {
+    "category": "xe đạp, xe đạp máy và xe thô sơ",
+    "mức_phạt": "Phạt tiền từ 300.000 đồng đến 400.000 đồng",
+    "nội_dung": [
+      "Lạng lách, đánh võng hoặc đuổi nhau trên đường (xe đạp, xe đạp máy và xe thô sơ)",
+      "Đi bằng một bánh (xe đạp, xe đạp máy) hoặc đi bằng hai bánh (xe đạp, xe đạp máy và xe thô sơ)",
+      "Đi vào khu vực cấm hoặc đi ngược chiều (xe đạp, xe đạp máy và xe thô sơ)",
+      "Có nồng độ cồn từ 50 đến 80 miligam/100 mililít máu (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không có hệ thống hãm (phanh) hoặc hệ thống hãm không hiệu lực (xe đạp, xe đạp máy và xe thô sơ)",
+      "Sắp xếp, chằng buộc hàng hóa không an toàn (xe đạp, xe đạp máy và xe thô sơ)",
+      "Vận chuyển hàng hóa che khuất tầm nhìn hoặc đèn, biển số (xe đạp, xe đạp máy và xe thô sơ)",
+      "Để rơi hàng hóa xuống đường (xe đạp, xe đạp máy và xe thô sơ)"
+    ]
+  },
+  {
+    "category": "xe đạp, xe đạp máy và xe thô sơ",
+    "mức_phạt": "Phạt tiền từ 400.000 đồng đến 600.000 đồng",
+    "nội_dung": [
+      "Gây tai nạn không dừng xe, không giúp đỡ người bị nạn (xe đạp, xe đạp máy và xe thô sơ)",
+      "Có nồng độ cồn vượt quá 80 miligam/100 mililít máu (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không chấp hành yêu cầu kiểm tra nồng độ cồn (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không đội mũ bảo hiểm khi điều khiển xe đạp máy (xe đạp, xe đạp máy và xe thô sơ)",
+      "Chở người không đội mũ bảo hiểm trên xe đạp máy (xe đạp, xe đạp máy và xe thô sơ)",
+      "Chở hàng vượt quá khối lượng cho phép (xe đạp, xe đạp máy và xe thô sơ)",
+      "Chở hàng vượt quá khổ giới hạn (xe đạp, xe đạp máy và xe thô sơ)",
+      "Vận chuyển hàng rời, vật liệu xây dựng rơi vãi (xe đạp, xe đạp máy và xe thô sơ)",
+      "Không có báo hiệu khi hàng hóa vượt quá phía trước hoặc phía sau xe (xe đạp, xe đạp máy và xe thô sơ)"
+    ]
+  },
+  {
+    "category": "xe đạp, xe đạp máy và xe thô sơ",
+    "mức_phạt": "Phạt tiền từ 800.000 đồng đến 1.200.000 đồng",
+    "nội_dung": [
+      "Đi vào đường cao tốc (xe đạp, xe đạp máy và xe thô sơ)"
+    ]
+  },
+  {
+    "category": "xe đạp, xe đạp máy và xe thô sơ",
+    "mức_phạt": "Tịch thu phương tiện",
+    "nội_dung": [
+      "Đua xe đạp, xe đạp máy trái phép trên đường giao thông (xe đạp, xe đạp máy và xe thô sơ)"
+    ]
+  }
+]
