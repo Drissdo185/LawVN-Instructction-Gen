@@ -101,6 +101,7 @@
     "category": "mô tô, gắn máy",
     "mức_phạt": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng",
     "nội_dung": [
+      "Điều khiển xe đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan.",
       "Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển 'Cấm đi ngược chiều' (mô tô, gắn máy)",
       "Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc (mô tô, gắn máy)",
       "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông (mô tô, gắn máy)",
@@ -185,6 +186,7 @@
     "category": "mô tô, gắn máy",
     "mức_phạt": "Trừ điểm giấy phép lái xe 02 điểm",
     "nội_dung": [
+      "Điều khiển xe đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan.",
       "Chở theo từ 03 người trở lên trên xe (mô tô, gắn máy)",
       "Điều khiển xe có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng ngay phương tiện (mô tô, gắn máy)",
       "Chuyển hướng không nhường quyền đi trước cho người đi bộ, xe lăn của người khuyết tật qua đường (mô tô, gắn máy)",
