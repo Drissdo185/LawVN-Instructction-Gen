@@ -81,6 +81,14 @@
   },
   {
     "category": "ô tô",
+    "mức_phạt": "Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng",
+    "nội_dung": [
+      "(đối với cá nhân)Sử dụng xe ô tô kinh doanh vận tải chở trẻ em mầm non, học sinh tiểu học, xe ô tô kinh doanh vận tải kết hợp với hoạt động đưa đón trẻ em mầm non, học sinh tiểu học không có dây đai an toàn phù hợp với lứa tuổi hoặc không có ghế ngồi phù hợp với lứa tuổi."
+    ]
+  },
+  
+  {
+    "category": "ô tô",
     "mức_phạt": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng",
     "nội_dung": [
       "Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ (ô tô)",
@@ -107,6 +115,7 @@
     "category": "ô tô",
     "mức_phạt": "Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng",
     "nội_dung": [
+      "(đối với tổ chức kinh doanh vận tải, dịch vụ hỗ trợ vận tải)Sử dụng xe ô tô kinh doanh vận tải chở trẻ em mầm non, học sinh tiểu học, xe ô tô kinh doanh vận tải kết hợp với hoạt động đưa đón trẻ em mầm non, học sinh tiểu học không có dây đai an toàn phù hợp với lứa tuổi hoặc không có ghế ngồi phù hợp với lứa tuổi.",
       "Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h (ô tô)",
       "Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ (ô tô)",
       "Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở (ô tô)",

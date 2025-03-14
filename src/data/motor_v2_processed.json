@@ -8,30 +8,34 @@
       "Lùi xe mô tô ba bánh không quan sát hai bên, phía sau xe hoặc không có tín hiệu lùi xe (mô tô, gắn máy)",
       "Chở người ngồi trên xe sử dụng ô (dù) (mô tô, gắn máy)",
       "Không tuân thủ các quy định về nhường đường tại nơi đường giao nhau (mô tô, gắn máy)",
-      "Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước (mô tô, gắn máy)",
+      "Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước hoặc chuyển làn đường không đúng quy định (mô tô, gắn máy)",
       "Không sử dụng đèn chiếu sáng trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau (mô tô, gắn máy)",
-      "Tránh xe không đúng quy định; sử dụng đèn chiếu xa không đúng quy định (mô tô, gắn máy)",
-      "Sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư (mô tô, gắn máy)",
+      "Tránh xe không đúng quy định; sử dụng đèn chiếu xa khi gặp người đi bộ qua đường hoặc khi đi trên đoạn đường qua khu dân cư có hệ thống chiếu sáng đang hoạt động (mô tô, gắn máy)",
+      "Sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định (mô tô, gắn máy)",
       "Điều khiển xe chạy dưới tốc độ tối thiểu trên đoạn đường bộ có quy định tốc độ tối thiểu cho phép (mô tô, gắn máy)",
       "Không mang giấy phép lái xe (mô tô, gắn máy)",
       "Không mang theo giấy đăng ký xe (mô tô, gắn máy)",
-      "Không có bảo hiểm xe bắt buộc (mô tô, gắn máy)"
+      "Không có bảo hiểm xe bắt buộc (mô tô, gắn máy)",
+      "Điều khiển xe chạy dưới tốc độ tối thiểu trên đoạn đường bộ có quy định tốc độ tối thiểu cho phép. (mô tô, gắn máy)",
+      "Không sử dụng đèn chiếu sáng trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn"
+
     ]
   },
   {
     "category": "mô tô, gắn máy",
     "mức_phạt": "Phạt tiền từ 400.000 đồng đến 600.000 đồng",
     "nội_dung": [
+      "Dừng xe nơi có biển “Cấm dừng xe và đỗ xe”; đỗ xe tại nơi có biển “Cấm đỗ xe” hoặc biển “Cấm dừng xe và đỗ xe”",
       "Bám, kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang vác vật cồng kềnh, đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái của xe (mô tô, gắn máy)",
       "Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường (mô tô, gắn máy)",
       "Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h (mô tô, gắn máy)",
       "Điều khiển xe chạy tốc độ thấp mà không đi bên phải phần đường xe chạy gây cản trở giao thông (mô tô, gắn máy)",
-      "Dừng xe, đỗ xe ở lòng đường gây cản trở giao thông; tụ tập từ 03 xe trở lên ở lòng đường (mô tô, gắn máy)",
+      "Dừng xe, đỗ xe ở lòng đường gây cản trở giao thông; tụ tập từ 03 xe trở lên ở lòng đường, trong hầm đường bộ; đỗ, để xe ở lòng đường, vỉa hè trái phép (mô tô, gắn máy)",
       "Xe không được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu của xe được quyền ưu tiên (mô tô, gắn máy)",
       "Dừng xe, đỗ xe trên điểm đón, trả khách, nơi đường bộ giao nhau (mô tô, gắn máy)",
-      "Chở theo 02 người trên xe, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 12 tuổi, người già yếu (mô tô, gắn máy)",
-      "Không đội mũ bảo hiểm hoặc đội mũ bảo hiểm không cài quai đúng quy cách (mô tô, gắn máy)",
-      "Chở người ngồi trên xe không đội mũ bảo hiểm hoặc đội mũ bảo hiểm không cài quai đúng quy cách (mô tô, gắn máy)",
+      "Chở theo 02 người trên xe, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 12 tuổi, người già yếu hoặc người khuyết tật, áp giải người có hành vi vi phạm pháp luật",
+      "Không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách khi điều khiển xe tham gia giao thông trên đường bộ (mô tô, gắn máy)",
+      "Chở người ngồi trên xe không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 06 tuổi, áp giải người có hành vi vi phạm pháp luật (mô tô, gắn máy)",
       "Quay đầu xe tại nơi không được quay đầu xe (mô tô, gắn máy)",
       "Điều khiển xe không có còi; đèn soi biển số; đèn báo hãm; gương chiếu hậu hoặc có nhưng không có tác dụng (mô tô, gắn máy)",
       "Điều khiển xe không có đèn tín hiệu hoặc có nhưng không có tác dụng (mô tô, gắn máy)",
@@ -42,15 +46,17 @@
     "category": "mô tô, gắn máy",
     "mức_phạt": "Phạt tiền từ 600.000 đồng đến 800.000 đồng",
     "nội_dung": [
-      "Chuyển hướng không quan sát hoặc không bảo đảm khoảng cách an toàn với xe phía sau (mô tô, gắn máy)",
+      "Đi không đúng phần đường, làn đường quy định (làn cùng chiều hoặc làn ngược chiều); điều khiển xe đi qua dải phân cách cố định ở giữa hai phần đường xe chạy;",
+
+      "Chuyển hướng không quan sát hoặc không bảo đảm khoảng cách an toàn với xe phía sau hoặc không giảm tốc độ hoặc không có tín hiệu báo hướng rẽ hoặc có tín hiệu báo hướng rẽ nhưng không sử dụng liên tục trong quá trình chuyển hướng (trừ trường hợp điều khiển xe đi theo hướng cong của đoạn đường bộ ở nơi đường không giao nhau cùng mức)",
       "Chở theo từ 03 người trở lên trên xe (mô tô, gắn máy)",
       "Người đang điều khiển xe hoặc chở người ngồi trên xe bám, kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang vác vật cồng kềnh; chở người đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái của xe (mô tô, gắn máy)",
       "Dừng xe, đỗ xe trên cầu (mô tô, gắn máy)",
       "Điều khiển xe không đi bên phải theo chiều đi của mình; đi không đúng phần đường, làn đường quy định (mô tô, gắn máy)",
       "Vượt bên phải trong trường hợp không được phép (mô tô, gắn máy)",
-      "Không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước (mô tô, gắn máy)",
+      "Không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước hoặc không giữ khoảng cách theo quy định của biển báo hiệu “Cự ly tối thiểu giữa hai xe” (mô tô, gắn máy)",
       "Điều khiển xe chạy dàn hàng ngang từ 03 xe trở lên (mô tô, gắn máy)",
-      "Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định (mô tô, gắn máy)"
+      "Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định hoặc sử dụng thiết bị phát tín hiệu ưu tiên mà không có giấy phép của cơ quan có thẩm quyền cấp (mô tô, gắn máy)"
     ]
   },
   {
@@ -60,18 +66,18 @@
       "Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h (mô tô, gắn máy)",
       "Chạy trong hầm đường bộ không sử dụng đèn chiếu sáng gần (mô tô, gắn máy)",
       "Dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định (mô tô, gắn máy)",
-      "Vượt xe trong những trường hợp không được vượt, vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt (mô tô, gắn máy)",
+      "Vượt xe trong những trường hợp không được vượt, vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt đối với loại phương tiện đang điều khiển (mô tô, gắn máy)",
       "Quay đầu xe trong hầm đường bộ (mô tô, gắn máy)",
-      "Người đang điều khiển xe sử dụng ô (dù), thiết bị âm thanh, dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác (mô tô, gắn máy)"
+      "Người đang điều khiển xe sử dụng ô (dù), thiết bị âm thanh (trừ thiết bị trợ thính), dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác. (mô tô, gắn máy)"
     ]
   },
   {
     "category": "mô tô, gắn máy",
     "mức_phạt": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng",
     "nội_dung": [
-      "Điều khiển xe có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng ngay phương tiện (mô tô, gắn máy)",
-      "Chuyển hướng không nhường quyền đi trước cho người đi bộ, xe lăn của người khuyết tật qua đường (mô tô, gắn máy)",
-      "Chuyển hướng không nhường đường cho các xe đi ngược chiều; người đi bộ, xe thô sơ đang qua đường (mô tô, gắn máy)"
+      "Điều khiển xe có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn (mô tô, gắn máy)",
+      "Chuyển hướng không nhường quyền đi trước cho: người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ (mô tô, gắn máy)",
+      "Chuyển hướng không nhường đường cho: các xe đi ngược chiều; người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ. (mô tô, gắn máy)"
     ]
   },
   {
@@ -141,6 +147,11 @@
     "category": "mô tô, gắn máy",
     "mức_phạt": "Phạt tiền từ 10.000.000 đồng đến 14.000.000 đồng",
     "nội_dung": [
+      "Điều khiển xe lạng lách, đánh võng trên đường bộ; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy",
+      "Điều khiển xe thành nhóm từ 02 xe trở lên chạy quá tốc độ quy định",
+      "Không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” gây tai nạn giao thông",
+      "Vi phạm quy định tại một trong các hành vi sau mà gây tai nạn như: Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường; Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước hoặc chuyển làn đường không đúng quy định… (mô tô, gắn máy)",
+      "Điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông; đi vào đường cao tốc, dừng xe, đỗ xe, quay đầu xe, lùi xe, vượt xe, chuyển hướng, chuyển làn đường không đúng quy định gây tai nạn giao thông (mô tô, gắn máy)",
       "Điều khiển xe không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông (mô tô, gắn máy)",
       "Điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông (mô tô, gắn máy)",
       "Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển 'Cấm đi ngược chiều' gây tai nạn giao thông (mô tô, gắn máy)"
