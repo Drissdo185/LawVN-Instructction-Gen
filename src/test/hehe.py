@@ -243,7 +243,7 @@ def search_violations(retriever, query, top_k=5):
 def main():
     try:
         # Load and process data
-        documents = load_and_preprocess_data("/home/ltnga/LawVN-Instructction-Gen/src/data/general_1.json")
+        documents = load_and_preprocess_data("/home/ltnga/LawVN-Instructction-Gen/src/data/cycle_processed.json")
         print(f"Loaded {len(documents)} documents")
         
         # Create chunker and process nodes
