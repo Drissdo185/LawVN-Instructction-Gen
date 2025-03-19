@@ -3,81 +3,81 @@
     "category": "General",
     "mức_phạt": "None",
     "nội_dung": [
-      "Điểm của giấy phép lái xe được dùng để quản lý việc chấp hành pháp luật về trật tự, an toàn giao thông đường bộ của người lái xe trên hệ thống cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ, bao gồm 12 điểm. Số điểm trừ mỗi lần vi phạm tùy thuộc tính chất, mức độ của hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. Dữ liệu về điểm trừ giấy phép lái xe của người vi phạm sẽ được cập nhật vào hệ thống cơ sở dữ liệu ngay sau khi quyết định xử phạt có hiệu lực thi hành và thông báo cho người bị trừ điểm giấy phép lái xe biết.",
-      "Giấy phép lái xe chưa bị trừ hết điểm và không bị trừ điểm trong thời hạn 12 tháng từ ngày bị trừ điểm gần nhất thì được phục hồi đủ 12 điểm.",
-      "Trường hợp giấy phép lái xe bị trừ hết điểm thì người có giấy phép lái xe không được điều khiển phương tiện tham gia giao thông đường bộ theo giấy phép lái xe đó. Sau thời hạn ít nhất là 06 tháng kể từ ngày bị trừ hết điểm, người có giấy phép lái xe được tham gia kiểm tra nội dung kiến thức pháp luật về trật tự, an toàn giao thông đường bộ theo quy định tại khoản 7 Điều 61 Luật Trật tự an toàn giao thông đường bộ 2024 do lực lượng Cảnh sát giao thông tổ chức, có kết quả đạt yêu cầu thì được phục hồi đủ 12 điểm.",
-      "Giấy phép lái xe sau khi đổi, cấp lại, nâng hạng được giữ nguyên số điểm của giấy phép lái xe trước khi đổi, cấp lại, nâng hạng.",
-      "Người có thẩm quyền xử phạt vi phạm hành chính có thẩm quyền trừ điểm giấy phép lái xe."
+      "Luật giao thông quy định: Điểm của giấy phép lái xe được dùng để quản lý việc chấp hành pháp luật về trật tự, an toàn giao thông đường bộ của người lái xe trên hệ thống cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ, bao gồm 12 điểm. Số điểm trừ mỗi lần vi phạm tùy thuộc tính chất, mức độ của hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. Dữ liệu về điểm trừ giấy phép lái xe của người vi phạm sẽ được cập nhật vào hệ thống cơ sở dữ liệu ngay sau khi quyết định xử phạt có hiệu lực thi hành và thông báo cho người bị trừ điểm giấy phép lái xe biết.",
+      "Luật giao thông quy định: Giấy phép lái xe chưa bị trừ hết điểm và không bị trừ điểm trong thời hạn 12 tháng từ ngày bị trừ điểm gần nhất thì được phục hồi đủ 12 điểm.",
+      "Luật giao thông quy định: Trường hợp giấy phép lái xe bị trừ hết điểm thì người có giấy phép lái xe không được điều khiển phương tiện tham gia giao thông đường bộ theo giấy phép lái xe đó. Sau thời hạn ít nhất là 06 tháng kể từ ngày bị trừ hết điểm, người có giấy phép lái xe được tham gia kiểm tra nội dung kiến thức pháp luật về trật tự, an toàn giao thông đường bộ theo quy định tại khoản 7 Điều 61 Luật Trật tự an toàn giao thông đường bộ 2024 do lực lượng Cảnh sát giao thông tổ chức, có kết quả đạt yêu cầu thì được phục hồi đủ 12 điểm.",
+      "Luật giao thông quy định: Giấy phép lái xe sau khi đổi, cấp lại, nâng hạng được giữ nguyên số điểm của giấy phép lái xe trước khi đổi, cấp lại, nâng hạng.",
+      "Luật giao thông quy định: Người có thẩm quyền xử phạt vi phạm hành chính có thẩm quyền trừ điểm giấy phép lái xe."
     ]
   },
   {
     "category": "General",
     "mức_phạt": "None",
     "nội_dung": [
-      "Người đủ 16 tuổi trở lên được điều khiển xe gắn máy.",
-      "Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1, được cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ để điều khiển xe máy chuyên dùng tham gia giao thông đường bộ.",
-      "Người đủ 21 tuổi trở lên được cấp giấy phép lái xe hạng C, BE.",
-      "Người đủ 24 tuổi trở lên được cấp giấy phép lái xe hạng D1, D2, C1E, CE.",
-      "Người đủ 27 tuổi trở lên được cấp giấy phép lái xe hạng D, D1E, D2E, DE.",
-      "Tuổi tối đa của người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe), xe ô tô chở người giường nằm là đủ 57 tuổi đối với nam, đủ 55 tuổi đối với nữ.",
-      "Người điều khiển phương tiện tham gia giao thông đường bộ phải bảo đảm điều kiện sức khỏe phù hợp với từng loại phương tiện được phép điều khiển. Bộ trưởng Bộ Y tế quy định về tiêu chuẩn sức khỏe, việc khám sức khỏe đối với người lái xe, người điều khiển xe máy chuyên dùng; việc khám sức khỏe định kỳ đối với người hành nghề lái xe ô tô; xây dựng cơ sở dữ liệu về sức khỏe của người lái xe, người điều khiển xe máy chuyên dùng.",
-      "Bằng lái xe hạng A1: cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 phân khối hoặc có công suất động cơ điện đến 11 kW. Xe mô tô hai bánh, dung tích xi-lanh từ 50 - dưới 175 phân khối, người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật được cấp giấy phép lái xe hạng A1.",
-      "Bằng lái xe hạng A: cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 phân khối hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1. Xe mô tô hai bánh, dung tích xi-lanh từ 175 phân khối trở lên và các loại xe quy định cho giấy phép lái xe hạng A1.",
-      "Bằng lái xe hạng A3: cấp cho người lái xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 và các xe tương tự.",
-      "Bằng lái xe hạng A4: cấp cho người lái máy kéo có trọng tải đến 1.000 kg.",
-      "Bằng lái xe hạng B1 số tự động: điều khiển các xe ô tô số tự động chở người đến 9 chỗ ngồi, ô tô tải số tự động dưới 3.500 kg, ô tô dùng cho người khuyết tật.",
-      "Bằng lái xe hạng B1: điều khiển ô tô chở người đến 9 chỗ ngồi, ô tô tải dưới 3.500 kg, máy kéo kéo rơ moóc dưới 3.500 kg.",
-      "Bằng lái xe hạng C: cấp cho người lái xe ô tô tải trên 7.500 kg, ô tô tải kéo rơ moóc dưới 750 kg, các loại xe quy định cho giấy phép lái xe hạng B và C1.",
-      "Bằng lái xe hạng D: cấp cho người lái xe ô tô chở người trên 29 chỗ, xe ô tô chở người giường nằm, ô tô kéo rơ moóc dưới 750 kg.",
-      "Bằng lái xe hạng C1: cấp cho người lái xe ô tô tải từ 3.500 kg đến 7.500 kg, ô tô kéo rơ moóc dưới 750 kg.",
-      "Bằng lái xe hạng D1: cấp cho người lái xe ô tô chở người từ 8 đến 16 chỗ, ô tô kéo rơ moóc dưới 750 kg.",
-      "Bằng lái xe hạng D2: cấp cho người lái xe ô tô chở người từ 16 đến 29 chỗ, ô tô kéo rơ moóc dưới 750 kg.",
-      "Bằng lái xe hạng BE: cấp cho người lái xe ô tô hạng B kéo rơ moóc trên 750 kg.",
-      "Bằng lái xe hạng C1E: cấp cho người lái xe ô tô hạng C1 kéo rơ moóc trên 750 kg.",
-      "Bằng lái xe hạng D1E: cấp cho người lái xe ô tô hạng D1 kéo rơ moóc trên 750 kg.",
-      "Bằng lái xe hạng DE: cấp cho người lái xe ô tô hạng D kéo rơ moóc trên 750 kg, xe ô tô chở khách nối toa."
+      "Luật giao thông quy định Người đủ 16 tuổi trở lên được điều khiển xe gắn máy.",
+      "Luật giao thông quy định Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1, được cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ để điều khiển xe máy chuyên dùng tham gia giao thông đường bộ.",
+      "Luật giao thông quy định Người đủ 21 tuổi trở lên được cấp giấy phép lái xe hạng C, BE.",
+      "Luật giao thông quy định Người đủ 24 tuổi trở lên được cấp giấy phép lái xe hạng D1, D2, C1E, CE.",
+      "Luật giao thông quy định Người đủ 27 tuổi trở lên được cấp giấy phép lái xe hạng D, D1E, D2E, DE.",
+      "Luật giao thông quy định Tuổi tối đa của người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe), xe ô tô chở người giường nằm là đủ 57 tuổi đối với nam, đủ 55 tuổi đối với nữ.",
+      "Luật giao thông quy định Người điều khiển phương tiện tham gia giao thông đường bộ phải bảo đảm điều kiện sức khỏe phù hợp với từng loại phương tiện được phép điều khiển. Bộ trưởng Bộ Y tế quy định về tiêu chuẩn sức khỏe, việc khám sức khỏe đối với người lái xe, người điều khiển xe máy chuyên dùng; việc khám sức khỏe định kỳ đối với người hành nghề lái xe ô tô; xây dựng cơ sở dữ liệu về sức khỏe của người lái xe, người điều khiển xe máy chuyên dùng.",
+      "Luật giao thông quy định Bằng lái xe hạng A1: cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 phân khối hoặc có công suất động cơ điện đến 11 kW. Xe mô tô hai bánh, dung tích xi-lanh từ 50 - dưới 175 phân khối, người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật được cấp giấy phép lái xe hạng A1.",
+      "Luật giao thông quy định Bằng lái xe hạng A: cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 phân khối hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1. Xe mô tô hai bánh, dung tích xi-lanh từ 175 phân khối trở lên và các loại xe quy định cho giấy phép lái xe hạng A1.",
+      "Luật giao thông quy định Bằng lái xe hạng A3: cấp cho người lái xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 và các xe tương tự.",
+      "Luật giao thông quy định Bằng lái xe hạng A4: cấp cho người lái máy kéo có trọng tải đến 1.000 kg.",
+      "Luật giao thông quy định Bằng lái xe hạng B1 số tự động: điều khiển các xe ô tô số tự động chở người đến 9 chỗ ngồi, ô tô tải số tự động dưới 3.500 kg, ô tô dùng cho người khuyết tật.",
+      "Luật giao thông quy định Bằng lái xe hạng B1: điều khiển ô tô chở người đến 9 chỗ ngồi, ô tô tải dưới 3.500 kg, máy kéo kéo rơ moóc dưới 3.500 kg.",
+      "Luật giao thông quy định Bằng lái xe hạng C: cấp cho người lái xe ô tô tải trên 7.500 kg, ô tô tải kéo rơ moóc dưới 750 kg, các loại xe quy định cho giấy phép lái xe hạng B và C1.",
+      "Luật giao thông quy định Bằng lái xe hạng D: cấp cho người lái xe ô tô chở người trên 29 chỗ, xe ô tô chở người giường nằm, ô tô kéo rơ moóc dưới 750 kg.",
+      "Luật giao thông quy định Bằng lái xe hạng C1: cấp cho người lái xe ô tô tải từ 3.500 kg đến 7.500 kg, ô tô kéo rơ moóc dưới 750 kg.",
+      "Luật giao thông quy định Bằng lái xe hạng D1: cấp cho người lái xe ô tô chở người từ 8 đến 16 chỗ, ô tô kéo rơ moóc dưới 750 kg.",
+      "Luật giao thông quy định Bằng lái xe hạng D2: cấp cho người lái xe ô tô chở người từ 16 đến 29 chỗ, ô tô kéo rơ moóc dưới 750 kg.",
+      "Luật giao thông quy định Bằng lái xe hạng BE: cấp cho người lái xe ô tô hạng B kéo rơ moóc trên 750 kg.",
+      "Luật giao thông quy định Bằng lái xe hạng C1E: cấp cho người lái xe ô tô hạng C1 kéo rơ moóc trên 750 kg.",
+      "Luật giao thông quy định Bằng lái xe hạng D1E: cấp cho người lái xe ô tô hạng D1 kéo rơ moóc trên 750 kg.",
+      "Luật giao thông quy định Bằng lái xe hạng DE: cấp cho người lái xe ô tô hạng D kéo rơ moóc trên 750 kg, xe ô tô chở khách nối toa."
     ]
   },
   {
     "category": "General",
     "mức_phạt": "None",
     "nội_dung": [
-      "Tốc độ tối đa của xe máy (xe mô tô) trong khu vực đông dân cư: Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 60 km/h. Đường hai chiều, đường một chiều có một làn xe cơ giới: 50 km/h.",
-      "Tốc độ tối đa của xe máy (xe mô tô) ngoài khu vực đông dân cư: Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 70 km/h. Đường hai chiều, đường một chiều có một làn xe cơ giới: 60 km/h.",
-      "Tốc độ tối đa của xe gắn máy (kể cả xe máy điện) và các loại xe tương tự khi tham gia giao thông là không quá 40 km/h.",
-      "Tốc độ tối đa của xe ô tô trong khu vực đông dân cư (trừ đường cao tốc): Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 60 km/h. Đường hai chiều, đường một chiều có một làn xe cơ giới: 50 km/h.",
-      "Tốc độ tối đa của xe ô tô ngoài khu vực đông dân cư (trừ đường cao tốc): Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ xe buýt), ô tô tải có trọng tải nhỏ hơn hoặc bằng 3,5 tấn - Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 90 km/h, Đường hai chiều, đường một chiều có một làn xe cơ giới: 80 km/h.",
-      "Tốc độ tối đa của xe ô tô ngoài khu vực đông dân cư (trừ đường cao tốc): Xe ô tô chở người trên 30 chỗ (trừ xe buýt), ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc) - Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 80 km/h, Đường hai chiều, đường một chiều có một làn xe cơ giới: 70 km/h.",
-      "Tốc độ tối đa của xe ô tô ngoài khu vực đông dân cư (trừ đường cao tốc): Ô tô buýt, ô tô đầu kéo kéo sơ mi rơ moóc, ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông) - Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 70 km/h, Đường hai chiều, đường một chiều có một làn xe cơ giới: 60 km/h.",
-      "Tốc độ tối đa của xe ô tô ngoài khu vực đông dân cư (trừ đường cao tốc): Ô tô kéo rơ moóc, ô tô kéo xe khác, ô tô trộn vữa, ô tô trộn bê tông, ô tô xi téc - Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 60 km/h, Đường hai chiều, đường một chiều có một làn xe cơ giới: 50 km/h.",
-      "Tốc độ tối đa của xe ô tô trên đường cao tốc không vượt quá 120 km/h."
+      "Luật giao thông quy định Tốc độ tối đa của xe máy (xe mô tô) trong khu vực đông dân cư: Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 60 km/h. Đường hai chiều, đường một chiều có một làn xe cơ giới: 50 km/h.",
+      "Luật giao thông quy định Tốc độ tối đa của xe máy (xe mô tô) ngoài khu vực đông dân cư: Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 70 km/h. Đường hai chiều, đường một chiều có một làn xe cơ giới: 60 km/h.",
+      "Luật giao thông quy định Tốc độ tối đa của xe gắn máy (kể cả xe máy điện) và các loại xe tương tự khi tham gia giao thông là không quá 40 km/h.",
+      "Luật giao thông quy định Tốc độ tối đa của xe ô tô trong khu vực đông dân cư (trừ đường cao tốc): Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 60 km/h. Đường hai chiều, đường một chiều có một làn xe cơ giới: 50 km/h.",
+      "Luật giao thông quy định Tốc độ tối đa của xe ô tô ngoài khu vực đông dân cư (trừ đường cao tốc): Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ xe buýt), ô tô tải có trọng tải nhỏ hơn hoặc bằng 3,5 tấn - Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 90 km/h, Đường hai chiều, đường một chiều có một làn xe cơ giới: 80 km/h.",
+      "Luật giao thông quy định Tốc độ tối đa của xe ô tô ngoài khu vực đông dân cư (trừ đường cao tốc): Xe ô tô chở người trên 30 chỗ (trừ xe buýt), ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc) - Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 80 km/h, Đường hai chiều, đường một chiều có một làn xe cơ giới: 70 km/h.",
+      "Luật giao thông quy định Tốc độ tối đa của xe ô tô ngoài khu vực đông dân cư (trừ đường cao tốc): Ô tô buýt, ô tô đầu kéo kéo sơ mi rơ moóc, ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông) - Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 70 km/h, Đường hai chiều, đường một chiều có một làn xe cơ giới: 60 km/h.",
+      "Luật giao thông quy định Tốc độ tối đa của xe ô tô ngoài khu vực đông dân cư (trừ đường cao tốc): Ô tô kéo rơ moóc, ô tô kéo xe khác, ô tô trộn vữa, ô tô trộn bê tông, ô tô xi téc - Đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên: 60 km/h, Đường hai chiều, đường một chiều có một làn xe cơ giới: 50 km/h.",
+      "Luật giao thông quy định Tốc độ tối đa của xe ô tô trên đường cao tốc không vượt quá 120 km/h."
     ]
   },
   {
     "category": "General",
     "mức_phạt": "None",
     "nội_dung": [
-      "Trong điều kiện mặt đường khô ráo, khoảng cách an toàn tối thiểu ứng với mỗi tốc độ được quy định như sau: Tốc độ 60 km/h: khoảng cách tối thiểu 35m. Tốc độ từ trên 60 km/h đến 80 km/h: khoảng cách tối thiểu 55m. Tốc độ từ trên 80 km/h đến 100 km/h: khoảng cách tối thiểu 70m. Tốc độ từ trên 100 km/h đến 120 km/h: khoảng cách tối thiểu 100m.",
-      "Khi điều khiển xe chạy với tốc độ dưới 60 km/h, người lái xe phải chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình; khoảng cách này tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế để đảm bảo an toàn giao thông.",
-      "Khi trời mưa, có sương mù, mặt đường trơn trượt, đường có địa hình quanh co, đèo dốc, tầm nhìn hạn chế, người lái xe phải điều chỉnh khoảng cách an toàn thích hợp lớn hơn trị số quy định."
+      "Luật giao thông quy định Trong điều kiện mặt đường khô ráo, khoảng cách an toàn tối thiểu ứng với mỗi tốc độ được quy định như sau: Tốc độ 60 km/h: khoảng cách tối thiểu 35m. Tốc độ từ trên 60 km/h đến 80 km/h: khoảng cách tối thiểu 55m. Tốc độ từ trên 80 km/h đến 100 km/h: khoảng cách tối thiểu 70m. Tốc độ từ trên 100 km/h đến 120 km/h: khoảng cách tối thiểu 100m.",
+      "Luật giao thông quy định Khi điều khiển xe chạy với tốc độ dưới 60 km/h, người lái xe phải chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình; khoảng cách này tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế để đảm bảo an toàn giao thông.",
+      "Luật giao thông quy định Khi trời mưa, có sương mù, mặt đường trơn trượt, đường có địa hình quanh co, đèo dốc, tầm nhìn hạn chế, người lái xe phải điều chỉnh khoảng cách an toàn thích hợp lớn hơn trị số quy định."
     ]
   },
   {
     "category": "General",
     "mức_phạt": "None",
     "nội_dung": [
-      "Các trường hợp phải giảm tốc độ: Các trường hợp phải giảm tốc độ Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường.",
-      "Các trường hợp phải giảm tốc độ: Chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế.",
-      "Các trường hợp phải giảm tốc độ: Qua nơi đường bộ giao nhau cùng mức; nơi đường bộ giao nhau cùng mức với đường sắt; đường vòng; đường có địa hình quanh co, đèo dốc; đoạn đường có mặt đường hẹp, không êm thuận.",
-      "Các trường hợp phải giảm tốc độ: Qua cầu, cống hẹp; đi qua đập tràn, đường ngầm, hầm chui; khi lên gần đỉnh dốc, khi xuống dốc.",
-      "Các trường hợp phải giảm tốc độ: Qua khu vực có trường học, bệnh viện, bến xe, công trình công cộng tập trung nhiều người; khu vực đông dân cư, nhà máy, công sở tập trung bên đường; khu vực đang thi công trên đường bộ; hiện trường xảy ra tai nạn giao thông.",
-      "Các trường hợp phải giảm tốc độ: Khi có người đi bộ, xe lăn của người khuyết tật qua đường.",
-      "Các trường hợp phải giảm tốc độ: Có súc vật đi trên đường hoặc chăn thả ở sát đường.",
-      "Các trường hợp phải giảm tốc độ: Tránh xe chạy ngược chiều hoặc khi cho xe chạy sau vượt; khi có tín hiệu xin đường, tín hiệu khẩn cấp của xe đi phía trước.",
-      "Các trường hợp phải giảm tốc độ: Đến gần bến xe buýt, điểm dừng đỗ xe có khách đang lên, xuống xe.",
-      "Các trường hợp phải giảm tốc độ: Gặp xe ưu tiên đang thực hiện nhiệm vụ; gặp xe siêu trường, xe siêu trọng, xe chở hàng nguy hiểm; gặp đoàn người đi bộ.",
-      "Các trường hợp phải giảm tốc độ: Trời mưa; có sương mù, khói, bụi; mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi.",
-      "Các trường hợp phải giảm tốc độ: Khi điều khiển phương tiện đi qua khu vực trạm kiểm soát tải trọng xe, trạm cảnh sát giao thông, trạm giao dịch thanh toán đối với các phương tiện sử dụng đường bộ."
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Luật giao thông quy định Các trường hợp phải giảm tốc độ Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Qua nơi đường bộ giao nhau cùng mức; nơi đường bộ giao nhau cùng mức với đường sắt; đường vòng; đường có địa hình quanh co, đèo dốc; đoạn đường có mặt đường hẹp, không êm thuận.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Qua cầu, cống hẹp; đi qua đập tràn, đường ngầm, hầm chui; khi lên gần đỉnh dốc, khi xuống dốc.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Qua khu vực có trường học, bệnh viện, bến xe, công trình công cộng tập trung nhiều người; khu vực đông dân cư, nhà máy, công sở tập trung bên đường; khu vực đang thi công trên đường bộ; hiện trường xảy ra tai nạn giao thông.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Khi có người đi bộ, xe lăn của người khuyết tật qua đường.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Có súc vật đi trên đường hoặc chăn thả ở sát đường.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Tránh xe chạy ngược chiều hoặc khi cho xe chạy sau vượt; khi có tín hiệu xin đường, tín hiệu khẩn cấp của xe đi phía trước.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Đến gần bến xe buýt, điểm dừng đỗ xe có khách đang lên, xuống xe.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Gặp xe ưu tiên đang thực hiện nhiệm vụ; gặp xe siêu trường, xe siêu trọng, xe chở hàng nguy hiểm; gặp đoàn người đi bộ.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Trời mưa; có sương mù, khói, bụi; mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi.",
+      "Luật giao thông quy định Các trường hợp phải giảm tốc độ: Khi điều khiển phương tiện đi qua khu vực trạm kiểm soát tải trọng xe, trạm cảnh sát giao thông, trạm giao dịch thanh toán đối với các phương tiện sử dụng đường bộ."
     ]
   }
 ]

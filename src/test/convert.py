@@ -22,7 +22,7 @@ def add_category_to_lines(data):
                         line = line[:last_open_paren].strip()
                 
                 # Add the category suffix
-                category_data["nội_dung"][i] = line + " " + suffix
+                category_data["nội_dung"][i] = suffix + " " + line
     
     return data
 
