@@ -1,5 +1,15 @@
 [
-  {
+      {
+        "category": "mô tô, gắn máy",
+        "mức_phạt": "Phạt tiền từ 200.000 đồng đến 300.000 đồng",
+        "nội_dung": [
+          "Không mang giấy phép lái xe (mô tô, gắn máy)",
+      "Không mang theo giấy đăng ký xe (mô tô, gắn máy)",
+      "Không có bảo hiểm xe bắt buộc (mô tô, gắn máy)"
+    
+        ]
+      },
+      {
     "category": "mô tô, gắn máy",
     "mức_phạt": "Phạt tiền từ 200.000 đồng đến 400.000 đồng",
     "nội_dung": [
@@ -13,9 +23,6 @@
       "Tránh xe không đúng quy định; sử dụng đèn chiếu xa khi gặp người đi bộ qua đường hoặc khi đi trên đoạn đường qua khu dân cư có hệ thống chiếu sáng đang hoạt động (mô tô, gắn máy)",
       "Sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định (mô tô, gắn máy)",
       "Điều khiển xe chạy dưới tốc độ tối thiểu trên đoạn đường bộ có quy định tốc độ tối thiểu cho phép (mô tô, gắn máy)",
-      "Không mang giấy phép lái xe (mô tô, gắn máy)",
-      "Không mang theo giấy đăng ký xe (mô tô, gắn máy)",
-      "Không có bảo hiểm xe bắt buộc (mô tô, gắn máy)",
       "Điều khiển xe chạy dưới tốc độ tối thiểu trên đoạn đường bộ có quy định tốc độ tối thiểu cho phép. (mô tô, gắn máy)",
       "Không sử dụng đèn chiếu sáng trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn"
 

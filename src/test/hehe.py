@@ -16,7 +16,7 @@ from llama_index.vector_stores.weaviate import WeaviateVectorStore
 
 # Configuration constants
 DEVICE = "cuda:0" if torch.cuda.is_available() else "cpu"
-MODEL_NAME = "dangvantuan/vietnamese-document-embedding"
+MODEL_NAME = "bkai-foundation-models/vietnamese-bi-encoder"
 DATA_COLLECTION = "ND168"
 
 WEAVIATE_URL="https://mmtip1s2qwwe1q3bwih2fw.c0.us-west3.gcp.weaviate.cloud"
@@ -243,7 +243,7 @@ def search_violations(retriever, query, top_k=5):
 def main():
     try:
         # Load and process data
-        documents = load_and_preprocess_data("/home/ltnga/LawVN-Instructction-Gen/src/data/cycle_processed.json")
+        documents = load_and_preprocess_data("/home/ltnga/LawVN-Instructction-Gen/src/data/rag_data.json")
         print(f"Loaded {len(documents)} documents")
         
         # Create chunker and process nodes
