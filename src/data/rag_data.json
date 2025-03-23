@@ -332,6 +332,15 @@
       ]
     },
     {
+      "category": "xe ô tô tải, máy kéo (bao gồm cả rơ moóc hoặc sơ mi rơ moóc được kéo theo)",
+      "mức_phạt": "Phạt tiền từ 600.000 đồng đến 800.000 đồng",
+      "nội_dung": [
+        "Điều khiển xe xếp hàng trên nóc buồng lái, xếp hàng làm lệch xe (xe ô tô tải, máy kéo)",
+        "Không chốt, đóng cố định cửa sau, cửa bên thùng xe khi xe đang chạy. (xe ô tô tải, máy kéo)"
+
+      ]
+    },
+    {
       "category": "ô tô",
       "mức_phạt": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng",
       "nội_dung": [
@@ -466,7 +475,8 @@
       "nội_dung": [
         "Có giấy phép lái xe nhưng đã hết hạn sử dụng dưới 01 năm (ô tô)",
         "Có giấy phép lái xe quốc tế do các nước tham gia Công ước 1968 cấp nhưng không mang theo giấy phép lái xe quốc gia phù hợp (ô tô)",
-        "Sử dụng giấy phép lái xe không hợp lệ (ô tô)"
+        "Sử dụng giấy phép lái xe không hợp lệ (ô tô)",
+        "đối với hành vi chở hàng siêu trường, siêu trọng có giấy phép lưu hành còn giá trị sử dụng nhưng kích thước bao ngoài của xe (sau khi đã xếp hàng lên xe) vượt quá quy định trong giấy phép lưu hành. (ô tô chở hàng)"
       ]
     },
     {
@@ -487,116 +497,131 @@
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Phạt tiền từ 100.000 đồng đến 200.000 đồng",
       "nội_dung": [
-        "Không hướng dẫn hành khách đứng, nằm, ngồi đúng vị trí quy định trong xe (ô tô chở khách)"
+        "Không hướng dẫn hành khách đứng, nằm, ngồi đúng vị trí quy định trong xe (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Phạt tiền từ 400.000 đồng đến 600.000 đồng",
       "nội_dung": [
-        "Chở quá số người quy định được phép chở (ô tô chở khách)"
+        "Chở quá số người quy định được phép chở (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Phạt tiền từ 600.000 đồng đến 800.000 đồng",
       "nội_dung": [
-        "Không đóng cửa lên xuống khi xe đang chạy (ô tô chở khách)",
-        "Để người ngồi trên xe khi xe xuống phà, đang trên phà và lên bến (ô tô chở khách)",
-        "Không chạy đúng tuyến đường, lịch trình, hành trình được phép (ô tô chở khách)",
-        "Để người mắc võng nằm trên xe khi xe đang chạy (ô tô chở khách)",
-        "Sắp xếp hành lý không đảm bảo an toàn; để rơi hành lý; để hàng trong khoang hành khách (ô tô chở khách)",
-        "Chở hành lý vượt kích thước bao ngoài của xe (ô tô chở khách)",
-        "Không có nhân viên phục vụ trên xe đối với xe quy định phải có (ô tô chở khách)",
-        "Không có dây đai an toàn tại các vị trí (ô tô chở khách)",
-        "Không có hướng dẫn về an toàn và thoát hiểm khi xảy ra sự cố (ô tô chở khách)",
-        "Không niêm yết hành trình chạy xe hoặc niêm yết không đúng (ô tô chở khách)"
+        "Không đóng cửa lên xuống khi xe đang chạy (ô tô chở hành khách, ô tô chở người)",
+        "Để người ngồi trên xe khi xe xuống phà, đang trên phà và lên bến (ô tô chở hành khách, ô tô chở người)",
+        "Không chạy đúng tuyến đường, lịch trình, hành trình được phép (ô tô chở hành khách, ô tô chở người)",
+        "Để người mắc võng nằm trên xe khi xe đang chạy (ô tô chở hành khách, ô tô chở người)",
+        "Sắp xếp hành lý không đảm bảo an toàn; để rơi hành lý; để hàng trong khoang hành khách (ô tô chở hành khách, ô tô chở người)",
+        "Chở hành lý vượt kích thước bao ngoài của xe (ô tô chở hành khách, ô tô chở người)",
+        "Không có nhân viên phục vụ trên xe đối với xe quy định phải có (ô tô chở hành khách, ô tô chở người)",
+        "Không có dây đai an toàn tại các vị trí (ô tô chở hành khách, ô tô chở người)",
+        "Không có hướng dẫn về an toàn và thoát hiểm khi xảy ra sự cố (ô tô chở hành khách, ô tô chở người)",
+        "Không niêm yết hành trình chạy xe hoặc niêm yết không đúng (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng",
       "nội_dung": [
-        "Chở quá số người quy định cho xe khách tuyến cố định, hợp đồng có cự ly >300km (ô tô chở khách)",
-        "Để người lên, xuống xe khi xe đang chạy (ô tô chở khách)",
-        "Xếp hành lý làm lệch xe (ô tô chở khách)",
-        "Đón, trả khách không đúng nơi quy định hoặc dừng quá thời gian quy định (ô tô chở khách)",
-        "Đón, trả khách tại nơi cấm dừng, đỗ, nơi đường cong tầm nhìn bị che khuất (ô tô chở khách)",
-        "Sử dụng hợp đồng vận tải bằng văn bản giấy không có/không mang theo danh sách hành khách (ô tô chở khách)",
-        "Vận chuyển hành khách theo tuyến cố định không có/không mang theo lệnh vận chuyển (ô tô chở khách)",
-        "Đón, trả khách không đúng địa điểm trong hợp đồng (ô tô chở khách)",
-        "Vận chuyển khách liên vận quốc tế không có lệnh vận chuyển, danh sách hành khách (ô tô chở khách)",
-        "Chở hành lý vượt trọng tải theo thiết kế (ô tô chở khách)",
-        "Không sử dụng thẻ nhận dạng lái xe hoặc sử dụng thẻ của lái xe khác (ô tô chở khách)",
-        "Không lắp thiết bị ghi nhận hình ảnh người lái xe hoặc làm sai lệch dữ liệu (ô tô chở khách)",
-        "Không có thiết bị truy cập hợp đồng điện tử và danh sách hành khách (ô tô chở khách)"
+        "Chở quá số người quy định cho xe khách tuyến cố định, hợp đồng có cự ly >300km (ô tô chở hành khách, ô tô chở người)",
+        "Để người lên, xuống xe khi xe đang chạy (ô tô chở hành khách, ô tô chở người)",
+        "Xếp hành lý làm lệch xe (ô tô chở hành khách, ô tô chở người)",
+        "Đón, trả khách không đúng nơi quy định hoặc dừng quá thời gian quy định (ô tô chở hành khách, ô tô chở người)",
+        "Đón, trả khách tại nơi cấm dừng, đỗ, nơi đường cong tầm nhìn bị che khuất (ô tô chở hành khách, ô tô chở người)",
+        "Sử dụng hợp đồng vận tải bằng văn bản giấy không có/không mang theo danh sách hành khách (ô tô chở hành khách, ô tô chở người)",
+        "Vận chuyển hành khách theo tuyến cố định không có/không mang theo lệnh vận chuyển (ô tô chở hành khách, ô tô chở người)",
+        "Đón, trả khách không đúng địa điểm trong hợp đồng (ô tô chở hành khách, ô tô chở người)",
+        "Vận chuyển khách liên vận quốc tế không có lệnh vận chuyển, danh sách hành khách (ô tô chở hành khách, ô tô chở người)",
+        "Chở hành lý vượt trọng tải theo thiết kế (ô tô chở hành khách, ô tô chở người)",
+        "Không sử dụng thẻ nhận dạng lái xe hoặc sử dụng thẻ của lái xe khác (ô tô chở hành khách, ô tô chở người)",
+        "Không lắp thiết bị ghi nhận hình ảnh người lái xe hoặc làm sai lệch dữ liệu (ô tô chở hành khách, ô tô chở người)",
+        "Không có thiết bị truy cập hợp đồng điện tử và danh sách hành khách (ô tô chở hành khách, ô tô chở người)",
+        "Điều khiển xe vận tải hành khách theo hợp đồng sử dụng hợp đồng bằng văn bản giấy không có hoặc không mang theo danh sách hành khách theo quy định, chở người không có tên trong danh sách hành khách hoặc vận chuyển không đúng đối tượng theo quy định (đối với xe kinh doanh vận tải hành khách theo hợp đồng vận chuyển trẻ em mầm non, học sinh, sinh viên, cán bộ, công chức, viên chức, công nhân), không có hoặc không mang theo hợp đồng vận tải hoặc có hợp đồng vận tải nhưng không đúng theo quy định (ô tô chở hành khách, ô tô chở người)",
+        "Không sử dụng thẻ nhận dạng lái xe để đăng nhập thông tin theo quy định hoặc sử dụng thẻ nhận dạng lái xe của lái xe khác để đăng nhập thông tin khi điều khiển xe ô tô chở khách (ô tô chở hành khách, ô tô chở người)",
+        "Điều khiển xe ô tô chở người từ 08 chỗ trở lên (không kể chỗ của người lái xe) kinh doanh vận tải hành khách không lắp thiết bị ghi nhận hình ảnh người lái xe hoặc có lắp thiết bị ghi nhận hình ảnh người lái xe nhưng không có tác dụng trong quá trình xe tham gia giao thông theo quy định hoặc làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh người lái xe lắp trên xe ô tô (ô tô chở hành khách, ô tô chở người)",
+        "Điều khiển xe vận tải hành khách theo hợp đồng sử dụng hợp đồng điện tử không có thiết bị để truy cập được nội dung của hợp đồng điện tử và danh sách hành khách hoặc có nhưng không cung cấp cho lực lượng chức năng khi có yêu cầu, chở người không có tên trong danh sách hành khách hoặc vận chuyển không đúng đối tượng theo quy định (đối với xe kinh doanh vận tải hành khách theo hợp đồng vận chuyển trẻ em mầm non, học sinh, sinh viên, cán bộ, công chức, viên chức, công nhân). (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng",
       "nội_dung": [
-        "Vận chuyển hàng nguy hiểm, hàng độc hại, dễ cháy, động vật, hàng có mùi hôi thối (ô tô chở khách)",
-        "Chở người trên mui xe, trong khoang hành lý (ô tô chở khách)",
-        "Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách (ô tô chở khách)",
-        "Điều khiển xe quá thời gian quy định tại Luật Trật tự, ATGT đường bộ (ô tô chở khách)",
-        "Không lắp thiết bị giám sát hành trình hoặc làm sai lệch dữ liệu (ô tô chở khách)",
-        "Không có thiết bị ghi nhận hình ảnh trẻ em hoặc thiết bị cảnh báo, chống bỏ quên trẻ em (ô tô chở khách)",
-        "Không có màu sơn theo quy định (ô tô chở khách)",
-        "Điều khiển xe chở hành khách liên vận quốc tế không gắn ký hiệu phân biệt quốc gia (ô tô chở khách)",
-        "Không có biển báo dấu hiệu nhận biết là xe chở trẻ em mầm non, học sinh (ô tô chở khách)"
+        "Vận chuyển hàng nguy hiểm, hàng độc hại, dễ cháy, động vật, hàng có mùi hôi thối (ô tô chở hành khách, ô tô chở người)",
+        "Chở người trên mui xe, trong khoang hành lý (ô tô chở hành khách, ô tô chở người)",
+        "Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách (ô tô chở hành khách, ô tô chở người)",
+        "Điều khiển xe quá thời gian quy định tại Luật Trật tự, ATGT đường bộ (ô tô chở hành khách, ô tô chở người)",
+        "Không lắp thiết bị giám sát hành trình hoặc làm sai lệch dữ liệu (ô tô chở hành khách, ô tô chở người)",
+        "Không có thiết bị ghi nhận hình ảnh trẻ em hoặc thiết bị cảnh báo, chống bỏ quên trẻ em (ô tô chở hành khách, ô tô chở người)",
+        "Không có màu sơn theo quy định (ô tô chở hành khách, ô tô chở người)",
+        "Điều khiển xe chở hành khách liên vận quốc tế không gắn ký hiệu phân biệt quốc gia (ô tô chở hành khách, ô tô chở người)",
+        "Không có biển báo dấu hiệu nhận biết là xe chở trẻ em mầm non, học sinh (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng",
       "nội_dung": [
-        "Điều khiển xe chở hành khách không có/không gắn phù hiệu theo quy định hoặc phù hiệu hết hạn hoặc không do cơ quan có thẩm quyền cấp (ô tô chở khách)"
+        "Điều khiển xe chở hành khách không có/không gắn phù hiệu theo quy định hoặc phù hiệu hết hạn hoặc không do cơ quan có thẩm quyền cấp (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hàng",
+      "mức_phạt": "Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng",
+      "nội_dung": [
+        "Chở hàng siêu trường, siêu trọng không có giấy phép lưu hành hoặc có giấy phép lưu hành nhưng đã hết giá trị sử dụng hoặc sử dụng giấy phép lưu hành không do cơ quan có thẩm quyền cấp (ô tô chở hàng)",
+        "Chở hàng siêu trường, siêu trọng có giấy phép lưu hành còn giá trị sử dụng nhưng tổng trọng lượng (sau khi đã xếp hàng lên xe) vượt quá quy định trong giấy phép lưu hành (ô tô chở hàng)",
+        "Chở hàng siêu trường, siêu trọng có giấy phép lưu hành còn giá trị sử dụng nhưng đi không đúng tuyến đường quy định trong giấy phép lưu hành (ô tô chở hàng)",
+        "Chở hàng siêu trường, siêu trọng có giấy phép lưu hành còn giá trị sử dụng nhưng chở không đúng loại hàng quy định trong giấy phép lưu hành. (ô tô chở hàng)"
+
+      ]
+    },
+    {
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng",
       "nội_dung": [
-        "Đón, trả hành khách trên đường cao tốc (ô tô chở khách)"
+        "Đón, trả hành khách trên đường cao tốc (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Trừ 02 điểm giấy phép lái xe",
       "nội_dung": [
-        "Đón, trả khách tại nơi cấm dừng, đỗ (ô tô chở khách)",
-        "Không sử dụng thẻ nhận dạng lái xe (ô tô chở khách)",
-        "Không lắp thiết bị ghi nhận hình ảnh người lái xe (ô tô chở khách)",
-        "Vận chuyển hàng nguy hiểm, hàng độc hại trên xe chở khách (ô tô chở khách)",
-        "Chở người trên mui xe, trong khoang hành lý (ô tô chở khách)",
-        "Không lắp thiết bị giám sát hành trình (ô tô chở khách)",
-        "Điều khiển xe chở hành khách không có phù hiệu (ô tô chở khách)"
+        "Đón, trả khách tại nơi cấm dừng, đỗ (ô tô chở hành khách, ô tô chở người)",
+        "Không sử dụng thẻ nhận dạng lái xe (ô tô chở hành khách, ô tô chở người)",
+        "Không lắp thiết bị ghi nhận hình ảnh người lái xe (ô tô chở hành khách, ô tô chở người)",
+        "Vận chuyển hàng nguy hiểm, hàng độc hại trên xe chở khách (ô tô chở hành khách, ô tô chở người)",
+        "Chở người trên mui xe, trong khoang hành lý (ô tô chở hành khách, ô tô chở người)",
+        "Không lắp thiết bị giám sát hành trình (ô tô chở hành khách, ô tô chở người)",
+        "Điều khiển xe chở hành khách không có phù hiệu (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Trừ 04 điểm giấy phép lái xe",
       "nội_dung": [
-        "Chở quá số người quy định (ô tô chở khách)",
+        "Chở quá số người quy định (ô tô chở hành khách, ô tô chở người)",
         "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông (ô tô)"
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Trừ 06 điểm giấy phép lái xe",
       "nội_dung": [
-        "Đón, trả hành khách trên đường cao tốc (ô tô chở khách)"
+        "Đón, trả hành khách trên đường cao tốc (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
-      "category": "ô tô chở khách",
+      "category": "ô tô chở hành khách, ô tô chở người",
       "mức_phạt": "Trừ 10 điểm giấy phép lái xe",
       "nội_dung": [
-        "Chở quá số người quy định (ô tô chở khách)"
+        "Chở quá số người quy định (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
@@ -630,7 +655,10 @@
       "category": "ô tô chở hàng",
       "mức_phạt": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng",
       "nội_dung": [
-        "Chở hàng vượt chiều cao xếp hàng cho phép (ô tô chở hàng)"
+        "Chở hàng vượt chiều cao xếp hàng cho phép (ô tô chở hàng)",
+        "Chở hàng siêu trường, siêu trọng không có báo hiệu kích thước của hàng theo quy định (ô tô chở hàng)"
+
+
       ]
     },
     {
