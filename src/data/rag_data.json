@@ -1043,6 +1043,8 @@
         "category": "mô tô, gắn máy",
         "mức_phạt": "Phạt tiền từ 10.000.000 đồng đến 14.000.000 đồng",
         "nội_dung": [
+          "Vi phạm quy định tại một trong các hành vi sau mà gây tai nạn như: Điều khiển xe lạng lách, đánh võng trên đường bộ; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy (mô tô, gắn máy)",
+          "Vi phạm quy định tại một trong các hành vi sau mà gây tai nạn như: Điều khiển xe thành nhóm từ 02 xe trở lên chạy quá tốc độ quy định (mô tô, gắn máy)",
           "Điều khiển xe lạng lách, đánh võng trên đường bộ; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy",
           "Điều khiển xe thành nhóm từ 02 xe trở lên chạy quá tốc độ quy định",
           "Không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” gây tai nạn giao thông",
@@ -1070,8 +1072,9 @@
         "nội_dung": [
           "Điều khiển xe lạng lách, đánh võng trên đường bộ (mô tô, gắn máy)",
           "Điều khiển xe thành nhóm từ 02 xe trở lên chạy quá tốc độ quy định (mô tô, gắn máy)",
-          "Ngồi phía sau vòng tay qua người ngồi trước để điều khiển xe (mô tô, gắn máy)",
-          "Sử dụng còi, rú ga (nẹt pô) liên tục trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh (mô tô, gắn máy)"
+          "Ngồi phía sau vòng tay qua người ngồi trước để điều khiển xe, trừ trường hợp chở trẻ em dưới 06 tuổi ngồi phía trước (mô tô, gắn máy)",
+          "Sử dụng còi, rú ga (nẹt pô) liên tục trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh (mô tô, gắn máy)",
+          "Điều khiển xe thành đoàn gây cản trở giao thông, trừ trường hợp được cơ quan có thẩm quyền cấp phép (mô tô, gắn máy)"
         ]
       },
       {
@@ -1135,6 +1138,11 @@
         "category": "mô tô, gắn máy",
         "mức_phạt": "Trừ điểm giấy phép lái xe 10 điểm",
         "nội_dung": [
+          "Không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” gây tai nạn giao thông (mô tô, gắn máy)",
+          "Vi phạm quy định tại một trong các hành vi sau mà gây tai nạn như: Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường (mô tô, gắn máy)",
+          "Vi phạm quy định tại một trong các hành vi sau mà gây tai nạn như: Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước hoặc chuyển làn đường không đúng quy định… (mô tô, gắn máy)",
+          "Vi phạm quy định tại một trong các hành vi sau mà gây tai nạn như: Điều khiển xe lạng lách, đánh võng trên đường bộ; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy (mô tô, gắn máy)",
+          "Vi phạm quy định tại một trong các hành vi sau mà gây tai nạn như: Điều khiển xe thành nhóm từ 02 xe trở lên chạy quá tốc độ quy định (mô tô, gắn máy)",
           "Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu (mô tô, gắn máy)",
           "Điều khiển xe không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông (mô tô, gắn máy)",
           "Điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông (mô tô, gắn máy)",

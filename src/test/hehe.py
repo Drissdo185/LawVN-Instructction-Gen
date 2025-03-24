@@ -61,9 +61,9 @@ def create_optimized_chunker() -> SentenceSplitter:
     return SentenceSplitter(
         chunk_size=CHUNK_SIZE,
         chunk_overlap=CHUNK_OVERLAP,
-        separator=".",  # Better for Vietnamese sentences
+        separator=".",  
         include_metadata=True,
-        include_prev_next_rel=True,  # Keep relationships for context
+        include_prev_next_rel=True,
     )
 
 def tokenize_vietnamese_text(nodes: List[Any]) -> List[Any]:
