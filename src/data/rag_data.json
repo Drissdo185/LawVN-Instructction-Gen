@@ -26,7 +26,7 @@
         "Khi ra, vào vị trí dừng xe, đỗ xe không có tín hiệu báo cho người điều khiển phương tiện khác biết (ô tô)",
         "Không báo hiệu bằng đèn khẩn cấp hoặc không đặt biển cảnh báo khi gặp sự cố kỹ thuật buộc phải đỗ xe chiếm một phần đường xe chạy (ô tô)",
         "Không gắn biển báo hiệu ở phía trước xe kéo, phía sau xe được kéo; điều khiển xe kéo rơ moóc không có biển báo hiệu theo quy định (ô tô)",
-        "Sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh (ô tô)",
+        "Sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định (ô tô)",
         "Không có bảo hiểm xe bắt buộc (ô tô)"
       ]
     },
@@ -48,14 +48,14 @@
       "category": "ô tô",
       "mức_phạt": "Phạt tiền từ 800.000 đồng đến 1.000.000 đồng",
       "nội_dung": [
-        "Dừng xe, đỗ xe tại vị trí Điểm đón, trả khách; trước cổng hoặc trong phạm vi 05 mét hai bên cổng trụ sở cơ quan, tổ chức có bố trí đường cho xe ra, vào; Nơi phân đường có bề rộng chỉ đủ cho một làn xe cơ giới; Che khuất biển báo hiệu đường bộ, đèn tín hiệu giao thông; nơi mở dải phân cách giữa; Cách xe ô tô đang đỗ ngược chiều dưới 20 mét trên đường phố hẹp, dưới 40 mét trên đường có một làn xe cơ giới trên một chiều đường; (ô tô)",
+        "Dừng xe, đỗ xe tại vị trí Nơi đường bộ giao nhau hoặc trong phạm vi 05 mét tính từ mép đường giao nhau; Điểm đón, trả khách; trước cổng hoặc trong phạm vi 05 mét hai bên cổng trụ sở cơ quan, tổ chức có bố trí đường cho xe ra, vào; Nơi phân đường có bề rộng chỉ đủ cho một làn xe cơ giới; Che khuất biển báo hiệu đường bộ, đèn tín hiệu giao thông; nơi mở dải phân cách giữa; Cách xe ô tô đang đỗ ngược chiều dưới 20 mét trên đường phố hẹp, dưới 40 mét trên đường có một làn xe cơ giới trên một chiều đường; (ô tô)",
         "Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h (ô tô)",
         "Sử dụng còi, rú ga liên tục; sử dụng còi hơi, đèn chiếu xa không đúng quy định (ô tô)",
         "Chuyển hướng không quan sát hoặc không bảo đảm khoảng cách an toàn với xe phía sau (ô tô)",
         "Không tuân thủ các quy định về dừng xe, đỗ xe tại nơi đường bộ giao nhau cùng mức với đường sắt (ô tô)",
         "Dừng xe, đỗ xe tại vị trí: nơi đường bộ giao nhau hoặc trong phạm vi 05 mét tính từ mép đường giao nhau (ô tô)",
-        "Đỗ xe không sát theo lề đường, vỉa hè phía bên phải theo chiều đi (ô tô)",
-        "Không sử dụng hoặc sử dụng không đủ đèn chiếu sáng trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau (ô tô)",
+        "Đỗ xe không sát theo lề đường, vỉa hè phía bên phải theo chiều đi hoặc bánh xe gần nhất cách lề đường, vỉa hè quá 0,25 mét; đỗ xe trên đường dành riêng cho xe buýt; đỗ xe trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước; đỗ, để xe ở vỉa hè trái quy định của pháp luật; đỗ xe nơi có biển “Cấm đỗ xe” hoặc biển “Cấm dừng xe và đỗ xe” (ô tô)",
+
         "Điều khiển xe ô tô kéo theo xe khác, vật khác trái quy định (ô tô)",
         "Chở người trên xe được kéo, trừ người điều khiển (ô tô)",
         "Không thắt dây đai an toàn khi điều khiển xe chạy trên đường (ô tô)",
@@ -71,6 +71,7 @@
       "category": "ô tô",
       "mức_phạt": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng",
       "nội_dung": [
+        "Điều khiển xe không có chứng nhận đăng ký xe hoặc sử dụng chứng nhận đăng ký xe đã hết hạn sử dụng, hết hiệu lực (kể cả rơ moóc và sơ mi rơ moóc) (ô tô)",
         "Điều khiển xe dán, lắp phù hiệu, biểu trưng nhận diện tương tự của các cơ quan nhà nước, cơ quan ngoại giao, tổ chức quốc tế tại Việt Nam. (ô tô)",
         "Điều khiển xe ô tô tải (kể cả rơ moóc và sơ mi rơ moóc) có kích thước thùng xe không đúng với thông số kỹ thuật được ghi trong giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe (ô tô)",
         "Dừng, đỗ xe trên cầu vượt, cầu, gầm cầu vượt (ô tô)" ,
@@ -78,7 +79,6 @@
         "Điều khiển xe không có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) hoặc sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) đã hết hạn sử dụng, hết hiệu lực (kể cả rơ moóc và sơ mi rơ moóc) (ô tô)",
         "Xe tải có kích thước thùng xe không đúng thông số kỹ thuật (ô tô)",
         "Dán, lắp phù hiệu, biểu trưng nhận diện tương tự của cơ quan nhà nước, cơ quan ngoại giao... (ô tô)",
-        "Điều khiển xe không đủ điều kiện để thu phí theo hình thức điện tử tự động không dừng đi vào làn đường dành riêng thu phí (ô tô)",
         "Dừng xe, đỗ xe tại vị trí: bên trái đường một chiều hoặc bên trái của đường đôi (ô tô)",
         "Không thực hiện biện pháp bảo đảm an toàn theo quy định khi xe ô tô bị hư hỏng tại nơi đường bộ giao nhau cùng mức với đường sắt (ô tô)",
         "Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn (ô tô)",
@@ -87,9 +87,10 @@
         "Điều khiển xe có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn (ô tô)",
         "Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định (ô tô)",
         "Quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt (ô tô)",
-        "Quay đầu xe tại nơi có biển báo hiệu có nội dung cấm quay đầu đối với loại phương tiện đang điều khiển (ô tô)",
+        "Quay đầu xe tại nơi có biển báo hiệu có nội dung cấm quay đầu đối với loại phương tiện đang điều khiển; Điều khiển xe rẽ trái tại nơi có biển báo hiệu có nội dung cấm rẽ trái đối với loại phương tiện đang điều khiển (ô tô)",
         "Không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước (ô tô)",
-        "Không có giấy đăng ký xe (ô tô)"
+        "Không có giấy đăng ký xe (ô tô)",
+        "Điều khiển xe rẽ phải tại nơi có biển báo hiệu có nội dung cấm rẽ phải đối với loại phương tiện đang điều khiển (ô tô)"
       ]
     },
     {
@@ -107,6 +108,7 @@
       "category": "ô tô",
       "mức_phạt": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng",
       "nội_dung": [
+        "Điều khiển xe không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định, trừ xe đăng ký tạm thời) hoặc có nhưng đã hết hiệu lực (hạn sử dụng) từ 01 tháng trở lên (kê cả rơ moóc và sơ mi rơ moóc). (ô tô)",
         "Người điều khiển xe đỗ trái phép rác, đất, cát, đá, vật liệu, chất phế thải trong phạm vi đất dành cho đường bộ ở đoạn đường ngoài đô thị. (ô tô)",
         "Sử dụng chứng nhận đăng ký xe, giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa (ô tô)",
         "Sử dụng chứng nhận đăng ký xe, không đúng số khung, số động cơ (số máy) của xe (kể cả rơ moóc và sơ mi rơ moóc) (ô tô)",
@@ -117,7 +119,7 @@
         "Không tuân thủ quy định khi vào hoặc ra đường cao tốc; điều khiển xe chạy ở làn dừng xe khẩn cấp hoặc phần lề đường của đường cao tốc; không tuân thủ quy định về khoảng cách an toàn đối với xe chạy liền trước khi chạy trên đường cao tốc (ô tô)",
         "Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h (ô tô)",
         "Xe không được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu của xe được quyền ưu tiên (ô tô)",
-        "Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước khi chạy trên đường cao tốc (ô tô)",
+        "Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước hoặc chuyển làn đường không đúng quy định “mỗi lần chuyển làn đường chỉ được phép chuyển sang một làn đường liền kề” khi chạy trên đường cao tốc (ô tô)",
         "Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển (ô tô)",
         "Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển (ô tô)",
         "Dừng xe, đỗ xe, quay đầu xe trái quy định gây ùn tắc giao thông (ô tô)",
@@ -205,7 +207,7 @@
       "mức_phạt": "Phạt tiền từ 50.000.000 đồng đến 70.000.000 đồng",
       "nội_dung": [
         "Thực hiện hành vi vi phạm lạng lách, đánh võng trên đường bộ (ô tô)",
-        "Chạy quá tốc độ đuổi nhau trên đường bộ (ô tô)",
+        "Chạy quá tốc độ, điều khiển xe lạng lách, đánh võng gây tai nạn giao thông (ô tô)",
         "Dùng chân điều khiển vô lăng xe khi xe đang chạy trên đường bộ mà gây tai nạn giao thông (ô tô)"
       ]
     },
@@ -250,6 +252,12 @@
       "category": "ô tô",
       "mức_phạt": "Trừ 02 điểm giấy phép lái xe",
       "nội_dung": [
+      "Quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt(ô tô)", 
+      "Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông(ô tô)", 
+      "Điều khiển xe lắp thêm đèn phía trước, phía sau, trên nóc, dưới gầm, một hoặc cả hai bên thành xe, trừ đèn sương mù dạng rời được lắp theo quy định(ô tô)", 
+      "Điều khiển xe có hệ thống chuyển hướng của xe không đúng tiêu chuẩn an toàn kỹ thuật(ô tô)", 
+      "Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi từ đường nhánh ra đường chính (phần này chỉ đề cập đến (ô tô)", 
+      "Trừ 02 điểm giấy phép lái xe(ô tô)", 
       "Điều khiển xe ô tô tải (kể cả rơ moóc và sơ mi rơ moóc) có kích thước thùng xe không đúng với thông số kỹ thuật được ghi trong giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe",
       "Điều khiển xe dán, lắp phù hiệu, biểu trưng nhận diện tương tự của các cơ quan nhà nước, cơ quan ngoại giao, tổ chức quốc tế tại Việt Nam",
       "Sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe), giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa; sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) không đúng số khung, số động cơ (số máy) của xe (kể cả rơ moóc và sơ mi rơ moóc)",
@@ -285,13 +293,15 @@
       "category": "ô tô",
       "mức_phạt": "Trừ 04 điểm giấy phép lái xe",
       "nội_dung": [
-      "Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ",
-      "Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở",
-      "Điều khiển xe đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan",
-      "Điều khiển xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ đi vào đường cao tốc",
-      "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông",
-      "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông",
-      "Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều”",
+      "Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác đang di chuyển trên đường bộ (ô tô)",
+      "Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển (ô tô)",
+      "Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ (ô tô)",
+      "Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở (ô tô)",
+      "Điều khiển xe đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan (ô tô)",
+      "Điều khiển xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ đi vào đường cao tốc (ô tô)",
+      "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông (ô tô)",
+      "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông (ô tô)",
+      "Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” (ô tô)",
       "Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h (ô tô)",
       "Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ (ô tô)",
       "Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển 'Cấm đi ngược chiều' (ô tô)",
@@ -302,15 +312,15 @@
       "category": "ô tô",
       "mức_phạt": "Trừ 06 điểm giấy phép lái xe",
       "nội_dung": [
-          "Điều khiển xe chạy quá tốc độ quy định trên 35 km/h",
-          
+        "Điều khiển xe chạy quá tốc độ quy định trên 35 km/h (ô tô)",
+        
         "Chở người trên thùng xe trái quy định; chở người trên nóc xe; để người đu bám ở cửa xe, bên ngoài thành xe khi xe đang chạy (ô tô)",
         "Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; không có báo hiệu bằng đèn khẩn cấp khi gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe ở làn dừng xe khẩn cấp trên đường cao tốc; không có báo hiệu bằng đèn khẩn cấp, không đặt biển cảnh báo “Chú ý xe đỗ” (hoặc đèn cảnh báo) về phía sau xe khoảng cách tối thiểu 150 mét khi dừng xe, đỗ xe trong trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe trên một phần làn đường xe chạy trên đường cao tốc (ô tô)",
         
         "Người điều khiển xe thực hiện hành vi vi phạm gây tai nạn giao thông không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, không ở lại hiện trường hoặc không đến trình báo ngay với cơ quan công an, Ủy ban nhân dân nơi gần nhất. (ô tô)",
         "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông (ô tô)",
         "Điều khiển xe (kể cả rơ moóc và sơ mi rơ moóc) không gắn biển số (đối với loại xe có quy định phải gắn biển số)",
-        "Điều khiển xe không gắn đủ biển số hoặc gắn biển số không đúng vị trí, không đúng quy cách theo quy định; gắn biển số không rõ chữ, số hoặc sử dụng chất liệu khác sơn, dán lên chữ, số của biển số xe; gắn biển số bị bẻ cong, che lấp, làm thay đổi chữ, số, màu sắc (của chữ, số, nền biển số xe), hình dạng, kích thước của biển số xe (kể cả rơ moóc và sơ mi rơ moóc)"
+        "Điều khiển xe không gắn đủ biển số hoặc gắn biển số không đúng vị trí, không đúng quy cách theo quy định; gắn biển số không rõ chữ, số hoặc sử dụng chất liệu khác sơn, dán lên chữ, số của biển số xe; gắn biển số bị bẻ cong, che lấp, làm thay đổi chữ, số, màu sắc (của chữ, số, nền biển số xe), hình dạng, kích thước của biển số xe (kể cả rơ moóc và sơ mi rơ moóc) (ô tô)"
       ]
     },
     {
@@ -344,6 +354,7 @@
       "category": "ô tô",
       "mức_phạt": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng",
       "nội_dung": [
+        "Điều khiển xe ô tô kinh doanh vận tải hành khách lắp thêm hoặc tháo bớt ghế, giường nằm hoặc có kích thước khoang chở hành lý (hầm xe) không đúng với thông số kỹ thuật được ghi trong giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe.",
         "Điều khiển xe không lắp đủ bánh lốp hoặc lắp bánh lốp không đúng kích cỡ hoặc không bảo đảm tiêu chuẩn kỹ thuật (kế cả rơ moóc và sơ mi rơ moóc) (ô tô)",
         "Điều khiển xe lắp thêm đèn phía trước, phía sau, trên nóc, dưới gầm, một hoặc cả hai bên thành xe, trừ đèn sương mù dạng rời được lắp theo quy định (ô tô)",
         "Hệ thống chuyển hướng không đúng tiêu chuẩn (ô tô)",
@@ -365,6 +376,7 @@
       "category": "ô tô",
       "mức_phạt": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng",
       "nội_dung": [
+        "Có giấy phép lái xe nhưng đã hết hạn sử dụng dưới 01 năm (ô tô)",
         "Đối với người từ đủ 16 tuổi đến dưới 18 tuổi điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô. (ô tô)",
         "Sử dụng chứng nhận đăng ký xe, giấy chứng nhận, tem kiểm định không do cơ quan có thẩm quyền cấp/bị tẩy xóa/không đúng số khung, số máy (ô tô)",
         "Không có giấy chứng nhận/tem kiểm định an toàn kỹ thuật và bảo vệ môi trường hoặc hết hiệu lực từ 1 tháng trở lên (ô tô)"
@@ -374,6 +386,7 @@
       "category": "ô tô",
       "mức_phạt": "Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng",
       "nội_dung": [
+        "Điều khiển xe (kể cả rơ moóc và sơ mi rơ moóc) không gắn biển số (đối với loại xe có quy định phải gắn biển số) (ô tô)",
         "Điều khiển xe đăng ký tạm thời, xe có phạm vi hoạt động hạn chế vượt quá phạm vi, tuyến đường, thời hạn (ô tô)",
         "Không gắn biển số (ô tô)"
       ]
@@ -473,6 +486,7 @@
       "category": "ô tô",
       "mức_phạt": "Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng - Điều kiện người lái xe",
       "nội_dung": [
+        "Có giấy phép lái xe nhưng không phù hợp với loại xe đang điều khiển hoặc có giấy phép lái xe nhưng đã hết hạn sử dụng từ 01 năm trở lên (ô tô)",
         "Có giấy phép lái xe nhưng đã hết hạn sử dụng dưới 01 năm (ô tô)",
         "Có giấy phép lái xe quốc tế do các nước tham gia Công ước 1968 cấp nhưng không mang theo giấy phép lái xe quốc gia phù hợp (ô tô)",
         "Sử dụng giấy phép lái xe không hợp lệ (ô tô)",
@@ -485,15 +499,8 @@
       "nội_dung": [
         "Có giấy phép lái xe nhưng không phù hợp với loại xe đang điều khiển (ô tô)",
         "Có giấy phép lái xe nhưng đã hết hạn sử dụng từ 01 năm trở lên (ô tô)",
-        "Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm (ô tô)",
+        "Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực. (ô tô)",
         "Sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực (ô tô)"
-      ]
-    },
-    {
-      "category": "ô tô",
-      "mức_phạt": "Trừ 02 điểm giấy phép lái xe",
-      "nội_dung": [
-        "Sử dụng giấy phép lái xe không hợp lệ (ô tô)"
       ]
     },
     {
@@ -607,7 +614,7 @@
       "mức_phạt": "Trừ 04 điểm giấy phép lái xe",
       "nội_dung": [
         "Chở quá số người quy định (ô tô chở hành khách, ô tô chở người)",
-        "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông (ô tô)"
+        "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông (ô tô chở hành khách, ô tô chở người)"
       ]
     },
     {
